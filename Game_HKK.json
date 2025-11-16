@@ -1,6 +1,6 @@
 {
   "name": "HKK",
-  "menuBackgroundImage": "https://tarsasjatekok.com/images/boardgame_image/profile_xlarge/5/59/596/59650.jpg",
+  "menuBackgroundImage": "https://cdnb.artstation.com/p/assets/images/images/020/955/133/large/gergely-nagy-03-kenon-a-karhozott.jpg?1761806446",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": ""
@@ -8,7 +8,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://github.com/Aroddn/HKK-TCG-Arena/blob/main/CardList.json",
+    "dataUrl": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/main/CardList.json",
     "cardBack": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Csaszarvaros.jpg"
   },
   "deckBuilding": {
