@@ -1,0 +1,704 @@
+{
+  "1": {
+    "id": "1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": "0",
+        "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/A%20b%C3%A9ke%20megszak%C3%ADt%C3%A1sa.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Csaszarvaros.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "A béke megszakítása(alfa)",
+    "type": false,
+    "cost": 0
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/A%20f%C5%91nix%20t%C3%BCze.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Csaszarvaros.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "A főnix tüze",
+    "type": false,
+    "cost": 0
+  },
+  "3": {
+    "id": "3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A keresés lángja",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/A%20keres%C3%A9s%20l%C3%A1ngja.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "A keresés lángja",
+    "type": false,
+    "cost": 0
+  },
+  "4": {
+    "id": "4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Angyali közbelépés",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Angyali%20k%C3%B6zbel%C3%A9p%C3%A9s.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Angyali közbelépés",
+    "type": false,
+    "cost": 0
+  },
+	"5": {
+	  "id": "5",
+	  "isToken": false,
+	  "face": {
+		"front": {
+		  "name": "Apró gömbvillám",
+		  "type": false,
+		  "cost": 0,
+		  "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Apr%C3%B3%20g%C3%B6mbvill%C3%A1m.jpg",
+		  "isHorizontal": false
+		}
+	  },
+	  "name": "Apró gömbvillám",
+	  "type": false,
+	  "cost": 0
+	},
+"6": {
+  "id": "6",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Aranymetszés",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Aranymetsz%C3%A9s.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Aranymetszés",
+  "type": false,
+  "cost": 0
+},
+"7": {
+  "id": "7",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Az angyalgárda parancsnoka",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Az%20angyalg%C3%A1rda%20parancsnoka.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Az angyalgárda parancsnoka",
+  "type": false,
+  "cost": 0
+},
+"8": {
+  "id": "8",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Az istenek sóhaja",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Az%20istenek%20s%C3%B3haja.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Az istenek sóhaja",
+  "type": false,
+  "cost": 0
+},
+"9": {
+  "id": "9",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Baltazár a behemót",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Baltaz%C3%A1r%20a%20behem%C3%B3t.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Baltazár a behemót",
+  "type": false,
+  "cost": 0
+},
+"10": {
+  "id": "10",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Bestiák mestere",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Besti%C3%A1k%20mestere.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Bestiák mestere",
+  "type": false,
+  "cost": 0
+},
+"11": {
+  "id": "11",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dornodon követője",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Dornodon%20k%C3%B6vet%C5%91je.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dornodon követője",
+  "type": false,
+  "cost": 0
+},
+"12": {
+  "id": "12",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dornodon küldetése",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Dornodon%20k%C3%BCldet%C3%A9se.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dornodon küldetése",
+  "type": false,
+  "cost": 0
+},
+"13": {
+  "id": "13",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Durrantó",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Durrant%C3%B3.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Durrantó",
+  "type": false,
+  "cost": 0
+},
+"14": {
+  "id": "14",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Ehknagorhu",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Ehknagorhu.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Ehknagorhu",
+  "type": false,
+  "cost": 0
+},
+"15": {
+  "id": "15",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Ezüstsereg",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Ez%C3%BCstsereg.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Ezüstsereg",
+  "type": false,
+  "cost": 0
+},
+"16": {
+  "id": "16",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Fenyőőr manó",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Feny%C5%91%C5%91r%20man%C3%B3.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Fenyőőr manó",
+  "type": false,
+  "cost": 0
+},
+"17": {
+  "id": "17",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Hendiala cselszövése",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Hendiala%20cselsz%C3%B6v%C3%A9se.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Hendiala cselszövése",
+  "type": false,
+  "cost": 0
+},
+"18": {
+  "id": "18",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Hógriff",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/H%C3%B3griff.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Hógriff",
+  "type": false,
+  "cost": 0
+},
+"19": {
+  "id": "19",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Hópárduc",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/H%C3%B3p%C3%A1rduc.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Hópárduc",
+  "type": false,
+  "cost": 0
+},
+"20": {
+  "id": "20",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Isteni átok",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Isteni%20%C3%A1tok.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Isteni átok",
+  "type": false,
+  "cost": 0
+},
+"21": {
+  "id": "21",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Izzó fókusz",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Izz%C3%B3%20f%C3%B3kusz.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Izzó fókusz",
+  "type": false,
+  "cost": 0
+},
+"22": {
+  "id": "22",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Kézrátétel",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/K%C3%A9zr%C3%A1t%C3%A9tel.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Kézrátétel",
+  "type": false,
+  "cost": 0
+},
+"23": {
+  "id": "23",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Kisebb angyal",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Kisebb%20angyal.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Kisebb angyal",
+  "type": false,
+  "cost": 0
+},
+"24": {
+  "id": "24",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Kutatóosztag-parancsnok",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Kutat%C3%B3osztag-parancsnok.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Kutatóosztag-parancsnok",
+  "type": false,
+  "cost": 0
+},
+"25": {
+  "id": "25",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Lángtenger",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/L%C3%A1ngtenger.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Lángtenger",
+  "type": false,
+  "cost": 0
+},
+"26": {
+  "id": "26",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Macskapárduc",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Macskap%C3%A1rduc.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Macskapárduc",
+  "type": false,
+  "cost": 0
+},
+"27": {
+  "id": "27",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Morin tigris",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Morin%20tigris.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Morin tigris",
+  "type": false,
+  "cost": 0
+},
+"28": {
+  "id": "28",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Öröktűz",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/%C3%96r%C3%B6kt%C5%B1z.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Öröktűz",
+  "type": false,
+  "cost": 0
+},
+"29": {
+  "id": "29",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Raia követője",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Raia%20k%C3%B6vet%C5%91je.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Raia követője",
+  "type": false,
+  "cost": 0
+},
+"30": {
+  "id": "30",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sárkányfőnix",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/S%C3%A1rk%C3%A1nyf%C5%91nix.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sárkányfőnix",
+  "type": false,
+  "cost": 0
+},
+"31": {
+  "id": "31",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Shomori tűzmágia",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Shomori%20t%C5%B1zm%C3%A1gia.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Shomori tűzmágia",
+  "type": false,
+  "cost": 0
+},
+"32": {
+  "id": "32",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Smaragdsörényű pegazus",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Smaragds%C3%B6r%C3%A9ny%C5%B1%20pegazus.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Smaragdsörényű pegazus",
+  "type": false,
+  "cost": 0
+},
+"33": {
+  "id": "33",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sportszerűség",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Sportszer%C5%B1s%C3%A9g.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sportszerűség",
+  "type": false,
+  "cost": 0
+},
+"34": {
+  "id": "34",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Szerencsesárkány",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Szerencses%C3%A1rk%C3%A1ny.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Szerencsesárkány",
+  "type": false,
+  "cost": 0
+},
+"35": {
+  "id": "35",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Szikra",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Szikra.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Szikra",
+  "type": false,
+  "cost": 0
+},
+"36": {
+  "id": "36",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Thempi gyógymód",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Thempi%20gy%C3%B3gym%C3%B3d.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Thempi gyógymód",
+  "type": false,
+  "cost": 0
+},
+"37": {
+  "id": "37",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tigroszlán",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Tigroszl%C3%A1n.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tigroszlán",
+  "type": false,
+  "cost": 0
+},
+"38": {
+  "id": "38",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Timera makacskodása",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Timera%20makacskod%C3%A1sa.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Timera makacskodása",
+  "type": false,
+  "cost": 0
+},
+"39": {
+  "id": "39",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tollaskígyó",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Tollask%C3%ADgy%C3%B3.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tollaskígyó",
+  "type": false,
+  "cost": 0
+},
+"40": {
+  "id": "40",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tündöklő griff",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/T%C3%BCnd%C3%B6kl%C5%91%20griff.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tündöklő griff",
+  "type": false,
+  "cost": 0
+},
+"41": {
+  "id": "41",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tűzbéka",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/T%C5%B1zb%C3%A9ka.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tűzbéka",
+  "type": false,
+  "cost": 0
+},
+"42": {
+  "id": "42",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Varázsenergia",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Var%C3%A1zsenergia.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Varázsenergia",
+  "type": false,
+  "cost": 0
+},
+"43": {
+  "id": "43",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Zafírsörényű pegazus",
+      "type": false,
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Zaf%C3%ADrs%C3%B6r%C3%A9ny%C5%B1%20pegazus.jpg",
+      "isHorizontal": false
+    }
+  },
+  "name": "Zafírsörényű pegazus",
+  "type": false,
+  "cost": 0
+}
+}
