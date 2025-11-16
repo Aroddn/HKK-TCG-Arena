@@ -22,7 +22,7 @@
     ]
   },
   "gameplay": {
-    "Classic": {
+    "Hagyományos": {
       "mulligan": {
         "info": "",
         "startingHandSize": "5",
