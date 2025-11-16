@@ -1,6 +1,6 @@
 {
   "name": "HKK",
-  "menuBackgroundImage": "",
+  "menuBackgroundImage": "https://tarsasjatekok.com/images/boardgame_image/profile_xlarge/5/59/596/59650.jpg",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": ""
@@ -13,16 +13,22 @@
   },
   "deckBuilding": {
     "mainFilters": [],
-    "formats": []
+    "formats": [
+      {
+        "title": "Hagyományos",
+        "gameplay": "",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
       "mulligan": {
         "info": "",
-        "startingHandSize": 7,
+        "startingHandSize": "5",
         "drawNewHand": true,
         "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
+        "drawNewSelectedCards": true
       },
       "newTurn": {
         "drawOnStart": false,
@@ -33,37 +39,122 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        0
+        "20",
+        "0"
       ],
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Mana"
+          "Őrposzt",
+          "Követő/Szabálylap",
+          "Egyéb",
+          "Tartalék"
         ],
         "layout": {
-          "direction": "row",
+          "direction": "column",
           "isSymetricalForOpponents": false,
-          "content": []
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Követő/Szabálylap",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Őrposzt",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Egyéb",
+                  "style": false
+                },
+                {
+                  "section": "Tartalék",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Mana": {
-            "title": "Mana",
+          "Őrposzt": {
+            "title": "Őrposzt",
             "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
-            "displayedTitle": "Ressources",
+            "displayedTitle": "",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": false
+          },
+          "Tartalék": {
+            "title": "Tartalék",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Egyéb": {
+            "title": "Egyéb",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Követő/Szabálylap": {
+            "title": "Követő/Szabálylap",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
           }
         }
       }
