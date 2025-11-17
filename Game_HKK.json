@@ -36,8 +36,201 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
-      "defaultNotes": "Max ÉP: 20Max VP: 20Szörny komponens",
-      "tokens": [],
+      "defaultNotes": "Max ÉP: 20 Max VP: 20 Szörny komponens",
+      "tokens": [
+        {
+          "name": "A köd gyermeke",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=6840&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Animált csontváz",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7352&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Apró bűbáj",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11506&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=255",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Burástyakölyök (új)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=8950&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Chara-din fattya (új)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=4154&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Csatornapatkány",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=8562&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Csattogó krabber (új)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=8568&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Dobótőr (új)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7364&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=170",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Elektrogömb",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7883&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=187",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Energiafaló",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9774&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=218",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Fekete özvegy (2025)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11505&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=255",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Főnix fióka (2020)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9146&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Ganüid ifjonc (2018)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=8531&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Gólem szilánk",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7637&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Haldokló quwarg (2025)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11510&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=255",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Jégcsap",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=10719&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=230",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Kerubocska (2025)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11508&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=255",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Kisebb angyal (2021)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9773&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=218",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Mhorg",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=6852&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Moa torpedó (új)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=6578&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Motyogó kölyök",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7644&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Nekromanta csontváz (2025)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11507&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=255",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Nyomorult quwarg (2019)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7654&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Orgling kártevő (2019)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7657&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Ork harcos (10.)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=8326&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=195",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Rhatt ereklyéje",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11514&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=255",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Rambó bogár (új)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7665&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Szellemszolga (2020NB)",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9746&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=168",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Tókenfaló",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11511&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=255",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Torpor",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11509&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=255",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Wyvern",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7906&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Xenó parazita",
+          "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=8066&behoCK=982750446e405424602bbbb89c7a664eb7988474",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        }
+      ],
       "countersStartingValues": [
         "20",
         "0"
@@ -108,6 +301,126 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed hidden",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sideboard": {
+            "isDefaultSection": true,
+            "title": "Sideboard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
           "Őrposzt": {
             "title": "Őrposzt",
             "isHidden": "yes",
