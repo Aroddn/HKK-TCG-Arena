@@ -423,7 +423,7 @@
           },
           "Őrposzt": {
             "title": "Őrposzt",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
