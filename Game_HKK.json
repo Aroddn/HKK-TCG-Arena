@@ -47,8 +47,10 @@
         "customSections": [
           "Őrposzt",
           "Követő/Szabálylap",
-          "Egyéb",
-          "Tartalék"
+          "Reakciócsata",
+          "Tartalék",
+          "Építmény",
+          "Bűbáj"
         ],
         "layout": {
           "direction": "column",
