@@ -36,7 +36,7 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
-      "defaultNotes": "",
+      "defaultNotes": "Max ÉP: 20Max VP: 20Szörny komponens",
       "tokens": [],
       "countersStartingValues": [
         "20",
@@ -61,12 +61,18 @@
                 {
                   "section": "Követő/Szabálylap",
                   "style": {
-                    "width": "15vh"
+                    "width": "40vh"
                   }
                 },
                 {
                   "section": "Őrposzt",
                   "style": false
+                },
+                {
+                  "section": "Reakciócsata",
+                  "style": {
+                    "width": "40vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -76,12 +82,20 @@
               "style": false,
               "content": [
                 {
-                  "section": "Egyéb",
-                  "style": false
+                  "section": "Bűbáj",
+                  "style": {
+                    "width": "40vh"
+                  }
                 },
                 {
                   "section": "Tartalék",
                   "style": false
+                },
+                {
+                  "section": "Építmény",
+                  "style": {
+                    "width": "40vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
