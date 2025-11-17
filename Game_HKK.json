@@ -36,18 +36,18 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
-      "defaultNotes": "Max ÉP: 20 Max VP: 20 Szörny komponens",
+      "defaultNotes": "Max ÉP: 20\nMax VP: 20\nSzörny komponens",
       "tokens": [],
       "countersStartingValues": [
         "20",
         "0",
-        0
+        "0"
       ],
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
           "Őrposzt",
-          "Követő/Szabálylap",
+          "Követő",
           "Reakciócsata",
           "Tartalék",
           "Építmény",
@@ -62,7 +62,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "Követő/Szabálylap",
+                  "section": "Követő",
                   "style": {
                     "width": "40vh"
                   }
@@ -264,8 +264,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Követő/Szabálylap": {
-            "title": "Követő/Szabálylap",
+          "Követő": {
+            "title": "Követő",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
