@@ -2107,7 +2107,7 @@
     "Kiegészítő": "Gigászok"
   },
   "125": {
-    "id": "11307",
+    "id": "125",
     "isToken": false,
     "face": {
       "front": {
@@ -2634,7 +2634,7 @@
     "Kiegészítő": "Gigászok"
   },
   "156": {
-    "id": "158",
+    "id": "156",
     "isToken": false,
     "face": {
       "front": {
@@ -24850,5 +24850,685 @@
     "type": "\u00C9p\u00EDtm\u00E9ny",
     "cost": 0,
     "Kieg\u00E9sz\u00EDt\u0151": "Egy\u00E9b"
+  },
+  "1463": {
+    "id": "1463",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A k\u00F6d gyermeke",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=6840\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A k\u00F6d gyermeke",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1464": {
+    "id": "1464",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anim\u00E1lt csontv\u00E1z",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7352\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anim\u00E1lt csontv\u00E1z",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1465": {
+    "id": "1465",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bur\u00E1styak\u00F6ly\u00F6k (\u00FAj)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=8950\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bur\u00E1styak\u00F6ly\u00F6k (\u00FAj)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1466": {
+    "id": "1466",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chara-din fattya (\u00FAj)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=4154\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chara-din fattya (\u00FAj)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1467": {
+    "id": "1467",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Csatornapatk\u00E1ny",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=8562\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Csatornapatk\u00E1ny",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1468": {
+    "id": "1468",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Csattog\u00F3 krabber (\u00FAj)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=8568\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Csattog\u00F3 krabber (\u00FAj)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1469": {
+    "id": "1469",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elektrog\u00F6mb",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7883\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elektrog\u00F6mb",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1470": {
+    "id": "1470",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energiafal\u00F3",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9774\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energiafal\u00F3",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1471": {
+    "id": "1471",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fekete \u00F6zvegy (2025)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11505\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fekete \u00F6zvegy (2025)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1472": {
+    "id": "1472",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "F\u0151nix fi\u00F3ka (2020)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9146\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "F\u0151nix fi\u00F3ka (2020)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1473": {
+    "id": "1473",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gan\u00FCid ifjonc (2018)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=8531\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gan\u00FCid ifjonc (2018)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1474": {
+    "id": "1474",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "G\u00F3lem szil\u00E1nk",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7637\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "G\u00F3lem szil\u00E1nk",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1475": {
+    "id": "1475",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Haldokl\u00F3 quwarg (2025)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11510\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Haldokl\u00F3 quwarg (2025)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1476": {
+    "id": "1476",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kerubocska (2025)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11508\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kerubocska (2025)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1477": {
+    "id": "1477",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kisebb angyal (2025)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11512\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kisebb angyal (2025)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1478": {
+    "id": "1478",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mhorg",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=6852\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mhorg",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1479": {
+    "id": "1479",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Motyog\u00F3 k\u00F6ly\u00F6k (2020)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9156\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Motyog\u00F3 k\u00F6ly\u00F6k (2020)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1480": {
+    "id": "1480",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nekromanta csontv\u00E1z (2025)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11507\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nekromanta csontv\u00E1z (2025)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1481": {
+    "id": "1481",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nyomorult quwarg (2019)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7654\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nyomorult quwarg (2019)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1482": {
+    "id": "1482",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orgling k\u00E1rtev\u0151 (2019)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7657\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orgling k\u00E1rtev\u0151 (2019)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1483": {
+    "id": "1483",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ork harcos (10.)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=8326\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ork harcos (10.)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1484": {
+    "id": "1484",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ramb\u00F3 bog\u00E1r (\u00FAj)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7665\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ramb\u00F3 bog\u00E1r (\u00FAj)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1485": {
+    "id": "1485",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rhatt erekly\u00E9je",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11514\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rhatt erekly\u00E9je",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1486": {
+    "id": "1486",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "T\u00F3kenfal\u00F3",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11511\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "T\u00F3kenfal\u00F3",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1487": {
+    "id": "1487",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Szellemszolga (2020NB)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9746\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Szellemszolga (2020NB)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1488": {
+    "id": "1488",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Torpor",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11509\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Torpor",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1489": {
+    "id": "1489",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wyvern",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7906\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wyvern",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1490": {
+    "id": "1490",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Xen\u00F3 parazita",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=8066\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xen\u00F3 parazita",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1491": {
+    "id": "1491",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "D\u00E9monfatty",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=10972\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "D\u00E9monfatty",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1492": {
+    "id": "1492",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kobudera (2023)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=10459\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kobudera (2023)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1493": {
+    "id": "1493",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "K\u0151g\u00F3lem (2023)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=10452\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "K\u0151g\u00F3lem (2023)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1494": {
+    "id": "1494",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pirkitg\u00F3lem",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=10443\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pirkitg\u00F3lem",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1495": {
+    "id": "1495",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "L\u00E1rva (2022)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9809\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "L\u00E1rva (2022)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1496": {
+    "id": "1496",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\u00D3ri\u00E1s hatty\u00FA (2023)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=10299\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "\u00D3ri\u00E1s hatty\u00FA (2023)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1497": {
+    "id": "1497",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dob\u00F3t\u0151r (2020)",
+        "type": "T\u00E1rgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9187\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dob\u00F3t\u0151r (2020)",
+    "type": "T\u00E1rgy",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1498": {
+    "id": "1498",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dob\u00F3t\u0151r (\u00FAj)",
+        "type": "T\u00E1rgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=7364\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dob\u00F3t\u0151r (\u00FAj)",
+    "type": "T\u00E1rgy",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1499": {
+    "id": "1499",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "J\u00E9gcsap",
+        "type": "T\u00E1rgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=10719\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "J\u00E9gcsap",
+    "type": "T\u00E1rgy",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1500": {
+    "id": "1500",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moa torped\u00F3 (\u00FAj)",
+        "type": "T\u00E1rgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=6578\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moa torped\u00F3 (\u00FAj)",
+    "type": "T\u00E1rgy",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1501": {
+    "id": "1501",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "J\u00E9gdiszkosz (2025)",
+        "type": "T\u00E1rgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11083\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "J\u00E9gdiszkosz (2025)",
+    "type": "T\u00E1rgy",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
+  },
+  "1502": {
+    "id": "1502",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Apr\u00F3 b\u0171b\u00E1j",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11506\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Apr\u00F3 b\u0171b\u00E1j",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Termelt lap"
   }
 }
