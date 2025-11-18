@@ -934,14 +934,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fönnyasztás",
+        "name": "Fonnyasztás",
         "type": "Varázslat",
         "cost": 0,
         "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11273&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
         "isHorizontal": false
       }
     },
-    "name": "Fönnyasztás",
+    "name": "Fonnyasztás",
     "type": "Varázslat",
     "cost": 0,
     "Kiegészítő": "Gigászok"
@@ -1036,14 +1036,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Létűnt idők",
+        "name": "Letűnt idők",
         "type": "Varázslat",
         "cost": 0,
         "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11289&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
         "isHorizontal": false
       }
     },
-    "name": "Létűnt idők",
+    "name": "Letűnt idők",
     "type": "Varázslat",
     "cost": 0,
     "Kiegészítő": "Gigászok"
@@ -1172,14 +1172,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Agyrem",
+        "name": "Agyrém",
         "type": "Lény",
         "cost": 0,
         "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11394&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
         "isHorizontal": false
       }
     },
-    "name": "Agyrem",
+    "name": "Agyrém",
     "type": "Lény",
     "cost": 0,
     "Kiegészítő": "Gigászok"
@@ -1275,14 +1275,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Árnyfonix",
+        "name": "Árnyfőnix",
         "type": "Lény",
         "cost": 0,
         "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11302&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
         "isHorizontal": false
       }
     },
-    "name": "Árnyfonix",
+    "name": "Árnyfőnix",
     "type": "Lény",
     "cost": 0,
     "Kiegészítő": "Gigászok"
@@ -1326,14 +1326,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Beléző (2025)",
+        "name": "Belező (2025)",
         "type": "Lény",
         "cost": 0,
         "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11332&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
         "isHorizontal": false
       }
     },
-    "name": "Beléző (2025)",
+    "name": "Belező (2025)",
     "type": "Lény",
     "cost": 0,
     "Kiegészítő": "Gigászok"
@@ -1401,7 +1401,7 @@
         "isHorizontal": false
       }
     },
-    "name": "83",
+    "name": "Bohóc",
     "type": "Lény",
     "cost": 0,
     "Kiegészítő": "Gigászok"
@@ -1548,14 +1548,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Drusilla, az elsősülött",
+        "name": "Drusilla, az elsőszülött",
         "type": "Lény",
         "cost": 0,
         "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11365&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
         "isHorizontal": false
       }
     },
-    "name": "Drusilla, az elsősülött",
+    "name": "Drusilla, az elsőszülött",
     "type": "Lény",
     "cost": 0,
     "Kiegészítő": "Gigászok"
@@ -1889,14 +1889,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jadególem",
+        "name": "Jádególem",
         "type": "Lény",
         "cost": 0,
         "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11261&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
         "isHorizontal": false
       }
     },
-    "name": "Jadególem",
+    "name": "Jádególem",
     "type": "Lény",
     "cost": 0,
     "Kiegészítő": "Gigászok"
@@ -2332,14 +2332,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Öngoliánt légiós (2025)",
+        "name": "Ongóliant légiós (2025)",
         "type": "Lény",
         "cost": 0,
         "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11285&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
         "isHorizontal": false
       }
     },
-    "name": "Öngoliánt légiós (2025)",
+    "name": "Ongóliant légiós (2025)",
     "type": "Lény",
     "cost": 0,
     "Kiegészítő": "Gigászok"
@@ -2502,14 +2502,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Quwarg megatródon (2025)",
+        "name": "Quwarg megatrodon (2025)",
         "type": "Lény",
         "cost": 0,
         "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11303&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
         "isHorizontal": false
       }
     },
-    "name": "Quwarg megatródon (2025)",
+    "name": "Quwarg megatrodon (2025)",
     "type": "Lény",
     "cost": 0,
     "Kiegészítő": "Gigászok"
@@ -2553,14 +2553,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Savoriás",
+        "name": "Savóriás",
         "type": "Lény",
         "cost": 0,
         "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11406&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
         "isHorizontal": false
       }
     },
-    "name": "Savoriás",
+    "name": "Savóriás",
     "type": "Lény",
     "cost": 0,
     "Kiegészítő": "Gigászok"
@@ -2825,14 +2825,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Zöld nyalka (2025)",
+        "name": "Zöld nyálka (2025)",
         "type": "Lény",
         "cost": 0,
         "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11387&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
         "isHorizontal": false
       }
     },
-    "name": "Zöld nyalka (2025)",
+    "name": "Zöld nyálka (2025)",
     "type": "Lény",
     "cost": 0,
     "Kiegészítő": "Gigászok"
