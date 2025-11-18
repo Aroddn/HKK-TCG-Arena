@@ -51,7 +51,8 @@
           "Reakciócsata",
           "Tartalék",
           "Építmény",
-          "Bűbáj"
+          "Bűbáj",
+          "Szabálylap"
         ],
         "layout": {
           "direction": "column",
