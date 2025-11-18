@@ -36,8 +36,30 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
-      "defaultNotes": "Max ÉP: 20Max VP: 20",
+      "defaultNotes": "Max ÉP: 20\nMax VP: 20",
       "tokens": [],
+	  "draggableTokens": [
+        {
+          "id": "Orange",
+          "name": "Orange token",
+          "image": "https://valcur.github.io/TCG-Arena-MTG/Images/Tokens/Orange.png"
+        },
+        {
+          "id": "Méreg",
+          "name": "Méreg jelző",
+          "image": "https://valcur.github.io/TCG-Arena-MTG/Images/Tokens/Green.png"
+        },
+        {
+          "id": "Blue",
+          "name": "Blue token",
+          "image": "https://valcur.github.io/TCG-Arena-MTG/Images/Tokens/Blue.png"
+        },
+        {
+          "id": "Purple",
+          "name": "Purple token",
+          "image": "https://valcur.github.io/TCG-Arena-MTG/Images/Tokens/Purple.png"
+        }
+      ],
       "countersStartingValues": [
         "20",
         "0",
