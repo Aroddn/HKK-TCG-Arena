@@ -36,7 +36,7 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
-      "defaultNotes": "Max ÉP: 20\nMax VP: 20\nSzörny komponens",
+      "defaultNotes": "Max ÉP: 20Max VP: 20",
       "tokens": [],
       "countersStartingValues": [
         "20",
@@ -64,7 +64,13 @@
                 {
                   "section": "Követő",
                   "style": {
-                    "width": "40vh"
+                    "width": "20vh"
+                  }
+                },
+                {
+                  "section": "Szabálylap",
+                  "style": {
+                    "width": "20vh"
                   }
                 },
                 {
@@ -314,6 +320,22 @@
           },
           "Bűbáj": {
             "title": "Bűbáj",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Szabálylap": {
+            "title": "Szabálylap",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
