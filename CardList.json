@@ -30547,16 +30547,16 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "H\u00EDv\u00F3 k\u00FCrt (\u00FAj)",
-        "type": "T\u00E1rgy",
+        "name": "Kártékony élősködő (2022)",
+        "type": "Lény",
         "cost": 0,
-        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=8716\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9853\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
         "isHorizontal": false
       }
     },
-    "name": "H\u00EDv\u00F3 k\u00FCrt (\u00FAj)",
-    "type": "T\u00E1rgy",
+    "name": "Kártékony élősködő (2022)",
+    "type": "Lény",
     "cost": 0,
-    "Kieg\u00E9sz\u00EDt\u0151": "Egy\u00E9b"
+    "Kieg\u00E9sz\u00EDt\u0151": "Roxat céhei"
   }
 }
