@@ -6,7 +6,7 @@
     "decksUrl": ""
   },
   "customHelp": "",
-  "cardRotation": 45,
+  "cardRotation": 90,
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/main/CardList.json",
     "cardBack": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/IMG/Csaszarvaros.jpg"
@@ -36,7 +36,7 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
-      "defaultNotes": "Max ÉP: 20\nMax VP: 20",
+      "defaultNotes": "Max ÉP: 20\nMax VP: 20\nEllenfél Max ÉP: 20\nEllenfél Max VP: 20",
       "tokens": [],
 	  "draggableTokens": [
         {

@@ -30558,5 +30558,2776 @@
     "type": "Lény",
     "cost": 0,
     "Kieg\u00E9sz\u00EDt\u0151": "Roxat céhei"
+  },
+  "1799": {
+    "id": "1799",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akad\u00E9mia (2026)",
+        "type": "\u00C9p\u00EDtm\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11651\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akad\u00E9mia (2026)",
+    "type": "\u00C9p\u00EDtm\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1800": {
+    "id": "1800",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\u00C1lomhaj\u00F3",
+        "type": "\u00C9p\u00EDtm\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11598\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "\u00C1lomhaj\u00F3",
+    "type": "\u00C9p\u00EDtm\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1801": {
+    "id": "1801",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cs\u00E1sz\u00E1ri g\u00E1lya",
+        "type": "\u00C9p\u00EDtm\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11606\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cs\u00E1sz\u00E1ri g\u00E1lya",
+    "type": "\u00C9p\u00EDtm\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1802": {
+    "id": "1802",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daes Mo\u0027ran tutaja",
+        "type": "\u00C9p\u00EDtm\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11555\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daes Mo\u0027ran tutaja",
+    "type": "\u00C9p\u00EDtm\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1803": {
+    "id": "1803",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dar\u00E1zsf\u00E9szek",
+        "type": "\u00C9p\u00EDtm\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11601\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dar\u00E1zsf\u00E9szek",
+    "type": "\u00C9p\u00EDtm\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1804": {
+    "id": "1804",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kh\u00F3r b\u00E1rk\u00E1ja",
+        "type": "\u00C9p\u00EDtm\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11625\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kh\u00F3r b\u00E1rk\u00E1ja",
+    "type": "\u00C9p\u00EDtm\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1805": {
+    "id": "1805",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Korallkast\u00E9ly",
+        "type": "\u00C9p\u00EDtm\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11604\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Korallkast\u00E9ly",
+    "type": "\u00C9p\u00EDtm\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1806": {
+    "id": "1806",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "K\u00F6dpalota (2026)",
+        "type": "\u00C9p\u00EDtm\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11599\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "K\u00F6dpalota (2026)",
+    "type": "\u00C9p\u00EDtm\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1807": {
+    "id": "1807",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "M\u00E1giat\u00F6r\u0151 barlang",
+        "type": "\u00C9p\u00EDtm\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11552\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "M\u00E1giat\u00F6r\u0151 barlang",
+    "type": "\u00C9p\u00EDtm\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1808": {
+    "id": "1808",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ork legendak\u0151 (2026)",
+        "type": "\u00C9p\u00EDtm\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11528\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ork legendak\u0151 (2026)",
+    "type": "\u00C9p\u00EDtm\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1809": {
+    "id": "1809",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rox ladikja",
+        "type": "\u00C9p\u00EDtm\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11539\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rox ladikja",
+    "type": "\u00C9p\u00EDtm\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1810": {
+    "id": "1810",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sz\u00F6rnyvad\u00E1sz haj\u00F3",
+        "type": "\u00C9p\u00EDtm\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11642\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sz\u00F6rnyvad\u00E1sz haj\u00F3",
+    "type": "\u00C9p\u00EDtm\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1811": {
+    "id": "1811",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Annihil\u00E1l\u00F3 bot",
+        "type": "T\u00E1rgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11537\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Annihil\u00E1l\u00F3 bot",
+    "type": "T\u00E1rgy",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1812": {
+    "id": "1812",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Duplik\u00E1tum (2026)",
+        "type": "T\u00E1rgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11571\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Duplik\u00E1tum (2026)",
+    "type": "T\u00E1rgy",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1813": {
+    "id": "1813",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Katana",
+        "type": "T\u00E1rgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11533\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Katana",
+    "type": "T\u00E1rgy",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1814": {
+    "id": "1814",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Man\u00F3 tekercsek (2026)",
+        "type": "T\u00E1rgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11546\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Man\u00F3 tekercsek (2026)",
+    "type": "T\u00E1rgy",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1815": {
+    "id": "1815",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mo\u0027khabut f\u00E9tis (2026)",
+        "type": "T\u00E1rgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11609\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mo\u0027khabut f\u00E9tis (2026)",
+    "type": "T\u00E1rgy",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1816": {
+    "id": "1816",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Morf talizm\u00E1n",
+        "type": "T\u00E1rgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11558\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morf talizm\u00E1n",
+    "type": "T\u00E1rgy",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1817": {
+    "id": "1817",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ong\u00F3liant bunk\u00F3",
+        "type": "T\u00E1rgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11610\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ong\u00F3liant bunk\u00F3",
+    "type": "T\u00E1rgy",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1818": {
+    "id": "1818",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ork amulett (2026)",
+        "type": "T\u00E1rgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11526\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ork amulett (2026)",
+    "type": "T\u00E1rgy",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1819": {
+    "id": "1819",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Az els\u0151 v\u00E1mp\u00EDr (2026)",
+        "type": "K\u00F6vet\u0151",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11559\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Az els\u0151 v\u00E1mp\u00EDr (2026)",
+    "type": "K\u00F6vet\u0151",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1820": {
+    "id": "1820",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fufuka, az \u00E1lomelf",
+        "type": "K\u00F6vet\u0151",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11560\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fufuka, az \u00E1lomelf",
+    "type": "K\u00F6vet\u0151",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1821": {
+    "id": "1821",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rox, a csontok ura (2026)",
+        "type": "K\u00F6vet\u0151",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11561\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rox, a csontok ura (2026)",
+    "type": "K\u00F6vet\u0151",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1822": {
+    "id": "1822",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "S\u00F6t\u00E9t manifeszt\u00E1ci\u00F3 (2026)",
+        "type": "K\u00F6vet\u0151",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11562\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "S\u00F6t\u00E9t manifeszt\u00E1ci\u00F3 (2026)",
+    "type": "K\u00F6vet\u0151",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1823": {
+    "id": "1823",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zuon, az aj\u00E1nd\u00E9koz\u00F3 (2026)",
+        "type": "K\u00F6vet\u0151",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11563\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zuon, az aj\u00E1nd\u00E9koz\u00F3 (2026)",
+    "type": "K\u00F6vet\u0151",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1824": {
+    "id": "1824",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A hull\u00E1mok \u00FArn\u0151je (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11575\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A hull\u00E1mok \u00FArn\u0151je (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1825": {
+    "id": "1825",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A legfels\u0151bb pap (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11564\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A legfels\u0151bb pap (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1826": {
+    "id": "1826",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A p\u00F3kok nagyasszonya (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11663\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A p\u00F3kok nagyasszonya (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1827": {
+    "id": "1827",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A szabads\u00E1g h\u00EDrn\u00F6ke",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11600\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A szabads\u00E1g h\u00EDrn\u00F6ke",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1828": {
+    "id": "1828",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alkimista tekn\u0151s",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11664\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alkimista tekn\u0151s",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1829": {
+    "id": "1829",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\u00C1lomsz\u00F6v\u0151 (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11576\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "\u00C1lomsz\u00F6v\u0151 (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1830": {
+    "id": "1830",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\u00C1rul\u00F3 Yathmog (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11613\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "\u00C1rul\u00F3 Yathmog (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1831": {
+    "id": "1831",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Az orkok \u00F6reganyja (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11570\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Az orkok \u00F6reganyja (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1832": {
+    "id": "1832",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azeloth",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11643\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azeloth",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1833": {
+    "id": "1833",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "B\u00FCntet\u0151 iszonyat (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11644\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "B\u00FCntet\u0151 iszonyat (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1834": {
+    "id": "1834",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cuki morf",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11518\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cuki morf",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1835": {
+    "id": "1835",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cyron (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11542\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cyron (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1836": {
+    "id": "1836",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "D\u00E9li naps\u00E1rk\u00E1ny (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11621\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "D\u00E9li naps\u00E1rk\u00E1ny (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1837": {
+    "id": "1837",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drakolder neg\u00E1tor (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11637\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drakolder neg\u00E1tor (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1838": {
+    "id": "1838",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dugorn, a yaurri m\u00EDtosz (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11622\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dugorn, a yaurri m\u00EDtosz (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1839": {
+    "id": "1839",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Durrant\u00F3 (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11623\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Durrant\u00F3 (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1840": {
+    "id": "1840",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dzsumbujharcos (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11548\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dzsumbujharcos (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1841": {
+    "id": "1841",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elemi morf",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11612\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elemi morf",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1842": {
+    "id": "1842",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\u00C9l\u0151holt v\u00E1ndor",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11646\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "\u00C9l\u0151holt v\u00E1ndor",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1843": {
+    "id": "1843",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elveszett griffmad\u00E1r",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11543\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elveszett griffmad\u00E1r",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1844": {
+    "id": "1844",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emberev\u0151 \u00F3ri\u00E1s (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11607\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emberev\u0151 \u00F3ri\u00E1s (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1845": {
+    "id": "1845",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "G\u00E1rdakapit\u00E1ny (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11672\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "G\u00E1rdakapit\u00E1ny (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1846": {
+    "id": "1846",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gig\u00E1szi csontg\u00F3lem",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11586\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gig\u00E1szi csontg\u00F3lem",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1847": {
+    "id": "1847",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goblin logisztikus (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11673\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goblin logisztikus (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1848": {
+    "id": "1848",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grexus, a nyolcadik (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11647\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grexus, a nyolcadik (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1849": {
+    "id": "1849",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gruk\u0027tar",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11624\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gruk\u0027tar",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1850": {
+    "id": "1850",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gy\u00E9m\u00E1nt\u00F6k\u00F6l",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11544\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gy\u00E9m\u00E1nt\u00F6k\u00F6l",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1851": {
+    "id": "1851",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hamvaszt\u00F3",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11525\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hamvaszt\u00F3",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1852": {
+    "id": "1852",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hev\u00EDt\u0151",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11545\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hev\u00EDt\u0151",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1853": {
+    "id": "1853",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Id\u00E9z\u0151 tekn\u0151s (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11666\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Id\u00E9z\u0151 tekn\u0151s (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1854": {
+    "id": "1854",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ifj\u00FA Dorka",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11583\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ifj\u00FA Dorka",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1855": {
+    "id": "1855",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "J\u00E9gkornis (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11667\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "J\u00E9gkornis (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1856": {
+    "id": "1856",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kaci, az \u00E1lomtolvaj",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11631\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kaci, az \u00E1lomtolvaj",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1857": {
+    "id": "1857",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "K\u00E1oszgoblin (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11674\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "K\u00E1oszgoblin (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1858": {
+    "id": "1858",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "K\u00E1oszgyilkos (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11614\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "K\u00E1oszgyilkos (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1859": {
+    "id": "1859",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kh\u00F3r (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11572\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kh\u00F3r (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1860": {
+    "id": "1860",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kontinuumfabrik\u00E1tor (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11615\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kontinuumfabrik\u00E1tor (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1861": {
+    "id": "1861",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "K\u0151\u00F3ri\u00E1s (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11675\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "K\u0151\u00F3ri\u00E1s (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1862": {
+    "id": "1862",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Krakoch csontv\u00E1z",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11648\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Krakoch csontv\u00E1z",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1863": {
+    "id": "1863",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kvaz\u00E1rs\u00F6r\u00E9ny\u0171 pegazus (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11616\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kvaz\u00E1rs\u00F6r\u00E9ny\u0171 pegazus (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1864": {
+    "id": "1864",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leskel\u0151d\u0151 (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11588\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leskel\u0151d\u0151 (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1865": {
+    "id": "1865",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lestinoh, a tekn\u0151s legenda (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11668\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lestinoh, a tekn\u0151s legenda (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1866": {
+    "id": "1866",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lunarisz, az \u00E9jszaka \u00FArn\u0151je",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11659\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lunarisz, az \u00E9jszaka \u00FArn\u0151je",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1867": {
+    "id": "1867",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lymona (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11565\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lymona (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1868": {
+    "id": "1868",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mang\u00F3, a csib\u00E9sz",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11632\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mang\u00F3, a csib\u00E9sz",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1869": {
+    "id": "1869",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Megrontott trikornis (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11594\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Megrontott trikornis (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1870": {
+    "id": "1870",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mennyd\u00F6rg\u0151 drakolder (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11641\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mennyd\u00F6rg\u0151 drakolder (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1871": {
+    "id": "1871",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mindegy",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11549\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mindegy",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1872": {
+    "id": "1872",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nekromanta csontmester (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11649\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nekromanta csontmester (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1873": {
+    "id": "1873",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ong\u00F3liant had\u00FAr (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12073\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ong\u00F3liant had\u00FAr (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1874": {
+    "id": "1874",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orgling b\u00E1ny\u00E1sz (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11522\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orgling b\u00E1ny\u00E1sz (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1875": {
+    "id": "1875",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orgling b\u0171zisten (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11617\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orgling b\u0171zisten (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1876": {
+    "id": "1876",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orgling kutya (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11566\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orgling kutya (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1877": {
+    "id": "1877",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orgling okkultista",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11618\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orgling okkultista",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1878": {
+    "id": "1878",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\u00D3ri\u00E1slajh\u00E1r (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11553\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "\u00D3ri\u00E1slajh\u00E1r (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1879": {
+    "id": "1879",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ork k\u00F6ly\u00F6k (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11527\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ork k\u00F6ly\u00F6k (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1880": {
+    "id": "1880",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orkant\u00F3, a puszt\u00EDt\u00F3 (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11626\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orkant\u00F3, a puszt\u00EDt\u00F3 (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1881": {
+    "id": "1881",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orkaudar (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11627\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orkaudar (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1882": {
+    "id": "1882",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ostoba ork",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11529\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ostoba ork",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1883": {
+    "id": "1883",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\u0150s\u00F6reg Dorka (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11584\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "\u0150s\u00F6reg Dorka (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1884": {
+    "id": "1884",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pajkos cs\u00F3va",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11532\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pajkos cs\u00F3va",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1885": {
+    "id": "1885",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phalthagore (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11633\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phalthagore (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1886": {
+    "id": "1886",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quwarg haj\u00F3\u00E9p\u00EDt\u0151",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11573\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quwarg haj\u00F3\u00E9p\u00EDt\u0151",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1887": {
+    "id": "1887",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raia szent f\u0151nixe",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11654\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raia szent f\u0151nixe",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1888": {
+    "id": "1888",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reinkarn\u00E1tor",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11628\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reinkarn\u00E1tor",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1889": {
+    "id": "1889",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "S\u00E1rk\u00E1ny matr\u00F3na (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11655\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "S\u00E1rk\u00E1ny matr\u00F3na (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1890": {
+    "id": "1890",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Semleges pegazus",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11534\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Semleges pegazus",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1891": {
+    "id": "1891",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Szi\u00E1mi csontv\u00E1z",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11589\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Szi\u00E1mi csontv\u00E1z",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1892": {
+    "id": "1892",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Szinati templom\u0151r (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11661\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Szinati templom\u0151r (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1893": {
+    "id": "1893",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sz\u0151ke herceg",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11580\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sz\u0151ke herceg",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1894": {
+    "id": "1894",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tekn\u0151s g\u00E1rdista (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11670\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tekn\u0151s g\u00E1rdista (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1895": {
+    "id": "1895",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tleikan r\u00E9meb (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11523\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tleikan r\u00E9meb (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1896": {
+    "id": "1896",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tombol\u00F3 fatty (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11524\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tombol\u00F3 fatty (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1897": {
+    "id": "1897",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Totyog\u00F3 thargling",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11619\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Totyog\u00F3 thargling",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1898": {
+    "id": "1898",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Toxikus sp\u00F3ra (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11554\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Toxikus sp\u00F3ra (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1899": {
+    "id": "1899",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Transzform\u00E1l\u00F3 goblin",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11676\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Transzform\u00E1l\u00F3 goblin",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1900": {
+    "id": "1900",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ts\u0027olzaan, a begy\u0171jt\u0151 (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11568\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ts\u0027olzaan, a begy\u0171jt\u0151 (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1901": {
+    "id": "1901",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "T\u0171zmad\u00E1r (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11634\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "T\u0171zmad\u00E1r (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1902": {
+    "id": "1902",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "T\u0171ztombol\u00F3 (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11635\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "T\u0171ztombol\u00F3 (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1903": {
+    "id": "1903",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tyz\u0027verxon reanim\u00E1tor (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11569\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tyz\u0027verxon reanim\u00E1tor (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1904": {
+    "id": "1904",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "V\u00E1mp\u00EDrd\u00E9mon (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11590\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "V\u00E1mp\u00EDrd\u00E9mon (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1905": {
+    "id": "1905",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "V\u00E1mp\u00EDreledel (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11540\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "V\u00E1mp\u00EDreledel (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1906": {
+    "id": "1906",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vill\u00E1mman\u00F3",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11535\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vill\u00E1mman\u00F3",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1907": {
+    "id": "1907",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "V\u00EDztiszt\u00EDt\u00F3 tekn\u0151s (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11669\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "V\u00EDztiszt\u00EDt\u00F3 tekn\u0151s (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1908": {
+    "id": "1908",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wr\u0027midn elmeroncsol\u00F3 (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11620\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wr\u0027midn elmeroncsol\u00F3 (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1909": {
+    "id": "1909",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zarknod gyermeke (2026)",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11536\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zarknod gyermeke (2026)",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1910": {
+    "id": "1910",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zo\u00E9, az \u00E1lmod\u00F3",
+        "type": "L\u00E9ny",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11662\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zo\u00E9, az \u00E1lmod\u00F3",
+    "type": "L\u00E9ny",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1911": {
+    "id": "1911",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A b\u0171b\u00E1joss\u00E1g r\u00FAn\u00E1ja (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11530\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A b\u0171b\u00E1joss\u00E1g r\u00FAn\u00E1ja (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1912": {
+    "id": "1912",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A F\u00E9ny ragyog\u00E1sa (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11650\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A F\u00E9ny ragyog\u00E1sa (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1913": {
+    "id": "1913",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A hasonl\u00F3s\u00E1g keres\u00E9se (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11611\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A hasonl\u00F3s\u00E1g keres\u00E9se (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1914": {
+    "id": "1914",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A j\u00E1t\u00E9k foglyai",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11591\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A j\u00E1t\u00E9k foglyai",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1915": {
+    "id": "1915",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A l\u00E9lek s\u00FAlya (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11597\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A l\u00E9lek s\u00FAlya (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1916": {
+    "id": "1916",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Mester b\u00FCntet\u00E9se (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11581\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Mester b\u00FCntet\u00E9se (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1917": {
+    "id": "1917",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A szkarabeuszok \u00E1tka (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11582\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A szkarabeuszok \u00E1tka (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1918": {
+    "id": "1918",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A vereked\u0151k sz\u00E9tv\u00E1laszt\u00E1sa (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11592\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A vereked\u0151k sz\u00E9tv\u00E1laszt\u00E1sa (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1919": {
+    "id": "1919",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abarrun k\u00F6zbesz\u00F3l (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11636\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abarrun k\u00F6zbesz\u00F3l (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1920": {
+    "id": "1920",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\u00C1lommez\u0151",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11547\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "\u00C1lommez\u0151",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1921": {
+    "id": "1921",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Az elnyomottak dala (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11520\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Az elnyomottak dala (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1922": {
+    "id": "1922",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Az \u00F3ri\u00E1sok f\u00E1jdalma (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11671\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Az \u00F3ri\u00E1sok f\u00E1jdalma (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1923": {
+    "id": "1923",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azt mondtam, nem (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12074\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azt mondtam, nem (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1924": {
+    "id": "1924",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Birodalmi parancs",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11656\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Birodalmi parancs",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1925": {
+    "id": "1925",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blokkol\u00F3 hal\u00E1l",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11657\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blokkol\u00F3 hal\u00E1l",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1926": {
+    "id": "1926",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bubor\u00E9k (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11629\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bubor\u00E9k (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1927": {
+    "id": "1927",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "B\u0171b\u00E1jvar\u00E1zs",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11577\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "B\u0171b\u00E1jvar\u00E1zs",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1928": {
+    "id": "1928",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Catherine f\u00E9rgei (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11658\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Catherine f\u00E9rgei (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1929": {
+    "id": "1929",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Csontforg\u00E1cs",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11645\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Csontforg\u00E1cs",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1930": {
+    "id": "1930",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Csontritkul\u00E1s",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11585\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Csontritkul\u00E1s",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1931": {
+    "id": "1931",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drakolder vill\u00E1m (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11638\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drakolder vill\u00E1m (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1932": {
+    "id": "1932",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Edharati r\u00FAn\u00E1ja",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11578\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Edharati r\u00FAn\u00E1ja",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1933": {
+    "id": "1933",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Egy halhatatlan sz\u00FClet\u00E9se",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11519\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Egy halhatatlan sz\u00FClet\u00E9se",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1934": {
+    "id": "1934",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Egys\u00E9gben az er\u0151",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11593\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Egys\u00E9gben az er\u0151",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1935": {
+    "id": "1935",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Esti mese",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11630\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esti mese",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1936": {
+    "id": "1936",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ewgbert manakiford\u00EDt\u00E1sa",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11639\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ewgbert manakiford\u00EDt\u00E1sa",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1937": {
+    "id": "1937",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Felejt\u0151 b\u0171b\u00E1j (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11640\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Felejt\u0151 b\u0171b\u00E1j (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1938": {
+    "id": "1938",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Felesleges \u00EDg\u00E9ret",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11652\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Felesleges \u00EDg\u00E9ret",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1939": {
+    "id": "1939",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "F\u00FCstbement terv",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11665\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "F\u00FCstbement terv",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1940": {
+    "id": "1940",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gemina m\u00E9rgez\u0151 tiszt\u00E1sa (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11602\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gemina m\u00E9rgez\u0151 tiszt\u00E1sa (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1941": {
+    "id": "1941",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Genp\u0151c tr\u00FCkkje (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11603\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Genp\u0151c tr\u00FCkkje (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1942": {
+    "id": "1942",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gyors \u00FCt\u00E9s (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11556\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gyors \u00FCt\u00E9s (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1943": {
+    "id": "1943",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Id\u0151stop",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11531\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Id\u0151stop",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1944": {
+    "id": "1944",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ill\u00FAzi\u00F3csapda (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11579\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ill\u00FAzi\u00F3csapda (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1945": {
+    "id": "1945",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Koncentr\u00E1lt b\u0171zsug\u00E1r (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11521\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Koncentr\u00E1lt b\u0171zsug\u00E1r (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1946": {
+    "id": "1946",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Korhad\u00E1s (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11551\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Korhad\u00E1s (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1947": {
+    "id": "1947",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Krathan csontv\u00E1zak teremt\u00E9se (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11587\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Krathan csontv\u00E1zak teremt\u00E9se (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1948": {
+    "id": "1948",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maghas\u00EDt\u00E1s",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11608\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maghas\u00EDt\u00E1s",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1949": {
+    "id": "1949",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "M\u00E9regcsap\u00E1s",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11605\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "M\u00E9regcsap\u00E1s",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1950": {
+    "id": "1950",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nap\u00FAt",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11653\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nap\u00FAt",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1951": {
+    "id": "1951",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\u0150si praktika (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11567\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "\u0150si praktika (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1952": {
+    "id": "1952",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Passzivit\u00E1s (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11538\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Passzivit\u00E1s (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1953": {
+    "id": "1953",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "P\u00F6rg\u0151r\u00FAg\u00E1s",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11550\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "P\u00F6rg\u0151r\u00FAg\u00E1s",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1954": {
+    "id": "1954",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Purifik\u00E1ci\u00F3 (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11660\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Purifik\u00E1ci\u00F3 (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1955": {
+    "id": "1955",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Roham (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11557\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roham (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1956": {
+    "id": "1956",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sarki f\u00E9ny",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11595\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sarki f\u00E9ny",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1957": {
+    "id": "1957",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sz\u00E9tny\u00EDlt sebek",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11596\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sz\u00E9tny\u00EDlt sebek",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1958": {
+    "id": "1958",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "T\u00E1gul\u00F3 horizont",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12075\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "T\u00E1gul\u00F3 horizont",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1959": {
+    "id": "1959",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "T\u0171zbogarak (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11574\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "T\u0171zbogarak (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1960": {
+    "id": "1960",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "V\u00E9gk\u00E9pp elt\u00F6r\u00F6lni (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11677\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "V\u00E9gk\u00E9pp elt\u00F6r\u00F6lni (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
+  },
+  "1961": {
+    "id": "1961",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "V\u00E9r\u00E1ldozat (2026)",
+        "type": "Var\u00E1zslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11541\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "V\u00E9r\u00E1ldozat (2026)",
+    "type": "Var\u00E1zslat",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "\u00C1lomh\u00E1bor\u00FA"
   }
 }
