@@ -38,7 +38,7 @@
       },
       "defaultNotes": "Max ÉP: 20\nMax VP: 20\nEllenfél Max ÉP: 20\nEllenfél Max VP: 20",
       "tokens": [],
-	  "draggableTokens": [
+      "draggableTokens": [
         {
           "id": "Orange",
           "name": "Orange token",
@@ -136,7 +136,8 @@
         },
         "categoriesAlreadyOnBoard": [
           "Követő",
-          "Szabálylap"
+          "Szabálylap",
+          "Extra"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
