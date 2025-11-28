@@ -33336,14 +33336,14 @@
     "face": {
       "front": {
         "name": "Újrakeverés",
-        "type": false,
+        "type": "Reakciócsata",
         "cost": 0,
         "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11502&masodlagos=1&behoCK=982750446e405424602bbbb89c7a664eb7988474",
         "isHorizontal": false
       }
     },
     "name": "Újrakeverés",
-    "type": false,
+    "type": "Reakciócsata",
     "cost": 0,
     "Kiegészítő": "Egyéb"
   },
@@ -33353,14 +33353,14 @@
     "face": {
       "front": {
         "name": "Idézés (2025)",
-        "type": false,
+        "type": "Reakciócsata",
         "cost": 0,
         "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11503&masodlagos=1&behoCK=982750446e405424602bbbb89c7a664eb7988474",
         "isHorizontal": false
       }
     },
     "name": "Idézés (2025)",
-    "type": false,
+    "type": "Reakciócsata",
     "cost": 0,
     "Kiegészítő": "Egyéb"
   }
