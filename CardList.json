@@ -33343,7 +33343,7 @@
       }
     },
     "name": "Újrakeverés",
-    "type": "Extra",
+    "type": "Reakciócsata",
     "cost": 0,
     "Kiegészítő": "Egyéb"
   },
@@ -33360,7 +33360,7 @@
       }
     },
     "name": "Idézés (2025)",
-    "type": "Extra",
+    "type": "Reakciócsata",
     "cost": 0,
     "Kiegészítő": "Egyéb"
   }
