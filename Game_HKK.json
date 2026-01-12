@@ -58,6 +58,36 @@
           "id": "Purple",
           "name": "Purple token",
           "image": "https://valcur.github.io/TCG-Arena-MTG/Images/Tokens/Purple.png"
+        },
+        {
+          "id": "Black",
+          "name": "Black token",
+          "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/Black.png"
+        },
+        {
+          "id": "Red",
+          "name": "Red token",
+          "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/Red.png"
+        },
+        {
+          "id": "Yellow",
+          "name": "Yellow token",
+          "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/Yellow.png"
+        },
+        {
+          "id": "White",
+          "name": "Purple token",
+          "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/White.png"
+        },
+        {
+          "id": "Pink",
+          "name": "Pink token",
+          "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/Pink.png"
+        },
+        {
+          "id": "Grey",
+          "name": "Grey token",
+          "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/Grey.png"
         }
       ],
       "countersStartingValues": [
