@@ -65,9 +65,9 @@
           "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/Dermeszt%C3%A9sjelz%C5%91.png"
         },
         {
-          "id": "Red",
-          "name": "Red token",
-          "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/Red.png"
+          "id": "Életjelző",
+          "name": "Életjelző token",
+          "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/%C3%89letjelz%C5%91.png"
         },
         {
           "id": "Plusz egy",
@@ -76,7 +76,7 @@
         },
         {
           "id": "White",
-          "name": "Purple token",
+          "name": "White token",
           "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/White.png"
         },
         {
