@@ -55,8 +55,8 @@
           "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/Elm%C3%BAl%C3%A1sjelz%C5%91.png"
         },
         {
-          "id": "Purple",
-          "name": "Purple token",
+          "id": "J",
+          "name": "J képesség token",
           "image": "https://valcur.github.io/TCG-Arena-MTG/Images/Tokens/Purple.png"
         },
         {
@@ -72,6 +72,11 @@
         {
           "id": "Plusz egy",
           "name": "Plusz egy token",
+          "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/%2B1.png"
+        },
+		{
+          "id": "Minusz egy",
+          "name": "Minusz egy token",
           "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/%2B1.png"
         },
         {
