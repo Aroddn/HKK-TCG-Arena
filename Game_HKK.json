@@ -57,7 +57,7 @@
         {
           "id": "J",
           "name": "J képesség token",
-          "image": "https://valcur.github.io/TCG-Arena-MTG/Images/Tokens/Purple.png"
+          "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/Jsk%C3%A9pess%C3%A9g.png"
         },
         {
           "id": "Dermesztés",
@@ -77,7 +77,7 @@
 		{
           "id": "Minusz egy",
           "name": "Minusz egy token",
-          "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/%2B1.png"
+          "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/-1.png"
         },
         {
           "id": "White",
