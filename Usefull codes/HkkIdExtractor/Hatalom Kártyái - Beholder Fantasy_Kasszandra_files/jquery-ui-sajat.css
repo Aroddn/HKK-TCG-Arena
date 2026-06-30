@@ -1,0 +1,21 @@
+.ttipNoBord{
+	pointer-events: none;
+}
+
+.ui-tabs{padding:2px;}
+.ui-tabs .ui-tabs-nav{margin:0 4px;padding: 2px;}
+.ui-tabs .ui-tabs-nav li{border-bottom: 1px solid #000000;border-radius:4px;}
+.ui-tabs .ui-tabs-panel{display:block;border-width:0;padding:0;background:none;}
+
+.ui-widget{font-family:sans-serif;font-size:15px;}
+.ui-widget-content{border:none;background:none;color:none}
+.ui-widget-content a{color:#0067A3;}
+.ui-widget-header{border:2px solid #000;background:#CDB697;color:#fff;font-weight:bold;}
+
+
+.ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default{border:1px solid #000000;background:#B39E7F;}
+.ui-state-default a,.ui-state-default a:link,.ui-state-default a:visited{color:#000000;font-weight:bold;text-decoration:none}
+.ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state-focus{border:1px solid #000000;background:#C4AE8F;}
+.ui-state-hover a,.ui-state-hover a:hover,.ui-state-hover a:link,.ui-state-hover a:visited{color:#0067A3;font-weight:bold;text-decoration:none}
+.ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active{border:1px solid #000000;background:#C4AE8F;}
+.ui-state-active a,.ui-state-active a:link,.ui-state-active a:visited{color:#ffffff;font-weight:bold;text-decoration:none}

@@ -1,0 +1,152 @@
+#fomenu {
+position:absolute;
+margin-left:200px;
+top:128px;
+}
+
+#fomenu ul {
+list-style:none;
+padding:0 0 0 100px;
+margin:0;
+}
+
+#fomenu #hor li {
+float:left;
+margin-right:2px;
+text-indent: -1000em;
+}
+#fomenu #hor .fmli{
+	border-bottom: 1px solid transparent;
+}
+
+#fomenu .vert li {
+float:none;
+}
+#fomenu #jatekok {
+background:url(pic/menu/jatekok-off.png) no-repeat;
+width:76px;
+height:27px;
+}
+
+#fomenu #konyvesbolt {
+background:url(pic/menu/konyvesbolt-off.png) no-repeat;
+width:112px;
+height:27px;
+}
+
+#fomenu #olvasnivalo {
+background:url(pic/menu/olvasnivalo-off.png) no-repeat;
+width:107px;
+height:27px;
+}
+
+#fomenu #egyeb {
+background:url(pic/menu/egyeb-off.png) no-repeat;
+width:58px;
+height:27px;
+}
+
+#fomenu #beholder {
+background:url(pic/menu/beholder-off.png) no-repeat;
+width:125px;
+height:27px;
+}
+
+#jatekok ul, #konyvesbolt ul, #olvasnivalo ul, #egyeb ul, #beholder ul {
+top:28px;	
+position:absolute;
+padding:30px 0 0 0;
+}
+
+#jatekok ul {
+display:none;
+width:238px;
+background:url(pic/menu/menu-jatekok2-off.png) no-repeat;
+left:20px;
+}
+
+#jatekok ul li {
+display:block;
+height:25px;
+width:238px;
+}
+
+#konyvesbolt ul {
+display:none;
+width:186px;
+background:url(pic/menu/menu-konyvesbolt-off.png) no-repeat;
+left:155px;
+}
+
+#konyvesbolt ul li {
+display:block;
+height:24px;
+width:186px;
+}
+
+#olvasnivalo ul {
+display:none;
+width:186px;
+background:url(pic/menu/menu-olvasnivalo-off.png) no-repeat;
+left:270px;
+}
+
+#olvasnivalo ul li {
+display:block;
+height:24px;
+width:186px;
+}
+
+#egyeb ul {
+display:none;
+width:206px;
+background:url(pic/menu/menu-egyeb-off.png) no-repeat;
+left:350px;
+}
+
+#egyeb ul li {
+display:block;
+height:24px;
+width:206px;
+}
+
+#beholder ul {
+display:none;
+width:163px;
+background:url(pic/menu/menu-beholder-off.png) no-repeat;
+left:450px;
+}
+
+#beholder ul li {
+display:block;
+height:24px;
+width:163px;
+}
+
+#newindow {
+padding-right:40px;
+display:none;
+background:#C0B098;
+border:5px solid #705F43;
+padding:5px;
+z-index:1000;
+}
+
+.balmenu h4 {
+margin:0;
+padding:3px 0 4px 0;
+background:url(pic/table/tablecim.jpg) center no-repeat;
+text-align:center;
+font-size:11px;
+}
+
+.balmenu ul {
+list-style:none;
+margin:0;
+padding:0 0 0 5px;
+}
+
+.balmenu ul li {
+background:url(pic/main/li.gif) center left no-repeat;
+padding-left:12px;
+}

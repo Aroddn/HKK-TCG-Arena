@@ -1,0 +1,35 @@
+﻿using System;
+using System.IO;
+using System.Text.RegularExpressions;
+
+public class Class1
+{
+	public static string ExtractHkkTableFejlecLine(string htmlFilePath)
+	{
+		try
+		{
+			string htmlContent = File.ReadAllText(htmlFilePath);
+
+			// Pattern to find the line starting with </script><script>tablefejlec('HKK lapkereső');
+			string pattern = @"</script><script>tablefejlec\('HKK lapkereső'\);.*?</script>";
+
+			Match match = Regex.Match(htmlContent, pattern, RegexOptions.Singleline);
+
+			if (match.Success)
+			{
+				return match.Value;
+			}
+
+			return null; // Line not found
+		}
+		catch (Exception ex)
+		{
+			Console.WriteLine($"Error extracting line: {ex.Message}");
+			return null;
+		}
+	}
+
+	public Class1()
+	{
+	}
+}

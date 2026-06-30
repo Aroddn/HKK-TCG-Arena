@@ -1,0 +1,2722 @@
+﻿{
+  "11867": {
+    "id": "11867",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A feltámadás vize",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11698&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A feltámadás vize",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11868": {
+    "id": "11868",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A fény hajója",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11746&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A fény hajója",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11869": {
+    "id": "11869",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Fény követe",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11747&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Fény követe",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11870": {
+    "id": "11870",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A gyík lesújt (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11791&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A gyík lesújt (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11871": {
+    "id": "11871",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A majom technikája (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11823&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A majom technikája (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11872": {
+    "id": "11872",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A moák fénykora (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11817&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A moák fénykora (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11873": {
+    "id": "11873",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Purgatórium őre",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11801&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Purgatórium őre",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11874": {
+    "id": "11874",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A szépség dühe (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11785&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A szépség dühe (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11875": {
+    "id": "11875",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "AnCor Aryon",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11718&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "AnCor Aryon",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11876": {
+    "id": "11876",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Apró csodák pegazusa",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11786&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Apró csodák pegazusa",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11877": {
+    "id": "11877",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Árnylord (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11694&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Árnylord (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11878": {
+    "id": "11878",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Az egyediség hatalma",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11724&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Az egyediség hatalma",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11879": {
+    "id": "11879",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Az eretnekek felkutatása",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11699&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Az eretnekek felkutatása",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11880": {
+    "id": "11880",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Az igaz hit bajnoka",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11802&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Az igaz hit bajnoka",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11881": {
+    "id": "11881",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Béklyózó Árny",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11695&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Béklyózó Árny",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11882": {
+    "id": "11882",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brutális burástya",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11686&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brutális burástya",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11883": {
+    "id": "11883",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brutális termik",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11807&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brutális termik",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11884": {
+    "id": "11884",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bűbájfürkészek (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11808&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bűbájfürkészek (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11885": {
+    "id": "11885",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Burástya dolgozó",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11734&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Burástya dolgozó",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11886": {
+    "id": "11886",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Burástya kitingyűjtögető (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11687&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Burástya kitingyűjtögető (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11887": {
+    "id": "11887",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Butítás (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11702&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Butítás (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11888": {
+    "id": "11888",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cápaporonty",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11700&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cápaporonty",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11889": {
+    "id": "11889",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Csápmester (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11678&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Csápmester (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11890": {
+    "id": "11890",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dalarion, a viharvándor",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11792&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dalarion, a viharvándor",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11891": {
+    "id": "11891",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Démoni mágia (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11779&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Démoni mágia (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11892": {
+    "id": "11892",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Démonsárkány",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11824&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Démonsárkány",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11893": {
+    "id": "11893",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dexter, a quwargkutató (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11780&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dexter, a quwargkutató (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11894": {
+    "id": "11894",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr'akglur sárkányfatty (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11825&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr'akglur sárkányfatty (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11895": {
+    "id": "11895",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drakolder fagyúr",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11826&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drakolder fagyúr",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11896": {
+    "id": "11896",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dupla élvezet",
+        "type": "Követő",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11719&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dupla élvezet",
+    "type": "Követő",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11897": {
+    "id": "11897",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Edralian (2026)",
+        "type": "Követő",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11720&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Edralian (2026)",
+    "type": "Követő",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11898": {
+    "id": "11898",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Égi marsall",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11748&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Égi marsall",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11899": {
+    "id": "11899",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Éjsárkány (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11827&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Éjsárkány (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11900": {
+    "id": "11900",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elementáris savbéklyó",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11828&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elementáris savbéklyó",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11901": {
+    "id": "11901",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elena Merdarogh",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11688&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elena Merdarogh",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11902": {
+    "id": "11902",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energiagólem",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11738&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energiagólem",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11903": {
+    "id": "11903",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energiasokk",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11690&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energiasokk",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11904": {
+    "id": "11904",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Erősebb sav",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11679&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Erősebb sav",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11905": {
+    "id": "11905",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Északi cirkáló",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11793&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Északi cirkáló",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11906": {
+    "id": "11906",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fefe, a fura elf",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11829&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fefe, a fura elf",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11907": {
+    "id": "11907",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fellegvár",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11818&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fellegvár",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11908": {
+    "id": "11908",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fixációs csere",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11830&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fixációs csere",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11909": {
+    "id": "11909",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fr'ngekar demonstrátor (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11741&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fr'ngekar demonstrátor (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11910": {
+    "id": "11910",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fullánk (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11729&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fullánk (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11911": {
+    "id": "11911",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Galaktrosz (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11751&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Galaktrosz (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11912": {
+    "id": "11912",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gemina akarata (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11812&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gemina akarata (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11913": {
+    "id": "11913",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goblin fürkész (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11710&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goblin fürkész (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11914": {
+    "id": "11914",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goblin harci kiáltás (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11759&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goblin harci kiáltás (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11915": {
+    "id": "11915",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goblin pengevirtuóz (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11711&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goblin pengevirtuóz (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11916": {
+    "id": "11916",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goblin tőrkovács (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11712&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goblin tőrkovács (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11917": {
+    "id": "11917",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goblintanya (2026)",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11760&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goblintanya (2026)",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11918": {
+    "id": "11918",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gólemulett (2026)",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11739&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gólemulett (2026)",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11919": {
+    "id": "11919",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hadicsel (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11819&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hadicsel (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11920": {
+    "id": "11920",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hatalomkristály (2026)",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11691&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hatalomkristály (2026)",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11921": {
+    "id": "11921",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Izmos burástya",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11787&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Izmos burástya",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11922": {
+    "id": "11922",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Izom vagy agy",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11714&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Izom vagy agy",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11923": {
+    "id": "11923",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Izzó fókusz (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11781&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Izzó fókusz (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11924": {
+    "id": "11924",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jura park",
+        "type": "Követő",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11721&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jura park",
+    "type": "Követő",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11925": {
+    "id": "11925",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Káoszkapu (2026)",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11680&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Káoszkapu (2026)",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11926": {
+    "id": "11926",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kéregfaló",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11813&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kéregfaló",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11927": {
+    "id": "11927",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Királyi adó (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11701&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Királyi adó (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11928": {
+    "id": "11928",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ködkristály",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11703&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ködkristály",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11929": {
+    "id": "11929",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Koncentrált savcsapás",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11725&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Koncentrált savcsapás",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11930": {
+    "id": "11930",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Körforgás (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11705&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Körforgás (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11931": {
+    "id": "11931",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kotyogó motyogó",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11742&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kotyogó motyogó",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11932": {
+    "id": "11932",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kreátor sejtduzzasztója",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11715&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kreátor sejtduzzasztója",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11933": {
+    "id": "11933",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kultikus motiváció (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11794&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kultikus motiváció (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11934": {
+    "id": "11934",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lady Olívia macskája (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11788&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lady Olívia macskája (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11935": {
+    "id": "11935",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lady Olívia tornya (2026)",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11789&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lady Olívia tornya (2026)",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11936": {
+    "id": "11936",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lélekterelő",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11706&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lélekterelő",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11937": {
+    "id": "11937",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Letűnt hajnal angyala",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11749&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Letűnt hajnal angyala",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11938": {
+    "id": "11938",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lohd Haven (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11814&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lohd Haven (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11939": {
+    "id": "11939",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lohd Haven húnája",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11754&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lohd Haven húnája",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11940": {
+    "id": "11940",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lohd Haven kehesése",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11707&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lohd Haven kehesése",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11941": {
+    "id": "11941",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lohd Haven munkaszehződése",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11708&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lohd Haven munkaszehződése",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11942": {
+    "id": "11942",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lohd Haven teknőse",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11755&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lohd Haven teknőse",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11943": {
+    "id": "11943",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manaszaurusz",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11716&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manaszaurusz",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11944": {
+    "id": "11944",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Megkövült páncélos",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11763&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Megkövült páncélos",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11945": {
+    "id": "11945",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Megrontott lélek (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11796&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Megrontott lélek (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11946": {
+    "id": "11946",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mentális vámpír (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11743&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mentális vámpír (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11947": {
+    "id": "11947",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moa agymosó (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11820&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moa agymosó (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11948": {
+    "id": "11948",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moa gránátvető",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11713&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moa gránátvető",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11949": {
+    "id": "11949",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moa őshal (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11821&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moa őshal (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11950": {
+    "id": "11950",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moa replikátor",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11761&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moa replikátor",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11951": {
+    "id": "11951",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moa torpedózápor",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11762&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moa torpedózápor",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11952": {
+    "id": "11952",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Molekulabitorló (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11822&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Molekulabitorló (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11953": {
+    "id": "11953",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Motyogó hírnök (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11797&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Motyogó hírnök (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11954": {
+    "id": "11954",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Motyogó kultivátor (2026)",
+        "type": "Követő",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11722&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Motyogó kultivátor (2026)",
+    "type": "Követő",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11955": {
+    "id": "11955",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Motyogó szerencsejátékos",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11798&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Motyogó szerencsejátékos",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11956": {
+    "id": "11956",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Motyogólem",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11831&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Motyogólem",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11957": {
+    "id": "11957",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mutáns pegazus",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11764&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mutáns pegazus",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11958": {
+    "id": "11958",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nagy Fehér Védelmező",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11765&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nagy Fehér Védelmező",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11959": {
+    "id": "11959",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nem mind arany...",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11750&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nem mind arany...",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11960": {
+    "id": "11960",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Néma motyogó (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11696&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Néma motyogó (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11961": {
+    "id": "11961",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nihilum termik",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11809&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nihilum termik",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11962": {
+    "id": "11962",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nyálkás savféreg",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11756&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nyálkás savféreg",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11963": {
+    "id": "11963",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orothiel, északi fény",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11803&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orothiel, északi fény",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11964": {
+    "id": "11964",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ősmotyogó császár (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11799&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ősmotyogó császár (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11965": {
+    "id": "11965",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Óvó Tercius",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11735&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Óvó Tercius",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11966": {
+    "id": "11966",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ozohrat megoldása (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11704&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ozohrat megoldása (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11967": {
+    "id": "11967",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ozohrat segítsége (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11810&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ozohrat segítsége (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11968": {
+    "id": "11968",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ozohrat utolsó csapása",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11752&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ozohrat utolsó csapása",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11969": {
+    "id": "11969",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Páncéltörés",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11717&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Páncéltörés",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11970": {
+    "id": "11970",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Polipolisz",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11766&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Polipolisz",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11971": {
+    "id": "11971",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Psyche",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11726&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Psyche",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11972": {
+    "id": "11972",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Purgálás (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11800&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Purgálás (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11973": {
+    "id": "11973",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quwarg csontbárka",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11767&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quwarg csontbárka",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11974": {
+    "id": "11974",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quwarg inspirátor (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11681&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quwarg inspirátor (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11975": {
+    "id": "11975",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quwarg kincstáros (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11682&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quwarg kincstáros (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11976": {
+    "id": "11976",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quwarg ősmágus (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11782&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quwarg ősmágus (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11977": {
+    "id": "11977",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quwarg rajzás (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11683&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quwarg rajzás (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11978": {
+    "id": "11978",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quwarg szellem (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11730&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quwarg szellem (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11979": {
+    "id": "11979",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quwarg tojásgondozó (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11731&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quwarg tojásgondozó (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11980": {
+    "id": "11980",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rafinált Boldizsár",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11732&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rafinált Boldizsár",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11981": {
+    "id": "11981",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Révülő",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11736&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Révülő",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11982": {
+    "id": "11982",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rhatt fénylovagja (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11811&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rhatt fénylovagja (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11983": {
+    "id": "11983",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rücskös látógömb (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11815&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rücskös látógömb (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11984": {
+    "id": "11984",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sárkány úrnő (2026)",
+        "type": "Követő",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11723&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sárkány úrnő (2026)",
+    "type": "Követő",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11985": {
+    "id": "11985",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sárkánycápa",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11804&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sárkánycápa",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11986": {
+    "id": "11986",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Savrengés",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11816&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Savrengés",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11987": {
+    "id": "11987",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Savvérű drakolder",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11832&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Savvérű drakolder",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11988": {
+    "id": "11988",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Solisar aurája (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11805&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Solisar aurája (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11989": {
+    "id": "11989",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sommerthaug (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11772&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sommerthaug (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11990": {
+    "id": "11990",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sommerthaug bárkája",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11773&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sommerthaug bárkája",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11991": {
+    "id": "11991",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spinoszaurusz",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11757&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spinoszaurusz",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11992": {
+    "id": "11992",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Suttogó végzet (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11744&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Suttogó végzet (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11993": {
+    "id": "11993",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Szellőléptű Elvatar (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11768&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Szellőléptű Elvatar (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11994": {
+    "id": "11994",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Szennyezett mana",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11769&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Szennyezett mana",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11995": {
+    "id": "11995",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Szertartásmester (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11733&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Szertartásmester (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11996": {
+    "id": "11996",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Szottyadt tariszkusz (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11758&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Szottyadt tariszkusz (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11997": {
+    "id": "11997",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sztatikus csatatér (2026)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11740&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sztatikus csatatér (2026)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11998": {
+    "id": "11998",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sztatikus gólem (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11795&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sztatikus gólem (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "11999": {
+    "id": "11999",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Talizmánkovács",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11771&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Talizmánkovács",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12000": {
+    "id": "12000",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tengeri csikó",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11770&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tengeri csikó",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12001": {
+    "id": "12001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Termik gubó",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11753&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Termik gubó",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12002": {
+    "id": "12002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Termik pók",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11833&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Termik pók",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12003": {
+    "id": "12003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Termikszaurusz",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11834&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Termikszaurusz",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12004": {
+    "id": "12004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tolvajok tolvaja (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11783&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tolvajok tolvaja (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12005": {
+    "id": "12005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tőr vagy kölyök?",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11835&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tőr vagy kölyök?",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12006": {
+    "id": "12006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Torz mutáns",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11727&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Torz mutáns",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12007": {
+    "id": "12007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trimadillo",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11689&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trimadillo",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12008": {
+    "id": "12008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tsalez Lau'pez (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11684&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tsalez Lau'pez (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12009": {
+    "id": "12009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tűfogú cápa",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11806&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tűfogú cápa",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12010": {
+    "id": "12010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Txhectl, az őskirálynő",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11774&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Txhectl, az őskirálynő",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12011": {
+    "id": "12011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vadász burástya (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11737&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vadász burástya (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12012": {
+    "id": "12012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vadonc",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11709&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vadonc",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12013": {
+    "id": "12013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Varázsforrás",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11790&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Varázsforrás",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12014": {
+    "id": "12014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Varkaudar tűzmágus (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11784&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Varkaudar tűzmágus (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12015": {
+    "id": "12015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vén patás",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11836&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vén patás",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12016": {
+    "id": "12016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vérnyúl",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11745&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vérnyúl",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12017": {
+    "id": "12017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Xenó féreg (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11775&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xenó féreg (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12018": {
+    "id": "12018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Xenó neutralizátor",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11776&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xenó neutralizátor",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12019": {
+    "id": "12019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Xenó védőnyálka",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11777&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xenó védőnyálka",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12020": {
+    "id": "12020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Xenomorf felderítő (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11778&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xenomorf felderítő (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12021": {
+    "id": "12021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Xenomorf ragadozó (2026)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11728&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xenomorf ragadozó (2026)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12022": {
+    "id": "12022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yaurri jégtalizmán (2026)",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11697&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yaurri jégtalizmán (2026)",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12023": {
+    "id": "12023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yaurri pokoltalizmán (2026)",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11685&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yaurri pokoltalizmán (2026)",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12024": {
+    "id": "12024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yaurri vihartalizmán (2026)",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11692&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yaurri vihartalizmán (2026)",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12025": {
+    "id": "12025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yeti kézműves",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11837&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yeti kézműves",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  },
+  "12026": {
+    "id": "12026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zu'lit korvettje",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=11693&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zu'lit korvettje",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Tiltott Városok"
+  }
+}

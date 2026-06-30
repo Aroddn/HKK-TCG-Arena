@@ -1,0 +1,234 @@
+var tablefejlec_text='<table border=0 align=center width=97% cellpadding=0 cellspacing=0><tr><td class=tablefelsobalvekony3></td><td class=tablefelsovekony3></td><td class=tablefelsojobbvekony3></td></tr><tr><td class=tablebalvekony3></td><td class=tablebodyfejlec>$1</td><td class=tablejobbvekony3>&nbsp;</td></tr><tr><td class=tablealsobalvekony3>&nbsp;</td> <td class=tablealsovekony3>&nbsp;</td> <td class=tablealsojobbvekony3>&nbsp;</td></tr></table><a style="text-align:right;display:block;" href="javascript:nwClose();">Vissza a találati listához</a>';
+var tableendvekony_text='</td><td class=tablejobbvekony>&nbsp;</td></tr><tr><td class=tablealsobalsarokvekony>&nbsp;</td> <td class=tablealsovekony>&nbsp;</td> <td class=tablealsojobbsarokvekony>&nbsp;</td></tr></table>';
+var tableheadvastag_text='<table align=center border=0 width=97% cellpadding=0 cellspacing=0><tr><td class=tablefelsobalsarokvastag>&nbsp;</td> <td class=tablefelsovastag>$1</td> <td class=tablefelsojobbsarokvastag>&nbsp;</td></tr><tr><td class=tablebalvekony>&nbsp;</td><td class=tablebody>';
+var tableheadvastag_text2='<table align=center border=0 width=100% cellpadding=0 cellspacing=0><tr><td class=tablefelsobalsarokvastag>&nbsp;</td> <td class=tablefelsovastag>$1</td> <td class=tablefelsojobbsarokvastag>&nbsp;</td></tr><tr><td class=tablebalvekony>&nbsp;</td><td class=tablebody>';
+var gomb_text='<table border=0 cellpadding=0 cellspacing=0 ALIGN=$4><tr><td style=\"background:url(pic/table/gomb_bal.gif); width:16px; height:32px;\">&nbsp;</td><td style=\"background:url(pic/table/gomb_kozep.jpg); height:32px; padding-left:5px; padding-right:5px;\"><a href="$2" style=\"font-size:11px; color:white; font-weight:bold;TEXT-DECORATION: none;CURSOR:hand;\">$1</a></td><td style=\"background:url(pic/table/gomb_jobb.gif); width:16px; height:32px;\">&nbsp;</td></tr></table>';
+
+var scrollpoz="";
+
+var clientPC=navigator.userAgent.toLowerCase();
+var is_ie=((clientPC.indexOf("msie") != -1) && (clientPC.indexOf("opera") == -1));
+var bbcodes=new Array("b","i","u","quote","url");
+var smileys=new Array(
+":D",
+":)",
+":(",
+":o",
+":shock:",
+"8)",
+":lol:",
+":cry:",
+":wink"
+);
+
+var smileygif=new Array(
+"biggrin.gif",
+"smile.gif",
+"sad.gif",
+"surprised.gif",
+"shock.gif",
+"cool.gif",
+"lol.gif",
+"cry.gif",
+"wink.gif"
+);
+
+function addSmileys(){
+	var inner="";
+	var j=0;
+	for (i=0;i<smileys.length;i++){
+		aktname="sm_"+j+"_"+i;
+		inner=$("<a />",{"name":aktname}).append($("<img />",{"id":aktname,"alt":smileys[i],"src":"pic/smiley/"+smileygif[i]}));
+		inner.click(function(){
+			$('#textf').val($('#textf').val()+" "+smileys[$(this).attr('name').substr(5)]+" ");
+			$('#textf').focus();
+		});
+		$('#smileys').append(inner);
+	}
+}
+
+function insertAtCursor( t, before, after, code ){
+
+	if (is_ie){
+		aktselect=document.selection.createRange().text;
+		if (!aktselect) {
+			t.val(before + t.val() + after);
+			t.focus();
+			return;
+		}
+		document.selection.createRange().text = before + aktselect + after;
+		t.focus();
+	}
+	else{
+		var startPos = t.prop('selectionStart');
+		var endPos = t.prop('selectionEnd');
+		var text = t.val().substring(startPos, endPos);
+		var scrollPos = t.prop('scrollTop');
+		t.val(t.val().substring(0, startPos) + before + text + after + t.val().substring(endPos, t.val().length));
+		t.focus();
+		t.prop('selectionStart',startPos);
+		t.prop('selectionEnd',startPos + before.length + text.length + after.length);
+		t.prop('scrollTop',scrollPos);
+	}
+
+}
+
+function Update_nwContent(request){
+	text=request.responseText;
+
+	text=text.replace(/\\'/,"'");
+	text=text.replace(/<SCRIPT>tableheadvastag\('(Értékeld)!'\);<\/SCRIPT>/g,tableheadvastag_text2);
+	text=text.replace(/<SCRIPT>tableheadvastag\('(Kiegészítő megjegyzések a lap működéséhez:)'\);<\/SCRIPT>/g,tableheadvastag_text);
+	text=text.replace(/<SCRIPT>gomb\('(.+)','(.+)','(.*)','(.+)'\);<\/SCRIPT><SCRIPT>/ig,gomb_text+"<SCRIPT>");
+	text=text.replace(/<SCRIPT>gomb\('(.+)','(.+)','(.*)','(.+)'\);<\/SCRIPT>/ig,gomb_text);
+	text=text.replace(/<SCRIPT>tableendvekony\(\);<\/SCRIPT>/ig,tableendvekony_text);
+	text=text.replace(/<SCRIPT>tablefejlec\('(.+)'\);<\/SCRIPT>/ig,tablefejlec_text);
+
+	if (navigator.appName == "Microsoft Internet Explorer") scrollpoz=document.body.scrollTop;
+		else scrollpoz=window.pageYOffset;
+
+	$('#newindow').html(text);
+	$('#lapkereso').hide();
+	$('#newindow').show();
+
+	$('#lapbezar').html('<a style="text-align:right;display:block;" href="javascript:nwClose();">Vissza a találati listához</a>');
+
+	window.scrollTo(0,150);
+}
+
+function nwClose(){
+	$('#newindow').hide();
+	$('#lapkereso').show();
+	window.scrollTo(0,scrollpoz);
+	scrollpoz=0;
+}
+
+function lapnwInit(){
+	$(".lapnw").click(function(){
+		$('#newindow').html("");
+		datum=new Date().getTime();
+		var pars=$(this).attr('href').substring($(this).attr('href').indexOf("kartya="))+"&ido="+datum;
+
+		var myAjax = new Ajax.Request("hkklapkirak.php", { method: 'get', parameters: pars, onComplete: Update_nwContent });
+	});
+	$(".lapnwa").click(function(){
+		$('#newindow').html("");
+		datum=new Date().getTime();
+		var pars=$(this).attr('href').substring($(this).attr('href').indexOf("kartya="))+"&ido="+datum;
+
+		var myAjax = new Ajax.Request("afklapkirak.php", { method: 'get', parameters: pars, onComplete: Update_nwContent });
+	});
+}
+
+function InitImageCaptions() {
+  let captionImages = $('img[data-caption]');
+  for (let i = 0; i < captionImages.length; i++) {
+    let captionImage = captionImages[i];
+    let caption = $(captionImage).data('caption');
+    if (caption == '##TITLE') {
+      caption = $(captionImage).attr('title');
+    }
+
+    let imageOffset = $(captionImage).offset();
+    let imageWidth = $(captionImage).width();
+    let imageHeight = $(captionImage).height();
+    
+    let captionElement = $('<span>', {'html': caption, 'class': 'imageCaption'}).appendTo(document.body);
+    let captionX = imageOffset.left;
+    let captionY = imageOffset.top + imageHeight - $(captionElement).height() + 1;
+    $(captionElement).css({'top': captionY, 'left': captionX, 'width': imageWidth, 'position': 'absolute'});
+  }
+}
+
+function Start_Page(){
+	if($('#bbcodes')!=undefined){
+		addSmileys();
+		$('input',$('#bbcodes')).click(function(){
+			var tag=bbcodes[$(this).attr('id').substr(3,1)];
+			insertAtCursor($('#textf'),"["+tag+"]","[/"+tag+"]",0);
+		});
+	}
+
+	$('#goldenlane_akcio_cb').click(function(){
+		if ($(this).prop("checked")){
+			$('#ajandekgoldenlane').hide();
+			$('#glnemszeretnem').prop("checked",true);
+			$('#fizetendo').html(fizetendo);
+		}
+		else{
+			$('#ajandekgoldenlane').show();
+			$('#fizetendo').html(eredetiar);
+		}
+	});
+
+	$('#meadow_akcio_cb').click(function(){
+		if($(this).prop("checked")){ $('#fizetendo').html(fizetendo); }
+		else{ $('#fizetendo').html(eredetiar); }
+	});
+
+	lapnwInit();
+	InitImageCaptions();
+}
+
+function autoComplet(elem, tipus, hintsub=""){
+	var position = $("#"+elem).position();
+	$("#hint"+hintsub).css({'position':"absolute", 'top': position.top+17, 'left': position.left, 'background-color':'#F1E1C6', 'width':'364px', 'padding-left':'3px', 'border':'1px solid'});
+	$("#hint"+hintsub).hide();
+ 	$("#"+elem).keyup(function(event) {
+		$.post("/php/autocomplet.php", {'tipus':tipus, 'value':$("#"+elem).val()}, function(data) {
+			if(data != ""){
+				$("#hint"+hintsub).show();
+			}else{
+				$("#hint"+hintsub).hide();
+			}
+			$("#hint"+hintsub).html(data);
+			$("#hint"+hintsub+" li").click(function(){
+				$("#"+elem).val($(this).html());
+				$("#hint"+hintsub).html("");
+				$("#hint"+hintsub).hide();
+			});
+		});
+	});
+}
+function email_convert(){
+	$('a').each(function(index){
+		if(typeof($(this).attr("href")) != 'undefined'){
+			var tmp = $(this).attr("href").split(":");
+			if(tmp[0] == "levelkuldes"){
+				var str = tmp[1].replace("{kukk}", '@');
+				while(str.indexOf('{kukk}') != -1){
+					str = str.replace("{kukk}", '@');
+				}
+				while(str.indexOf('{ponty}') != -1){
+					str = str.replace("{ponty}", '.');
+				}
+				$(this).attr("href", 'mailto:'+str)
+				var hstr = $(this).html();
+				while(hstr.indexOf('{kukk}') != -1){
+					hstr = hstr.replace("{kukk}", '@');
+				}
+				while(hstr.indexOf('{ponty}') != -1){
+					hstr = hstr.replace("{ponty}", '.');
+				}
+				$(this).html(hstr);
+			}
+		}
+	});
+}
+function myTooltipIMG(){
+	$('.myTooltip').each(function(index){
+		if($(this).attr('image')){
+			$(this).attr({'title':'tooltip'});
+			if(Math.floor($(this).position().left) < Math.floor($( window ).width()/2)){
+				$(this).tooltip({track: true, content: '<img src="'+$(this).attr('image')+'" />', tooltipClass:'ttipNoBord', position: { my: "left+30 center-20", of:'window', collision: "fit"}});
+			}else{
+				$(this).tooltip({track: true, content: '<img src="'+$(this).attr('image')+'" />', tooltipClass:'ttipNoBord', position: { my: "left-400 center-20", of:'window', collision: "fit"}});
+			}
+			$(this).css({'color':'#0067a3', 'font-weight':'bold'});
+		}
+	});
+}
+$(window).load(function (){ Start_Page();email_convert();myTooltipIMG();});
+function captchaRefresh(){
+	$("#captcha").attr('src', "php/captcha_text.php?"+Math.random());
+}

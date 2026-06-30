@@ -1,0 +1,40 @@
+﻿11698 | A feltámadás vize | Raia bűbáj
+11694 | Árnylord (2026) | Leah szörny
+11699 | Az eretnekek felkutatása | Raia azonnali
+11695 | Béklyózó Árny | Leah szörny
+11686 | Brutális burástya | Elenios szörny
+11687 | Burástya kitingyűjtögető (2026) | Elenios szörny
+11702 | Butítás (2026) | Rhatt általános
+11700 | Cápaporonty | Raia szörny
+11678 | Csápmester (2026) | Chara-din szörny
+11688 | Elena Merdarogh | Elenios kalandozó
+11690 | Energiasokk | Fairlight azonnali
+11679 | Erősebb sav | Chara-din bűbáj
+11710 | Goblin fürkész (2026) | Tharr szörny
+11711 | Goblin pengevirtuóz (2026) | Tharr szörny
+11712 | Goblin tőrkovács (2026) | Tharr szörny
+11691 | Hatalomkristály (2026) | Fairlight tárgy
+11714 | Izom vagy agy | Tharr-Fairlight azonnali
+11680 | Káoszkapu (2026) | Chara-din építmény
+11701 | Királyi adó (2026) | Raia általános
+11703 | Ködkristály | Rhatt tárgy
+11705 | Körforgás (2026) | Sheran azonnali
+11715 | Kreátor sejtduzzasztója | Fairlight-Sheran bűbáj
+11706 | Lélekterelő | Sheran kalandozó
+11707 | Lohd Haven kehesése | Sheran azonnali
+11708 | Lohd Haven munkaszehződése | Sheran bűbáj lapra
+11716 | Manaszaurusz | Sheran-Elenios szörny
+11713 | Moa gránátvető | Tharr tárgy
+11696 | Néma motyogó (2026) | Leah szörny
+11704 | Ozohrat megoldása (2026) | Rhatt azonnali
+11717 | Páncéltörés | Fairlight-Sheran azonnali
+11681 | Quwarg inspirátor (2026) | Dornodon szörny
+11682 | Quwarg kincstáros (2026) | Dornodon szörny
+11683 | Quwarg rajzás (2026) | Dornodon azonnali
+11689 | Trimadillo | Elenios kalandozó
+11684 | Tsalez Lau'pez (2026) | Dornodon kalandozó
+11709 | Vadonc | Sheran kalandozó
+11697 | Yaurri jégtalizmán (2026) | Leah tárgy
+11685 | Yaurri pokoltalizmán (2026) | Dornodon tárgy
+11692 | Yaurri vihartalizmán (2026) | Fairlight tárgy
+11693 | Zu'lit korvettje | Fairlight építmény

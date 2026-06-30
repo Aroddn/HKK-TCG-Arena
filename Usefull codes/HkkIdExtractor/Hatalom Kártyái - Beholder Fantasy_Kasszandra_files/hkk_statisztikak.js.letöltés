@@ -1,0 +1,67 @@
+class HKKStatisztikak {
+  order = '';
+  lapokTable = null;
+  lapok = [];
+
+  constructor() {
+    this.lapokTable = $('.HKKStatisztikakLapok');
+    let self = this;
+    $('td[data-order="lapNev"]').click(function() {self.OrderBy('lapNev')});
+    $('td[data-order="alap"]').click(function() {self.OrderBy('alap')});
+    $('td[data-order="alap_top"]').click(function() {self.OrderBy('alap_top')});
+    $('td[data-order="side"]').click(function() {self.OrderBy('side')});
+    $('td[data-order="side_top"]').click(function() {self.OrderBy('side_top')});
+
+    this.CollectLapokFromTable();
+  }
+
+  OrderBy(order) {
+    if (this.order == '') {
+      this.order = order;
+    } else if (this.order[0] == "d") {
+      this.order = order;
+    } else {
+      this.order = 'd' + order;
+    }
+
+
+    let self = this;
+    this.lapok.sort((a,b) => { return self['OrderBy' + self.order](a,b); } );
+
+    this.RefreshTable();
+  }
+
+  OrderByalap(a,b) { return a.alap < b.alap ? 1 : -1; }
+  OrderBydalap(a,b) { return this.OrderByalap(a,b) * -1; }
+  OrderByalap_top(a,b) { return a.alap_top < b.alap_top ? 1 : -1; }
+  OrderBydalap_top(a,b) { return this.OrderByalap_top(a,b) * -1; }
+  OrderBylapNev(a,b) { return a.name < b.name ? 1 : -1; }
+  OrderBydlapNev(a,b) { return this.OrderBylapNev(a,b) * -1; }
+  OrderByside(a,b) { return a.side < b.side ? 1 : -1; }
+  OrderBydside(a,b) { return this.OrderByside(a,b) * -1; }
+  OrderByside_top(a,b) { return a.side_top < b.side_top ? 1 : -1; }
+  OrderBydside_top(a,b) { return this.OrderByside_top(a,b) * -1; }
+
+  CollectLapokFromTable() {
+    let rows = $('tr',this.lapokTable);
+    for (let row = 1; row < rows.length; row++) {
+      let cells = $('td', $(rows[row]));
+      let lapData = {
+        'defaultPos': parseInt($(cells[0]).html()),
+        'name': $('a',$(cells[1])).html(),
+        'linkAndName': $(cells[1]).html(),
+        'alap': parseInt($(cells[2]).html()),
+        'alapTop': parseInt($(cells[3]).html()),
+        'side': parseInt($(cells[4]).html()),
+        'sideTop': parseInt($(cells[5]).html()),
+      }
+      this.lapok.push(lapData);
+    }
+  }
+
+  RefreshTable() {
+    for (let i = 0; i < this.lapok.length; i++) {
+      console.log(this.lapok[i]);
+    }
+  }
+}

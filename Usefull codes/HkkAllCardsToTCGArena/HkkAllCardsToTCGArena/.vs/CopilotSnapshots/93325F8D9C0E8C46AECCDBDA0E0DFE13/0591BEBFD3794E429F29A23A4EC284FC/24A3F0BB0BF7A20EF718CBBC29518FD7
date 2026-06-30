@@ -1,0 +1,10 @@
+﻿using System;
+
+public class Class1
+{
+	public static string HkkTableFejlec = "<script>tablefejlec('HKK lapkereső');</script>";
+
+	public Class1()
+	{
+	}
+}

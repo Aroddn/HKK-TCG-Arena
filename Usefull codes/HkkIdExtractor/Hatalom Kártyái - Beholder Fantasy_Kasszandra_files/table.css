@@ -1,0 +1,52 @@
+TABLE{ FONT-SIZE:14px;}
+TD.tablefelsobalsarokvastag{ BACKGROUND: url("pic/table/felsobalsarokvastag.png") no-repeat; WIDTH:24; HEIGHT:32px;}
+TD.tablefelsobalsarokvastaghatter{ BACKGROUND: url("pic/table/felsobalsarokvastaghatter.png") no-repeat; WIDTH:12; HEIGHT:25px;}
+TD.tablefelsobalsarokvekony{ BACKGROUND: url("pic/table/felsobalsarokvekony.png") no-repeat; WIDTH:24; HEIGHT:32px;}
+TD.tablefelsojobbsarokvastag{ BACKGROUND: url("pic/table/felsojobbsarokvastag.png") no-repeat; WIDTH:24px; HEIGHT:32px;}
+TD.tablefelsojobbsarokvastaghatter{ BACKGROUND: url("pic/table/felsojobbsarokvastaghatter.png") no-repeat; WIDTH:12px; HEIGHT:25px;}
+TD.tablefelsojobbsarokvekony{ BACKGROUND: url("pic/table/felsojobbsarokvekony.png") no-repeat; WIDTH:24px; HEIGHT:32px;}
+TD.tablefelsovastag{ BACKGROUND: url("pic/table/felsovastag.png") repeat-x; HEIGHT:32px; PADDING-TOP:4px; VERTICAL-ALIGN: Middle; PADDING: 0px; COLOR:#F7EBD6; FONT-FAMILY: Sans-Serif; FONT-SIZE:15px; FONT-VARIANT:small-caps; FONT-WEIGHT:bold;}
+TD.tablefelsovastaghatter{ BACKGROUND: url("pic/table/felsovastaghatter.png") repeat-x; HEIGHT:25px; PADDING-TOP:4px; VERTICAL-ALIGN: Middle; PADDING: 0px; COLOR:#F7EBD6; FONT-FAMILY: Sans-Serif; FONT-SIZE:15px; FONT-VARIANT:small-caps; FONT-WEIGHT:bold;}
+TD.tablefelsovekony{ BACKGROUND: url("pic/table/felsovekony.png") repeat-x; WIDTH:150px; HEIGHT:32px;}
+TD.tablefelsovekony2{ BACKGROUND: url("pic/table/felsovekony.png") repeat-x; HEIGHT:32px;}
+TD.tablefelsovalto{ BACKGROUND: url("pic/table/felsovalto.png") no-repeat; WIDTH:16px; HEIGHT:32px;}
+TD.tablebalvekony{ BACKGROUND: url("pic/table/balvekony.png") repeat-y; WIDTH:24;}
+TD.tablebalvekonyhatter{ BACKGROUND: url("pic/table/balvekonyhatter.png") repeat-y; WIDTH:12;}
+TD.tablejobbvekony{ BACKGROUND: url("pic/table/jobbvekony.png") repeat-y; WIDTH:24;}
+TD.tablejobbvekonyhatter{ BACKGROUND: url("pic/table/jobbvekonyhatter.png") repeat-y; WIDTH:12;}
+TD.tablealsobalsarokvastag{ BACKGROUND: url("pic/table/alsobalsarokvastag.png") no-repeat; WIDTH:24; HEIGHT:32px;}
+TD.tablealsobalsarokvekony{ BACKGROUND: url("pic/table/alsobalsarokvekony.png") no-repeat; WIDTH:24; HEIGHT:32px;}
+TD.tablealsobalsarokvekonyhatter{ BACKGROUND: url("pic/table/alsobalsarokvekonyhatter.png") no-repeat; WIDTH:12; HEIGHT:12px;}
+TD.tablealsojobbsarokvastag{ BACKGROUND: url("pic/table/alsojobbsarokvastag.png") no-repeat; WIDTH:24px; HEIGHT:32px;}
+TD.tablealsojobbsarokvekony{ BACKGROUND: url("pic/table/alsojobbsarokvekony.png") no-repeat; WIDTH:24px; HEIGHT:32px;}
+TD.tablealsojobbsarokvekonyhatter{ BACKGROUND: url("pic/table/alsojobbsarokvekonyhatter.png") no-repeat; WIDTH:12px; HEIGHT:12px;}
+TD.tablealsovekony{ BACKGROUND: url("pic/table/alsovekony.png") repeat-x; HEIGHT:32px;}
+TD.tablealsovekonyhatter{ BACKGROUND: url("pic/table/alsovekonyhatter.png") repeat-x; HEIGHT:12px;}
+TD.tablealsovalto{ BACKGROUND: url("pic/table/alsovalto.png") no-repeat; WIDTH:16px; HEIGHT:32px;}
+TD.tablealsovastag{ BACKGROUND: url("pic/table/alsovastag.png") repeat-x; WIDTH:161px; HEIGHT:32px; PADDING-BOTTOM:11px; TEXT-ALIGN:right; COLOR:#F7EBD6; FONT-FAMILY:serif; FONT-SIZE:11px; FONT-WEIGHT:normal;}
+TD.tablealsovastag2{ BACKGROUND: url("pic/table/alsovastag.png") repeat-x; HEIGHT:32px; PADDING-BOTTOM:11px; TEXT-ALIGN:right; COLOR:#F7EBD6; FONT-FAMILY:serif; FONT-SIZE:11px; FONT-WEIGHT:normal;}
+.tablebody{ BACKGROUND: url("pic/table/tablebg.jpg"); VERTICAL-ALIGN:top; TEXT-ALIGN:justify; PADDING:5px; COLOR:#291D17; FONT-SIZE:14px;}
+.tablebodyhatter{ BACKGROUND: url("pic/table/tablehatter.jpg"); VERTICAL-ALIGN:top; TEXT-ALIGN:justify; PADDING:5px; COLOR:#291D17; FONT-SIZE:14px;}
+.tablebody2{ BACKGROUND: url("pic/table/tablebg.jpg"); VERTICAL-ALIGN:top; TEXT-ALIGN:justify; PADDING:0px; COLOR:#291D17; FONT-SIZE:14px;}
+TD.tablebalelvalaszto{ BACKGROUND: url("pic/table/balelvalaszto.png"); WIDTH:24px; HEIGHT:16px;}
+TD.tablejobbelvalaszto{	BACKGROUND: url("pic/table/jobbelvalaszto.png"); WIDTH:24px; HEIGHT:16px;}
+TD.tableelvalaszto{ BACKGROUND: url("pic/table/elvalaszto.jpg"); HEIGHT:16px;}
+TD.tablefelsovastag2{ BACKGROUND: url("pic/table/felsovastag2.jpg") no-repeat; WIDTH:200px; HEIGHT:30px; PADDING-BOTTOM:4px; PADDING-LEFT:0px; COLOR:#F7EBD6; TEXT-ALIGN:center; FONT-FAMILY:serif; FONT-SIZE:12px; FONT-VARIANT:small-caps; FONT-WEIGHT:bold;}
+TD.tablefelsovekony22{ BACKGROUND: url("pic/table/felsovekony2.jpg") no-repeat; WIDTH:200px; HEIGHT:10px;}
+TD.tablealsovekony2{ BACKGROUND: url("pic/table/alsovekony2.jpg") no-repeat; WIDTH:200px; HEIGHT:10px;}
+TD.tablebody2{ BACKGROUND: url("pic/table/tablebg2.jpg"); WIDTH:200px; VERTICAL-ALIGN:top; TEXT-ALIGN:left; PADDING-LEFT:15px; PADDING-RIGHT:15px; COLOR:#291D17; FONT-SIZE:11px;}
+TABLE.tablebody2b{ COLOR:#291D17; FONT-SIZE:11px;}
+TD.tablebodyimg2{ BACKGROUND: url("pic/table/tablebg2.jpg"); WIDTH:200px; PADDING-LEFT:10px;}
+TD.tableelvalaszto2{ BACKGROUND: url("pic/table/elvalaszto2.jpg") no-repeat; WIDTH:200px; HEIGHT:12px;}
+TD.tablefelsobalvekony3{ BACKGROUND: url("pic/table/felsobalvekony3.png") no-repeat; WIDTH:15px; HEIGHT:15px;DISPLAY:block;}
+TD.tablefelsojobbvekony3{ BACKGROUND: url("pic/table/felsojobbvekony3.png") no-repeat; WIDTH:15px; HEIGHT:15px;DISPLAY:block;}
+TD.tablealsobalvekony3{	BACKGROUND: url("pic/table/alsobalvekony3.png") no-repeat; WIDTH:15px; HEIGHT:15px;}
+TD.tablealsojobbvekony3{ BACKGROUND: url("pic/table/alsojobbvekony3.png") no-repeat; WIDTH:15px; HEIGHT:15px;}
+TD.tablefelsovekony3{ BACKGROUND: url("pic/table/felsovekony3.png") repeat-x; HEIGHT:15px;}
+TD.tableelvalaszto3{ BACKGROUND: url("pic/table/elvalaszto3.jpg") repeat-x; HEIGHT:15px;}
+TD.tablealsovekony3{ BACKGROUND: url("pic/table/alsovekony3.png") repeat-x; HEIGHT:15px;}
+TD.tablebalvekony3{ BACKGROUND: url("pic/table/balvekony3.png") repeat-y; WIDTH:15px;}
+TD.tablejobbvekony3{ BACKGROUND: url("pic/table/jobbvekony3.png") repeat-y; WIDTH:15px;}
+TD.tablebodyfejlec{ BACKGROUND: url(pic/table/tablebgfejlec.jpg); PADDING:5px; TEXT-ALIGN:center; COLOR:#F7EBD6; FONT-SIZE:20px; FONT-WEIGHT:bold; FONT-VARIANT: small-caps;}
+TD.tablebodymsg{ BACKGROUND: url(pic/table/tablebgmsg.jpg); PADDING:5px; TEXT-ALIGN:center; COLOR:#F7EBD6; FONT-SIZE:14px; FONT-WEIGHT:bold; FONT-VARIANT: small-caps;}
+TD.tablebodyalert{ BACKGROUND: url(pic/table/tablebgalert.jpg); PADDING:5px; TEXT-ALIGN:center; COLOR:#F7EBD6; FONT-SIZE:14px; FONT-WEIGHT:bold; FONT-VARIANT: small-caps;}

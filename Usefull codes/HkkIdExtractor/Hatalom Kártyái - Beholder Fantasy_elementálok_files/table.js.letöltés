@@ -1,0 +1,215 @@
+function tableheadvalto(text){
+	if(typeof(text) == "undefined") text="";
+   document.write('<table border=0 width=100% cellpadding=0 cellspacing=0><tr><td class=tablefelsobalsarokvastag>&nbsp;</td> <td><table border=0 width=100% cellpadding=0 cellspacing=0><tr> <td class=tablefelsovastag>'+ text +'</td><td class=tablefelsovalto>&nbsp;</td><td class=tablefelsovekony>&nbsp;</td> </tr></table></td> <td class=tablefelsojobbsarokvekony>&nbsp;</td></tr><tr><td class=tablebalvekony>&nbsp;</td><td class=tablebody>');
+}
+
+function tableheadvaltoimg(text,img){
+	if(typeof(text) == "undefined") text="";
+   document.write('<table border=0 width=100% cellpadding=0 cellspacing=0><tr><td class=tablefelsobalsarokvastag>&nbsp;</td> <td><table border=0 width=100% cellpadding=0 cellspacing=0><tr><td class=tablefelsovastag width=101><img src='+img+' width=96 height=32 hspace=5 vspace=0 border=0></td><td class=tablefelsovastag>'+ text +'</td><td class=tablefelsovalto>&nbsp;</td><td class=tablefelsovekony>&nbsp;</td> </tr></table></td> <td class=tablefelsojobbsarokvekony>&nbsp;</td></tr><tr><td class=tablebalvekony>&nbsp;</td><td class=tablebody>');
+}
+
+function tableheadvastag(text){
+	if(typeof(text) == "undefined") text="";
+   document.write('<table border=0 width=100% cellpadding=0 cellspacing=0><tr><td class=tablefelsobalsarokvastag>&nbsp;</td> <td class=tablefelsovastag>'+text+'</td> <td class=tablefelsojobbsarokvastag>&nbsp;</td></tr><tr><td class=tablebalvekony>&nbsp;</td><td class=tablebody>');
+}
+
+function tableheadvastaghatter(text){
+	if(typeof(text) == "undefined") text="";
+   document.write('<table border=0 width=100% cellpadding=0 cellspacing=0><tr><td class=tablefelsobalsarokvastaghatter>&nbsp;</td> <td class=tablefelsovastaghatter>'+text+'</td> <td class=tablefelsojobbsarokvastaghatter>&nbsp;</td></tr><tr><td class=tablebalvekonyhatter>&nbsp;</td><td class=tablebodyhatter>');
+}
+
+function tableheadvastagrugo(text){
+	if(typeof(text) == "undefined") text="";
+   document.write('<table border=0 cellpadding=0 cellspacing=0><tr><td class=tablefelsobalsarokvastag>&nbsp;</td> <td class=tablefelsovastag>'+text+'</td> <td class=tablefelsojobbsarokvastag>&nbsp;</td></tr><tr><td class=tablebalvekony>&nbsp;</td><td class=tablebody>');
+}
+
+function tableheadvastagimg(text,img){
+	if(typeof(text) == "undefined") text="";
+   document.write('<table border=0 width=100% cellpadding=0 cellspacing=0><tr><td class=tablefelsobalsarokvastag>&nbsp;</td><td><table border=0 width=100% cellpadding=0 cellspacing=0><tr><td class=tablefelsovastag width=101><img src='+img+' width=96 height=32 hspace=5 vspace=0 border=0></td><td class=tablefelsovastag>'+text+'</td></tr></table></td> <td class=tablefelsojobbsarokvastag>&nbsp;</td></tr><tr><td class=tablebalvekony>&nbsp;</td><td class=tablebody>');
+}
+
+function tableheadvekony(){
+   document.write('<table border=0 width=100% cellpadding=0 cellspacing=0><tr><td class=tablefelsobalsarokvekony>&nbsp;</td> <td class=tablefelsovekony2>&nbsp;</td> <td class=tablefelsojobbsarokvekony>&nbsp;</td></tr><tr><td class=tablebalvekony>&nbsp;</td><td class=tablebody>');
+}
+
+function tableendvalto(text){
+	if(typeof(text) == "undefined") text="";
+   document.write('</td><td class=tablejobbvekony>&nbsp;</td></tr><tr><td class=tablealsobalsarokvekony>&nbsp;</td> <td><table border=0 width=100% cellpadding=0 cellspacing=0><tr> <td class=tablealsovekony>&nbsp;</td><td class=tablealsovalto>&nbsp;</td><td class=tablealsovastag>'+text+'</td> </tr></table></td> <td class=tablealsojobbsarokvastag>&nbsp;</td></tr></table>');
+}
+
+function tableendvastag(text){
+	if(typeof(text) == "undefined") text="";
+   document.write('</td><td class=tablejobbvekony>&nbsp;</td></tr><tr><td class=tablealsobalsarokvastag>&nbsp;</td> <td class=tablealsovastag2>'+text+'</td> <td class=tablealsojobbsarokvastag>&nbsp;</td></tr></table>');
+}
+
+function tableendvekony(){
+   document.write('</td><td class=tablejobbvekony>&nbsp;</td></tr><tr><td class=tablealsobalsarokvekony>&nbsp;</td> <td class=tablealsovekony>&nbsp;</td> <td class=tablealsojobbsarokvekony>&nbsp;</td></tr></table>');
+}
+
+function tableendvekonyhatter(){
+   document.write('</td><td class=tablejobbvekonyhatter>&nbsp;</td></tr><tr><td class=tablealsobalsarokvekonyhatter>&nbsp;</td> <td class=tablealsovekonyhatter>&nbsp;</td> <td class=tablealsojobbsarokvekonyhatter>&nbsp;</td></tr></table>');
+}
+
+function tableline(){
+   document.write('</td><td class=tablejobbvekony>&nbsp;</td></tr><tr><td class=tablebalelvalaszto>&nbsp;</td> <td class=tableelvalaszto>&nbsp;</td> <td class=tablejobbelvalaszto>&nbsp;</td></tr><tr><td class=tablebalvekony>&nbsp;</td><td class=tablebody>');
+}
+
+function tableheadvastag2(text){
+	if(typeof(text) == "undefined") text="";
+   document.write('<table border=0 width=200 cellpadding=0 cellspacing=0><tr><td class=tablefelsovastag2>'+text+'</td></tr><tr><td class=tablebody2>');
+}
+
+function tableheadvastag3(text){
+	if(typeof(text) == "undefined") text="";
+   document.write('<table border=0 width=200 cellpadding=0 cellspacing=0><tr><td class=tablefelsovastag2>'+text+'</td></tr><tr><td class=tablebodyimg2>');
+}
+
+function tableline3(){
+   document.write('</td></tr><tr><td class=tableelvalaszto2></td></tr><tr><td class=tablebodyimg2>');
+}
+
+function tableheadvekony2(){
+   document.write('<table border=0 width=200 cellpadding=0 cellspacing=0><tr><td class=tablefelsovekony22></td></tr><tr><td class=tablebody2>');
+}
+
+function tableline2(){
+   document.write('</td></tr><tr><td class=tableelvalaszto2></td></tr><tr><td class=tablebody2>');
+}
+
+function tableendvekony2(){
+   document.write('</td></tr><tr><td class=tablealsovekony2>&nbsp;</td></tr></table>');
+}
+
+function tableimgvastag2(text,img){
+	if(typeof(text) == "undefined") text="";
+   document.write('<table border=0 width=200 cellpadding=0 cellspacing=0><tr><td class=tablefelsovastag2>'+text+'</td></tr><tr><td class=tablebodyimg2><img src='+img+'>');
+}
+
+function tableimgvekony2(img){
+   document.write('<table border=0 width=200 cellpadding=0 cellspacing=0><tr><td class=tablefelsovekony22></td></tr><tr><td class=tablebodyimg2><img src='+img+'>');
+}
+
+function tableheadvekony3(){
+   document.write('<table border=0 width=100% cellpadding=0 cellspacing=0><tr><td class=tablefelsobalvekony3></td><td class=tablefelsovekony3></td><td class=tablefelsojobbvekony3></td></tr><tr><td class=tablebalvekony3></td><td>');
+}
+
+function tableendvekony3(){
+   document.write('</td><td class=tablejobbvekony3>&nbsp;</td></tr><tr><td class=tablealsobalvekony3>&nbsp;</td> <td class=tablealsovekony3>&nbsp;</td> <td class=tablealsojobbvekony3>&nbsp;</td></tr></table>');
+}
+
+function tablefejlec(text){
+	if(typeof(text) == "undefined") text="";
+   document.write('<table border=0 width=100% cellpadding=0 cellspacing=0><tr><td class=tablefelsobalvekony3></td><td class=tablefelsovekony3></td><td class=tablefelsojobbvekony3></td></tr><tr><td class=tablebalvekony3></td><td class=tablebodyfejlec>'+text);
+   tableendvekony3();
+   document.write('<BR>');
+}
+
+function tablealmenu(text,width){
+	if(typeof(text) == "undefined") text="";
+   document.write('<P><table border=0 cellpadding=0 cellspacing=0 width=100% ALIGN=center><tr><td style=\"background:url(pic/table/hr-b.png); width:10px; height:30px;\">&nbsp;</td><td style=\"background:url(pic/table/hr.jpg); width:'+width+'px; height:30px; padding-left:5px; padding-right:5px; font-size:14px; color:white; font-weight:bold; text-align:center;\">'+text+'</td><td style=\"background:url(pic/table/hr-j.png); width:10px; height:30px;\">&nbsp;</td></tr></table></P>');
+}
+
+function tablealmenu2(text){
+	if(typeof(text) == "undefined") text="";
+   document.write('<P><B><span class=16px><CENTER>..: '+text+' :..</CENTER></span></B></P>');
+}
+
+function tablemsgbox(text){
+	if(typeof(text) == "undefined") text="";
+   document.write('<P><TABLE BORDER=0 ALIGN=CENTER WIDTH=80% CELLPADDING=0 CELLSPACING=0><tr><td class=tablefelsobalvekony3></td><td class=tablefelsovekony3></td><td class=tablefelsojobbvekony3></td></tr><tr><td class=tablebalvekony3></td><td class=tablebodymsg>'+text);
+   tableendvekony3();
+   document.write('<P>');
+}
+
+function tablealert(text){
+	if(typeof(text) == "undefined") text="";
+   document.write('<P><TABLE BORDER=0 ALIGN=CENTER WIDTH=80% CELLPADDING=0 CELLSPACING=0><tr><td class=tablefelsobalvekony3></td><td class=tablefelsovekony3></td><td class=tablefelsojobbvekony3></td></tr><TR><TD CLASS=tablebalvekony3></TD><TD CLASS=tablebodyalert>'+text);
+   tableendvekony3();
+   document.write('<P>');
+}
+
+function tableimg(img,align,title,margin,href,width,name,felirat){
+   if(!title) title=""; 
+	if(!margin) margin=0;
+	var widthTxt = '';
+	var height = false;
+   if(width && width.toString()[0] == 'h'){
+	   width = width.toString().slice(1);
+	   if(width && width.toString().lastIndexOf("%") == -1){
+			widthTxt = 'HEIGHT:'+(parseInt(width)+30)+'px;';
+		}else{
+			widthTxt = 'HEIGHT:'+width+';';
+			width = false;
+			height = '100%';
+		}
+   }else{
+	   if(width && width.toString().lastIndexOf("%") == -1){
+			widthTxt = 'WIDTH:'+(parseInt(width)+30)+'px;';
+		}else{
+			widthTxt = 'WIDTH:'+width+';';
+			width = '100%';
+		}
+   }
+   document.write('<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 ALIGN='+align+' STYLE="MARGIN-LEFT:'+margin+'px; MARGIN-RIGHT:'+margin+'px;'+widthTxt+'TEXT-INDENT:0px;"><TR><TD CLASS=tablefelsobalvekony3></TD><TD CLASS=tablefelsovekony3></TD><TD CLASS=tablefelsojobbvekony3></TD></TR><TR><TD CLASS=tablebalvekony3></TD><TD>');
+   if(href) document.write('<A HREF='+href+(href.substring(0,7)=='http://'?' TARGET=othersite':'')+'>');
+   document.write('<IMG SRC='+img+' BORDER=0 TITLE="'+title+'"');
+   if(width) document.write(' WIDTH='+width);
+   if(height) document.write(' HEIGHT='+height);
+   if (name) document.write(' NAME='+name);
+   document.write('>');
+   if(href) document.write('</A>');
+	if(felirat){
+		document.write('<br><center>'+felirat+'</center>');
+	}
+   document.write('</td><td class=tablejobbvekony3></td></tr><tr><td class=tablealsobalvekony3></td><td class=tablealsovekony3></td><td class=tablealsojobbvekony3></td></tr></table>');
+}
+
+function tableheadvekonyrugo(center,padding){
+   if(center) document.write('<CENTER>');
+   document.write('<table border=0 cellpadding=0 cellspacing=0><tr><td class=tablefelsobalvekony3></td><td class=tablefelsovekony3></td><td class=tablefelsojobbvekony3></td></tr><tr><td class=tablebalvekony3></td><td class=tablebody');
+   if(padding) document.write(' STYLE="PADDING:'+padding+'px;"');
+   document.write('>');
+}
+
+function tableheadvekonyrugo2($center){
+   if($center) document.write('<CENTER>');
+   document.write('<table border=0 cellpadding=0 cellspacing=0><tr><td class=tablefelsobalvekony3></td><td class=tablefelsovekony3></td><td class=tablefelsojobbvekony3></td></tr><tr><td class=tablebalvekony3></td><td class=tablebody2>');
+}
+
+
+function tableendvekonyrugo(){
+   document.write('</td><td class=tablejobbvekony3></td></tr><tr><td class=tablealsobalvekony3></td><td class=tablealsovekony3></td><td class=tablealsojobbvekony3></td></tr></table>');
+}
+
+function tableinfo(text,width){
+	if(typeof(text) == "undefined") text="";
+   if(!width) width=94;
+   document.write('<CENTER><TABLE BORDER=0'+(width!=-1?'WIDTH='+width+'%':'')+'STYLE="VERTICAL-ALIGN:Top; PADDING:5px; TEXT-ALIGN:Justify; FONT-SIZE:12px;"><TR><TD WIDTH=30><IMG SRC="pic/kerdojel.png"></TD><TD>'+text+'</TD></TR></TABLE></CENTER>');
+}
+
+function gomb(text,link,onclick,align){
+	if(typeof(text) == "undefined") text="";
+   if(!align) align='LEFT';
+   document.write('<table border=0 cellpadding=0 cellspacing=0 ALIGN='+align+'><tr><td style=\"background:url(pic/table/gomb_bal.gif); width:16px; height:32px;\">&nbsp;</td><td style=\"background:url(pic/table/gomb_kozep.jpg); height:32px; padding-left:5px; padding-right:5px;\"><a '+(onclick?'onClick='+onclick:'href='+link)+' style=\"font-size:11px; color:white; font-weight:bold;TEXT-DECORATION: none;CURSOR:pointer;\">'+text+'</a></td><td style=\"background:url(pic/table/gomb_jobb.gif); width:16px; height:32px;\">&nbsp;</td></tr></table>');
+}
+function gomb_nagy(text,link,onclick,align){
+	if(typeof(text) == "undefined") text="";
+   if(!align) align='LEFT';
+   document.write('<table border=0 cellpadding=0 cellspacing=0 ALIGN='+align+'><tr><td style=\"background:url(pic/table/gomb_bal.gif);background-repeat: no-repeat; background-size: cover; width:32px; height:64px;\">&nbsp;</td><td style=\"background:url(pic/table/gomb_kozep.jpg); background-repeat: repeat-x; background-size: contain; height:64px; padding-left:5px; padding-right:5px;\"><a '+(onclick?'onClick='+onclick:'href='+link)+' style=\"font-size:22px; color:white; font-weight:bold;TEXT-DECORATION: none;CURSOR:pointer;\">'+text+'</a></td><td style=\"background:url(pic/table/gomb_jobb.gif); background-repeat: no-repeat; background-size: cover; width:32px; height:64px;\">&nbsp;</td></tr></table>');
+}
+
+function forumhead(nev,datum){
+   document.write('<table border=0 cellpadding=0 cellspacing=0 align=center width=100%><tr><td style="width:6px; height:32px; background:url(pic/table/frm_bf.jpg) no-repeat;">&nbsp;</td><td style="height:32px; background:url(pic/table/frm_fej.jpg) repeat-x;"><table border=0 width=100%><tr><td style="color:white; font-size:14px; text-align:left;" NOWRAP><b>'+nev+'</b></td><td style="width:140px; color:white; font-size:11px; text-align:right;">'+datum+'</td></tr></table></td><td style="width:6px; height:32px; background:url(pic/table/frm_jf.jpg) no-repeat;">&nbsp;</td></tr><tr><td style="width:6px; background:url(pic/table/frm_b.jpg) repeat-y;">&nbsp;</td><td style="background:url(pic/table/frm_bg.jpg); padding:5px; padding-bottom:0px;">');
+}
+function forumhead_my(nev,datum){
+   document.write('<table border=0 cellpadding=0 cellspacing=0 align=center width=100%><tr><td style="width:6px; height:32px; background:url(pic/table/frm_bf_my.jpg) no-repeat;">&nbsp;</td><td style="height:32px; background:url(pic/table/frm_fej_my.jpg) repeat-x;"><table border=0 width=100%><tr><td style="color:white; font-size:14px; text-align:left;" NOWRAP><b>'+nev+'</b></td><td style="width:140px; color:white; font-size:11px; text-align:right;">'+datum+'</td></tr></table></td><td style="width:6px; height:32px; background:url(pic/table/frm_jf_my.jpg) no-repeat;">&nbsp;</td></tr><tr><td style="width:6px; background:url(pic/table/frm_b.jpg) repeat-y;">&nbsp;</td><td style="background:url(pic/table/frm_bg.jpg); padding:5px; padding-bottom:0px;">');
+}
+
+function forumend(){
+   document.write('</td><td style="width:6px; background:url(pic/table/frm_j.jpg) repeat-y;">&nbsp;</td></tr><tr><td style="width:6px; height:18px; background:url(pic/table/frm_ba.jpg) no-repeat;">&nbsp;</td><td style="height:18px; background:url(pic/table/frm_a.jpg) repeat-x;"></td><td style="width:6px; height:18px; background:url(pic/table/frm_ja.jpg) no-repeat;">&nbsp;</td></tr></table>');
+}
+
+function tablecim(text){
+	if(typeof(text) == "undefined") text="";
+   document.write('</td><tr><td style="width:200px; height:18px; background:url(pic/table/tablecim.jpg) no-repeat; color:black; text-align:center; font-weight:bold; font-size:11px;">'+text+'</td><tr><td class=tablebody2>');
+}

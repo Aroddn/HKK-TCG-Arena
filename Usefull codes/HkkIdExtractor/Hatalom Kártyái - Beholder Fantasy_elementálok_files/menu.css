@@ -1,0 +1,16 @@
+#mousetrap{ Z-INDEX: 1; LEFT: 0px; VISIBILITY: hidden; POSITION: absolute; TOP: 0px;}
+#menu1{	Z-INDEX: 100; LEFT: 302px; VISIBILITY: hidden; POSITION: absolute; TOP: 127px;}
+#menu2{	Z-INDEX: 100; LEFT: 379px; VISIBILITY: hidden; POSITION: absolute; TOP: 127px;}
+#menu3{	Z-INDEX: 100; LEFT: 491px; VISIBILITY: hidden; POSITION: absolute; TOP: 127px;}
+#menu4{	Z-INDEX: 100; LEFT: 599px; VISIBILITY: hidden; POSITION: absolute; TOP: 127px;}      
+#menu5{ Z-INDEX: 100; LEFT: 656px; VISIBILITY: hidden; POSITION: absolute; TOP: 127px;}
+#mdrop1{ Z-INDEX: 200; LEFT: 223px; VISIBILITY: hidden; POSITION: absolute; TOP: 144px;}
+#mdrop2{ Z-INDEX: 200; LEFT: 343px; VISIBILITY: hidden; POSITION: absolute; TOP: 144px;}
+#mdrop3{ Z-INDEX: 200; LEFT: 453px; VISIBILITY: hidden; POSITION: absolute; TOP: 144px;}
+#mdrop4{ Z-INDEX: 200; LEFT: 526px; VISIBILITY: hidden; POSITION: absolute; TOP: 144px;}
+#mdrop5{ Z-INDEX: 200; LEFT: 639px; VISIBILITY: hidden; POSITION: absolute; TOP: 144px;}
+#mitems1{ Z-INDEX: 300; LEFT: 223px; VISIBILITY: hidden; POSITION: absolute; TOP: 144px;}
+#mitems2{ Z-INDEX: 300; LEFT: 343px; VISIBILITY: hidden; POSITION: absolute; TOP: 144px;}
+#mitems3{ Z-INDEX: 300; LEFT: 453px; VISIBILITY: hidden; POSITION: absolute; TOP: 144px;}
+#mitems4{ Z-INDEX: 300; LEFT: 526px; VISIBILITY: hidden; POSITION: absolute; TOP: 144px;}
+#mitems5{ Z-INDEX: 300; LEFT: 639px; VISIBILITY: hidden; POSITION: absolute; TOP: 144px;}

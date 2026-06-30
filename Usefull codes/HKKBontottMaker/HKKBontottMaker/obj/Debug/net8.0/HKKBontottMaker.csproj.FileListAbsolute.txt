@@ -1,0 +1,14 @@
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\bin\Debug\net8.0\HKKBontottMaker.exe
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\bin\Debug\net8.0\HKKBontottMaker.deps.json
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\bin\Debug\net8.0\HKKBontottMaker.runtimeconfig.json
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\bin\Debug\net8.0\HKKBontottMaker.dll
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\bin\Debug\net8.0\HKKBontottMaker.pdb
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\obj\Debug\net8.0\HKKBontottMaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\obj\Debug\net8.0\HKKBontottMaker.AssemblyInfoInputs.cache
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\obj\Debug\net8.0\HKKBontottMaker.AssemblyInfo.cs
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\obj\Debug\net8.0\HKKBontottMaker.csproj.CoreCompileInputs.cache
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\obj\Debug\net8.0\HKKBontottMaker.dll
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\obj\Debug\net8.0\refint\HKKBontottMaker.dll
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\obj\Debug\net8.0\HKKBontottMaker.pdb
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\obj\Debug\net8.0\HKKBontottMaker.genruntimeconfig.cache
+D:\MyStuff\ProgrammingOther\HKKBontottMaker\HKKBontottMaker\obj\Debug\net8.0\ref\HKKBontottMaker.dll

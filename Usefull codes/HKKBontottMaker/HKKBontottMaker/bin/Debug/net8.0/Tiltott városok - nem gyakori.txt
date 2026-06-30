@@ -1,0 +1,53 @@
+﻿11746 | A fény hajója | Raia építmény
+11747 | A Fény követe | Raia szörny
+11718 | AnCor Aryon | Színtelen kalandozó
+11724 | Az egyediség hatalma | Bufa bűbáj
+11734 | Burástya dolgozó | Elenios szörny
+11719 | Dupla élvezet | Színtelen követő
+11720 | Edralian (2026) | Színtelen követő
+11748 | Égi marsall | Raia szörny
+11738 | Energiagólem | Fairlight szörny
+11741 | Fr'ngekar demonstrátor (2026) | Leah szörny
+11729 | Fullánk (2026) | Dornodon kalandozó
+11751 | Galaktrosz (2026) | Rhatt kalandozó
+11759 | Goblin harci kiáltás (2026) | Tharr azonnali
+11760 | Goblintanya (2026) | Tharr építmény
+11739 | Gólemulett (2026) | Fairlight tárgy
+11721 | Jura park | Színtelen követő
+11725 | Koncentrált savcsapás | Chara-din azonnali
+11742 | Kotyogó motyogó | Leah szörny
+11749 | Letűnt hajnal angyala | Raia szörny
+11754 | Lohd Haven húnája | Sheran tárgy
+11755 | Lohd Haven teknőse | Sheran szörny
+11763 | Megkövült páncélos | Sheran-Leah szörny
+11743 | Mentális vámpír (2026) | Leah szörny
+11761 | Moa replikátor | Tharr szörny
+11762 | Moa torpedózápor | Tharr azonnali
+11722 | Motyogó kultivátor (2026) | Színtelen követő
+11764 | Mutáns pegazus | Raia-Chara-din szörny
+11765 | Nagy Fehér Védelmező | Raia-Sheran szörny
+11750 | Nem mind arany... | Raia azonnali
+11756 | Nyálkás savféreg | Sheran szörny
+11735 | Óvó Tercius | Elenios kalandozó
+11752 | Ozohrat utolsó csapása | Rhatt általános
+11766 | Polipolisz | Dornodon-Sheran építmény
+11726 | Psyche | Chara-din kalandozó
+11767 | Quwarg csontbárka | Dornodon-Leah építmény
+11730 | Quwarg szellem (2026) | Dornodon szörny
+11731 | Quwarg tojásgondozó (2026) | Dornodon szörny
+11732 | Rafinált Boldizsár | Dornodon kalandozó
+11736 | Révülő | Elenios kalandozó
+11723 | Sárkány úrnő (2026) | Színtelen követő
+11757 | Spinoszaurusz | Sheran szörny
+11744 | Suttogó végzet (2026) | Leah szörny
+11768 | Szellőléptű Elvatar (2026) | Elenios-Rhatt kalandozó
+11769 | Szennyezett mana | Fairlight-Dornodon bűbáj
+11733 | Szertartásmester (2026) | Dornodon szörny
+11758 | Szottyadt tariszkusz (2026) | Sheran szörny
+11740 | Sztatikus csatatér (2026) | Fairlight bűbáj
+11770 | Tengeri csikó | Elenios-Sheran szörny
+11753 | Termik gubó | Rhatt szörny
+11727 | Torz mutáns | Chara-din kalandozó
+11737 | Vadász burástya (2026) | Elenios szörny
+11745 | Vérnyúl | Leah szörny
+11728 | Xenomorf ragadozó (2026) | Chara-din szörny

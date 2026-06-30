@@ -1,0 +1,15 @@
+﻿12038 | Apróság olvasztó | Rhatt szörny
+12003 | Az első Rhatt elementál | Rhatt szörny
+12005 | Elementális permutáció | Rhatt általános
+12002 | Elemi rin (2026) | Raia szörny
+12011 | Elsődleges elementál (2026) | Színtelen követő
+12008 | Forrástörés | Fairlight azonnali
+12039 | Iszp elementál (2026) | Elenios szörny
+12004 | Légelementál idézése (2026) | Elenios általános
+12009 | Ősi idézések temploma | Színtelen építmény
+12007 | Pozitív elementál (2026) | Raia-Rhatt szörny
+12040 | Reakcióelementál (2026) | Fairlight szörny
+12013 | Szibarita | Fairlight kalandozó
+12012 | Szibarita váz (2026) | Fairlight szörny
+12006 | Védőelementál | Rhatt szörny
+12010 | Voidelementál | Rhatt szörny

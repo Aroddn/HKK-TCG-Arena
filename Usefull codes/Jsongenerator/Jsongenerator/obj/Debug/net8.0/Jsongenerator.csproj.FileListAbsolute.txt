@@ -1,0 +1,28 @@
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\bin\Debug\net8.0\Jsongenerator.exe
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\bin\Debug\net8.0\Jsongenerator.deps.json
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\bin\Debug\net8.0\Jsongenerator.runtimeconfig.json
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\bin\Debug\net8.0\Jsongenerator.dll
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\bin\Debug\net8.0\Jsongenerator.pdb
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.AssemblyInfoInputs.cache
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.AssemblyInfo.cs
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.csproj.CoreCompileInputs.cache
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.dll
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\obj\Debug\net8.0\refint\Jsongenerator.dll
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.pdb
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.genruntimeconfig.cache
+D:\MyStuff\ProgrammingOther\Jsongenerator\Jsongenerator\obj\Debug\net8.0\ref\Jsongenerator.dll
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\bin\Debug\net8.0\Jsongenerator.exe
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\bin\Debug\net8.0\Jsongenerator.deps.json
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\bin\Debug\net8.0\Jsongenerator.runtimeconfig.json
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\bin\Debug\net8.0\Jsongenerator.dll
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\bin\Debug\net8.0\Jsongenerator.pdb
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.AssemblyInfoInputs.cache
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.AssemblyInfo.cs
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.csproj.CoreCompileInputs.cache
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.dll
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\obj\Debug\net8.0\refint\Jsongenerator.dll
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.pdb
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\obj\Debug\net8.0\Jsongenerator.genruntimeconfig.cache
+D:\MyStuff\HKK TCGArena\Jsongenerator\Jsongenerator\obj\Debug\net8.0\ref\Jsongenerator.dll

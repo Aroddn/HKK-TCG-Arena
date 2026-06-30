@@ -1,0 +1,155 @@
+{
+  "11518": {
+    "id": "11518",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fejvad\u00E1szok c\u00E9he",
+        "type": "C\u00E9h",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9841\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fejvad\u00E1szok c\u00E9he",
+    "type": "C\u00E9h",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Roxat c\u00E9hei"
+  },
+  "11519": {
+    "id": "11519",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gy\u00F3gy\u00EDt\u00F3k",
+        "type": "C\u00E9h",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9849\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gy\u00F3gy\u00EDt\u00F3k",
+    "type": "C\u00E9h",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Roxat c\u00E9hei"
+  },
+  "11520": {
+    "id": "11520",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\u00CDrnokok c\u00E9he",
+        "type": "C\u00E9h",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9852\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "\u00CDrnokok c\u00E9he",
+    "type": "C\u00E9h",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Roxat c\u00E9hei"
+  },
+  "11521": {
+    "id": "11521",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Keresked\u0151k c\u00E9he",
+        "type": "C\u00E9h",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9854\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Keresked\u0151k c\u00E9he",
+    "type": "C\u00E9h",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Roxat c\u00E9hei"
+  },
+  "11522": {
+    "id": "11522",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kert\u00E9szek c\u00E9he",
+        "type": "C\u00E9h",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9855\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kert\u00E9szek c\u00E9he",
+    "type": "C\u00E9h",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Roxat c\u00E9hei"
+  },
+  "11523": {
+    "id": "11523",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kov\u00E1csok c\u00E9he",
+        "type": "C\u00E9h",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9857\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kov\u00E1csok c\u00E9he",
+    "type": "C\u00E9h",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Roxat c\u00E9hei"
+  },
+  "11524": {
+    "id": "11524",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "M\u00E9sz\u00E1rosok c\u00E9he",
+        "type": "C\u00E9h",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9863\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "M\u00E9sz\u00E1rosok c\u00E9he",
+    "type": "C\u00E9h",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Roxat c\u00E9hei"
+  },
+  "11525": {
+    "id": "11525",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "M\u0171v\u00E9szek c\u00E9he",
+        "type": "C\u00E9h",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9924\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "M\u0171v\u00E9szek c\u00E9he",
+    "type": "C\u00E9h",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Roxat c\u00E9hei"
+  },
+  "11526": {
+    "id": "11526",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tolvajok c\u00E9he",
+        "type": "C\u00E9h",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=9881\u0026behoCK=982750446e405424602bbbb89c7a664eb7988474\u0026showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tolvajok c\u00E9he",
+    "type": "C\u00E9h",
+    "cost": 0,
+    "Kieg\u00E9sz\u00EDt\u0151": "Roxat c\u00E9hei"
+  }
+}

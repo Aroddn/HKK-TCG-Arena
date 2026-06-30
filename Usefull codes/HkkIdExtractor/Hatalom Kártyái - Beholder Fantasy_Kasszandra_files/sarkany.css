@@ -1,0 +1,142 @@
+<!-- miklose a vegeig -->
+
+TD.tablejatekgomb
+{
+	BACKGROUND: url("pic/table/felsovastag2.gif") no-repeat;
+	WIDTH:200px;
+	HEIGHT:24px;
+	PADDING-BOTTOM:2px;
+	PADDING-LEFT:0px;
+	COLOR:#F7EBD6;
+	TEXT-ALIGN:center;
+	FONT-FAMILY:serif;
+	FONT-SIZE:12px;
+	FONT-VARIANT:small-caps;
+	FONT-WEIGHT:bold;
+}
+
+a.jatekgomb:link {color: #F7EBD6; }
+a.jatekgomb:visited {color: #F7EBD6; }
+a.jatekgomb:hover { color: #FFFFFF; text-decoration: underline; }
+a.jatekgomb:active {color: #F7EBD6; }
+
+TD.tablebalelvalaszto3
+{
+    BACKGROUND: url("pic/table/balelvalaszto3.gif");
+	WIDTH:15px;
+	HEIGHT:15px;
+}
+
+TD.tablejobbelvalaszto3
+{
+    BACKGROUND: url("pic/table/jobbelvalaszto3.gif");
+	WIDTH:15px;
+	HEIGHT:15px;
+}
+
+TD.tablefelsoelvalaszto3
+{
+    BACKGROUND: url("pic/table/felsoelvalaszto3.jpg") no-repeat;
+	WIDTH:15px;
+	HEIGHT:15px;
+}
+
+TD.tablekozepsoelvalaszto3
+{
+    BACKGROUND: url("pic/table/kozepsoelvalaszto3.jpg") repeat-y;
+	WIDTH:15px;
+}
+
+TD.tableelvalaszto3
+{
+    BACKGROUND: url("pic/table/elvalaszto3.jpg") repeat-x;
+	HEIGHT:15px;
+}
+
+TD.phit
+{
+  BACKGROUND: url("pic/table/tablebg.jpg");
+  COLOR:#001133;
+}
+
+INPUT.amt
+{
+  BACKGROUND: url("pic/table/tablebg.jpg");
+  COLOR:#001133;
+  TEXT-ALIGN: Center;
+<!--  BORDER-STYLE: Solid;  -->
+  BORDER-WIDTH: 0px;
+}
+
+INPUT.szam
+{
+  BACKGROUND: url("pic/main/background.jpg");
+  TEXT-ALIGN: Center;
+  BORDER-STYLE: Solid; 
+  BORDER-WIDTH: 0px;
+}
+
+.tulajdonsag
+{
+	BACKGROUND: url(pic/table/tablebgfejlec.jpg);
+	HEIGHT:16px;
+	PADDING-TOP:4px;
+	VERTICAL-ALIGN: Middle;
+        PADDING: 0px;
+        TEXT-ALIGN: Center;
+	COLOR:#F7EBD6;
+	FONT-FAMILY: Sans-Serif;
+	FONT-SIZE:12px;
+	FONT-VARIANT:small-caps;
+	FONT-WEIGHT:bold;
+}
+
+.tul2
+{
+	BACKGROUND: url(pic/table/tablebgfejlec.jpg);
+	HEIGHT:16px;
+	PADDING-TOP:4px;
+	VERTICAL-ALIGN: Middle;
+        PADDING: 4px;
+        TEXT-ALIGN: Left;
+	COLOR:#F7EBD6;
+	FONT-FAMILY: Sans-Serif;
+	FONT-SIZE:12px;
+	FONT-VARIANT:small-caps;
+	FONT-WEIGHT:bold;
+}
+
+.hotbox
+{
+        TEXT-ALIGN: Center;
+	COLOR:#F7EBD6;
+	FONT-FAMILY: Sans-Serif;
+	FONT-SIZE:10px;
+}
+
+
+SELECT.itemt
+{
+  BACKGROUND: #000000;
+  HEIGHT:16px;
+  WIDTH: 140px;
+  COLOR:#F7EBD6;
+  FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+  FONT-SIZE:12px;
+  FONT-WEIGHT:bold;
+}
+
+.fajleiras
+{
+	BACKGROUND: url("pic/table/tablebg.jpg");
+        VERTICAL-ALIGN:Top;
+	TEXT-ALIGN:left;
+	PADDING-LEFT:10px;
+	PADDING-RIGHT:10px;
+	COLOR:#291D17;
+        FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+  	FONT-SIZE:11px;
+}
+
+.miksmall { font-size : 9px;  font-family: Verdana, , Arial, Helvetica, sans-serif; }
+.miksmall { color : #F7EBD6; }

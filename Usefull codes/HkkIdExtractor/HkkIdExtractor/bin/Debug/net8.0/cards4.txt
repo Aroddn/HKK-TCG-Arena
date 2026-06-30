@@ -1,0 +1,160 @@
+﻿11698 | A feltámadás vize | Raia bűbáj
+11746 | A fény hajója | Raia építmény
+11747 | A Fény követe | Raia szörny
+11791 | A gyík lesújt (2026) | Fairlight azonnali
+11823 | A majom technikája (2026) | Chara-din-Tharr azonnali
+11817 | A moák fénykora (2026) | Tharr általános
+11801 | A Purgatórium őre | Raia szörny
+11785 | A szépség dühe (2026) | Elenios azonnali
+11718 | AnCor Aryon | Színtelen kalandozó
+11786 | Apró csodák pegazusa | Elenios szörny
+11694 | Árnylord (2026) | Leah szörny
+11724 | Az egyediség hatalma | Bufa bűbáj
+11699 | Az eretnekek felkutatása | Raia azonnali
+11802 | Az igaz hit bajnoka | Raia avatár
+11695 | Béklyózó Árny | Leah szörny
+11686 | Brutális burástya | Elenios szörny
+11807 | Brutális termik | Rhatt szörny
+11808 | Bűbájfürkészek (2026) | Rhatt szörny
+11734 | Burástya dolgozó | Elenios szörny
+11687 | Burástya kitingyűjtögető (2026) | Elenios szörny
+11702 | Butítás (2026) | Rhatt általános
+11700 | Cápaporonty | Raia szörny
+11678 | Csápmester (2026) | Chara-din szörny
+11792 | Dalarion, a viharvándor | Fairlight kalandozó
+11779 | Démoni mágia (2026) | Dornodon azonnali
+11824 | Démonsárkány | Chara-din-Dornodon szörny
+11780 | Dexter, a quwargkutató (2026) | Dornodon szörny
+11825 | Dr'akglur sárkányfatty (2026) | Dornodon-Leah szörny
+11826 | Drakolder fagyúr | Fairlight-Leah szörny
+11719 | Dupla élvezet | Színtelen követő
+11720 | Edralian (2026) | Színtelen követő
+11748 | Égi marsall | Raia szörny
+11827 | Éjsárkány (2026) | Chara-din-Leah szörny
+11828 | Elementáris savbéklyó | Chara-din-Fairlight tárgy
+11688 | Elena Merdarogh | Elenios kalandozó
+11738 | Energiagólem | Fairlight szörny
+11690 | Energiasokk | Fairlight azonnali
+11679 | Erősebb sav | Chara-din bűbáj
+11793 | Északi cirkáló | Fairlight építmény
+11829 | Fefe, a fura elf | Rhatt-Chara-din kalandozó
+11818 | Fellegvár | Tharr építmény
+11830 | Fixációs csere | Elenios-Rhatt azonnali
+11741 | Fr'ngekar demonstrátor (2026) | Leah szörny
+11729 | Fullánk (2026) | Dornodon kalandozó
+11751 | Galaktrosz (2026) | Rhatt kalandozó
+11812 | Gemina akarata (2026) | Sheran azonnali
+11710 | Goblin fürkész (2026) | Tharr szörny
+11759 | Goblin harci kiáltás (2026) | Tharr azonnali
+11711 | Goblin pengevirtuóz (2026) | Tharr szörny
+11712 | Goblin tőrkovács (2026) | Tharr szörny
+11760 | Goblintanya (2026) | Tharr építmény
+11739 | Gólemulett (2026) | Fairlight tárgy
+11819 | Hadicsel (2026) | Tharr azonnali
+11691 | Hatalomkristály (2026) | Fairlight tárgy
+11787 | Izmos burástya | Elenios szörny
+11714 | Izom vagy agy | Tharr-Fairlight azonnali
+11781 | Izzó fókusz (2026) | Dornodon bűbáj
+11721 | Jura park | Színtelen követő
+11680 | Káoszkapu (2026) | Chara-din építmény
+11813 | Kéregfaló | Sheran szörny
+11701 | Királyi adó (2026) | Raia általános
+11703 | Ködkristály | Rhatt tárgy
+11725 | Koncentrált savcsapás | Chara-din azonnali
+11705 | Körforgás (2026) | Sheran azonnali
+11742 | Kotyogó motyogó | Leah szörny
+11715 | Kreátor sejtduzzasztója | Fairlight-Sheran bűbáj
+11794 | Kultikus motiváció (2026) | Fairlight általános
+11788 | Lady Olívia macskája (2026) | Elenios szörny
+11789 | Lady Olívia tornya (2026) | Elenios építmény
+11706 | Lélekterelő | Sheran kalandozó
+11749 | Letűnt hajnal angyala | Raia szörny
+11814 | Lohd Haven (2026) | Sheran kalandozó
+11754 | Lohd Haven húnája | Sheran tárgy
+11707 | Lohd Haven kehesése | Sheran azonnali
+11708 | Lohd Haven munkaszehződése | Sheran bűbáj lapra
+11755 | Lohd Haven teknőse | Sheran szörny
+11716 | Manaszaurusz | Sheran-Elenios szörny
+11763 | Megkövült páncélos | Sheran-Leah szörny
+11796 | Megrontott lélek (2026) | Leah szörny
+11743 | Mentális vámpír (2026) | Leah szörny
+11820 | Moa agymosó (2026) | Tharr szörny
+11713 | Moa gránátvető | Tharr tárgy
+11821 | Moa őshal (2026) | Tharr szörny
+11761 | Moa replikátor | Tharr szörny
+11762 | Moa torpedózápor | Tharr azonnali
+11822 | Molekulabitorló (2026) | Tharr szörny
+11797 | Motyogó hírnök (2026) | Leah szörny
+11722 | Motyogó kultivátor (2026) | Színtelen követő
+11798 | Motyogó szerencsejátékos | Leah szörny
+11831 | Motyogólem | Leah-Fairlight szörny
+11764 | Mutáns pegazus | Raia-Chara-din szörny
+11765 | Nagy Fehér Védelmező | Raia-Sheran szörny
+11750 | Nem mind arany... | Raia azonnali
+11696 | Néma motyogó (2026) | Leah szörny
+11809 | Nihilum termik | Rhatt szörny
+11756 | Nyálkás savféreg | Sheran szörny
+11803 | Orothiel, északi fény | Raia szörny
+11799 | Ősmotyogó császár (2026) | Leah avatár
+11735 | Óvó Tercius | Elenios kalandozó
+11704 | Ozohrat megoldása (2026) | Rhatt azonnali
+11810 | Ozohrat segítsége (2026) | Rhatt azonnali
+11752 | Ozohrat utolsó csapása | Rhatt általános
+11717 | Páncéltörés | Fairlight-Sheran azonnali
+11766 | Polipolisz | Dornodon-Sheran építmény
+11726 | Psyche | Chara-din kalandozó
+11800 | Purgálás (2026) | Leah azonnali
+11767 | Quwarg csontbárka | Dornodon-Leah építmény
+11681 | Quwarg inspirátor (2026) | Dornodon szörny
+11682 | Quwarg kincstáros (2026) | Dornodon szörny
+11782 | Quwarg ősmágus (2026) | Dornodon szörny
+11683 | Quwarg rajzás (2026) | Dornodon azonnali
+11730 | Quwarg szellem (2026) | Dornodon szörny
+11731 | Quwarg tojásgondozó (2026) | Dornodon szörny
+11732 | Rafinált Boldizsár | Dornodon kalandozó
+11736 | Révülő | Elenios kalandozó
+11811 | Rhatt fénylovagja (2026) | Rhatt kalandozó
+11815 | Rücskös látógömb (2026) | Sheran szörny
+11723 | Sárkány úrnő (2026) | Színtelen követő
+11804 | Sárkánycápa | Raia szörny
+11816 | Savrengés | Sheran azonnali
+11832 | Savvérű drakolder | Fairlight-Chara-din szörny
+11805 | Solisar aurája (2026) | Raia azonnali
+11772 | Sommerthaug (2026) | Chara-din kalandozó
+11773 | Sommerthaug bárkája | Chara-din építmény
+11757 | Spinoszaurusz | Sheran szörny
+11744 | Suttogó végzet (2026) | Leah szörny
+11768 | Szellőléptű Elvatar (2026) | Elenios-Rhatt kalandozó
+11769 | Szennyezett mana | Fairlight-Dornodon bűbáj
+11733 | Szertartásmester (2026) | Dornodon szörny
+11758 | Szottyadt tariszkusz (2026) | Sheran szörny
+11740 | Sztatikus csatatér (2026) | Fairlight bűbáj
+11795 | Sztatikus gólem (2026) | Fairlight szörny
+11771 | Talizmánkovács | Színtelen kalandozó
+11770 | Tengeri csikó | Elenios-Sheran szörny
+11753 | Termik gubó | Rhatt szörny
+11833 | Termik pók | Rhatt-Sheran szörny
+11834 | Termikszaurusz | Rhatt-Sheran szörny
+11783 | Tolvajok tolvaja (2026) | Dornodon kalandozó
+11835 | Tőr vagy kölyök? | Tharr-Elenios azonnali
+11727 | Torz mutáns | Chara-din kalandozó
+11689 | Trimadillo | Elenios kalandozó
+11684 | Tsalez Lau'pez (2026) | Dornodon kalandozó
+11806 | Tűfogú cápa | Raia szörny
+11774 | Txhectl, az őskirálynő | Chara-din avatár
+11737 | Vadász burástya (2026) | Elenios szörny
+11709 | Vadonc | Sheran kalandozó
+11790 | Varázsforrás | Elenios bűbáj
+11784 | Varkaudar tűzmágus (2026) | Dornodon szörny
+11836 | Vén patás | Dornodon-Fairlight szörny
+11745 | Vérnyúl | Leah szörny
+11775 | Xenó féreg (2026) | Chara-din szörny
+11776 | Xenó neutralizátor | Chara-din szörny
+11777 | Xenó védőnyálka | Chara-din azonnali
+11778 | Xenomorf felderítő (2026) | Chara-din szörny
+11728 | Xenomorf ragadozó (2026) | Chara-din szörny
+11697 | Yaurri jégtalizmán (2026) | Leah tárgy
+11685 | Yaurri pokoltalizmán (2026) | Dornodon tárgy
+11692 | Yaurri vihartalizmán (2026) | Fairlight tárgy
+11837 | Yeti kézműves | Leah-Tharr szörny
+11693 | Zu'lit korvettje | Fairlight építmény

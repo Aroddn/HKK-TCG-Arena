@@ -1,0 +1,160 @@
+﻿11865 | A béke megőrzése (2000) | Sheran azonnali
+11866 | A Fehér Özvegy (2000) | Sheran kalandozó
+11914 | A fény oltára (2000) | Raia építmény
+11924 | A háború szele (2000) | Tharr bűbáj
+11961 | A Holtak könyve (2000) | Leah tárgy
+11995 | A jövő feltérképezése | Elenios-Fairlight bűbáj
+11878 | A megváltás ideje (2000) | Színtelen bűbáj
+11933 | A sötétség gyermeke (2000) | Chara-din szörny
+11970 | Adakozó Arteon | Raia kalandozó
+11872 | Albínó küklopsz (2000) | Tharr szörny
+11847 | Álmosító manó (2000) | Elenios szörny
+11851 | Annihiláció (2000) | Fairlight általános
+11953 | Anram Salle | Fairlight kalandozó
+11852 | Aranygólem (2000) | Fairlight szörny
+11962 | Árnyékvándor (2000) | Leah szörny
+11908 | Átokkirály (2000) | Leah kalandozó
+11954 | Az aratás ideje (2000) | Fairlight bűbáj
+11963 | Az egyediség letörése (2000) | Leah azonnali
+11859 | Az élet illúziója (2000) | Raia általános
+11930 | Az elsőszülött | Chara-din-Leah szörny
+11934 | Az ősi gonosz | Chara-din szörny
+11881 | Baghar kívánsága (2000) | Chara-din általános
+11839 | Baghar korbácsa (2000) | Chara-din tárgy
+11860 | Batkamanó (2000) | Raia szörny
+11925 | Bátor Ugnar | Tharr kalandozó
+11935 | Bazmaon (2000) | Chara-din szörny
+11920 | Bolesh, az óriáspók (2000) | Sheran szörny
+11948 | Bűbájos Borka | Elenios kalandozó
+11936 | Chloe (2000) | Chara-din kalandozó
+11915 | Császári harcmester (2000) | Raia kalandozó
+11840 | Démonfatty (2000) | Chara-din szörny
+11877 | Dezintegráció (2000) | Dornodon-Raia azonnali
+11909 | Dezintegráló sugár (2000) | Leah azonnali
+11937 | Dhojaktra (2000) | Chara-din szörny
+11955 | Dimenzionális rabság | Fairlight azonnali
+11882 | Dloin Krungas | Chara-din kalandozó
+11873 | Dobótőr (2000) | Tharr tárgy
+11902 | Drakolder eliminátor (2000) | Fairlight szörny
+11883 | Drungas gyűrűje | Chara-din tárgy
+11884 | Ében kehely (2000) | Chara-din tárgy
+11861 | Edzőterem (2000) | Raia építmény
+11867 | Egérfogó (2000) | Sheran tárgy
+11910 | Élet és halál ura (2000) | Leah szörny
+11862 | Elkötelezett (2000) | Raia kalandozó
+11894 | Élő bűbáj (2000) | Elenios bűbáj
+11895 | Emancipáció | Elenios bűbáj
+11932 | Fanfár | Bufa tárgy
+11896 | Fehérbérc temploma (2000) | Elenios építmény
+11843 | Fekete lovag (2000) | Dornodon kalandozó
+11841 | Fertőzött manonc (2000) | Chara-din szörny
+11984 | Gaddar (2000) | Tharr kalandozó
+11985 | Gárdakapitány (2000) | Tharr kalandozó
+11874 | Garokkmorfálás | Tharr azonnali
+11976 | Gemina (2000) | Sheran kalandozó
+11921 | Gigantoszaurusz (2000) | Sheran szörny
+11853 | Gigi (2000) | Fairlight kalandozó
+11854 | Gnóm varázsló (2000) | Fairlight kalandozó
+11926 | Gránit obeliszk | Tharr építmény
+11927 | Hadicsel (2000) | Tharr azonnali
+11964 | Halálmester (2000) | Leah kalandozó
+11971 | Harbringer | Raia kalandozó
+11868 | Hártyás lemúr (2000) | Sheran szörny
+11897 | Hendiala ajándéka | Elenios bűbáj
+11863 | Hirwendis (2000) | Raia kalandozó
+11855 | Holdkeleti quwarg (2000) | Leah szörny
+11965 | Holtak serege (2000) | Leah általános
+11864 | Homoksárkány (2000) | Raia szörny
+11875 | Horpadt sisak (2000) | Tharr tárgy
+11972 | Hran-hyo-lin császárnő (2000) | Raia kalandozó
+11973 | Idéző szertartás | Raia bűbáj
+11848 | Igazlátó prófétanő | Elenios kalandozó
+11885 | Irtóztató fatty (2000) | Chara-din szörny
+11916 | Isteni harag (2000) | Raia általános
+11938 | Káoszmonolit | Chara-din építmény
+11939 | Kapzsi Drungas király | Chara-din kalandozó
+11949 | Kasszandra | Elenios kalandozó
+11886 | Kisebb káoszsújtás (2000) | Chara-din azonnali
+11876 | Kobold (2000) | Tharr szörny
+11903 | Kóbor villám (2000) | Fairlight azonnali
+11986 | Kovácskirály | Tharr kalandozó
+11950 | Lady Olívia álma | Elenios általános
+11966 | Lápi rém (2000) | Leah szörny
+11977 | Levatan (2000) | Sheran kalandozó
+11941 | Lyx-daik-i boszorkány (2000) | Dornodon kalandozó
+11942 | Maedin (2000) | Dornodon avatár
+11987 | Magányos küklopsz (2000) | Tharr szörny
+11844 | Mágikus bőr (2000) | Dornodon azonnali
+11978 | Magszim gigász (2000) | Sheran szörny
+11997 | Mamutlovas | Sheran-Tharr szörny
+11992 | Martian tanítványa | Chara-din-Sheran szörny
+11879 | Mászás | Színtelen szakértelem
+11856 | Megrontott lélek (2000) | Leah szörny
+11880 | Megvilágosodás | Színtelen szintlépés
+11979 | Melkon (2000) | Sheran kalandozó
+11956 | Méonech fürkész (2000) | Fairlight szörny
+11980 | Méregelementál (2000) | Sheran szörny
+11898 | Mértéktelen mulatozás | Elenios azonnali
+11904 | Mestermágus (2000) | Fairlight kalandozó
+11943 | Mestertolvaj (2000) | Dornodon kalandozó
+11967 | Mimich, a háromszemű (2000) | Leah szörny
+11899 | Mókamester (2000) | Elenios szörny
+11911 | Morgan aurája (2000) | Leah bűbáj
+11912 | Morgan sóhaja (2000) | Leah azonnali
+11838 | Művészet szakértelem | Színtelen szakértelem
+11917 | Naplovag (2000) | Raia kalandozó
+11845 | Nebulon | Dornodon kalandozó
+11968 | Nekrolovag Fezmin | Leah kalandozó
+11996 | Nekrolovag nagymester | Leah-Raia kalandozó
+11974 | Nyugati holdsárkány (2000) | Raia szörny
+11981 | Óriás lámpáshal (2000) | Sheran szörny
+11944 | Ork hadisámán (2000) | Dornodon szörny
+11945 | Piromancer (2000) | Dornodon szörny
+11900 | Pletykafészek (2000) | Elenios építmény
+11931 | Professzor Zorkpatrix (2000) | Színtelen kalandozó
+11951 | Pszionikus bilincs (2000) | Elenios bűbáj
+11946 | Quwarg kaptárúr (2000) | Dornodon szörny
+11994 | Quwarg lidérc (2000) | Dornodon-Leah szörny
+11888 | Quwarg örömlány (2000) | Dornodon szörny
+11889 | Quwarg szertartás (2000) | Dornodon bűbáj
+11890 | Quwarg tojóünnep | Dornodon általános
+11846 | Quwarg tűzköpő (2000) | Dornodon szörny
+11918 | Raia főpapja (2000) | Raia kalandozó
+11940 | Roante | Chara-din kalandozó
+11849 | Rynthus (2000) | Elenios kalandozó
+11850 | Sárkányfőnix (2000) | Elenios szörny
+11922 | Sheran ékköve (2000) | Sheran tárgy
+11919 | Sir Prat tudása (2000) | Raia általános
+11869 | Slhoss'mgoss | Sheran kalandozó
+11947 | Suttyogó Settye | Dornodon kalandozó
+11975 | Szélmalom | Raia építmény
+11957 | Szerencsetalizmán (2000) | Fairlight tárgy
+11891 | Szertartásmester (2000) | Dornodon szörny
+11928 | Sziklabehemót (2000) | Tharr szörny
+11952 | Szirén gésa (2000) | Elenios szörny
+11905 | Szörnykereskedő | Fairlight szörny
+11958 | Sztatikus csatatér (2000) | Fairlight bűbáj
+11988 | Tárnaváros lezárása | Tharr általános
+11989 | Tartalékok felhalmozása | Tharr azonnali
+11870 | Tébolyodott druida | Sheran kalandozó
+11929 | Tenyészgödör | Chara-din-Dornodon tárgy
+11892 | Tirranda (2000) | Dornodon kalandozó
+11990 | Törpe bánya (2000) | Tharr építmény
+11982 | Triceratopsz (2000) | Sheran szörny
+11913 | Troll sámán (2000) | Leah kalandozó
+11893 | Tűzgólem (2000) | Dornodon szörny
+11983 | Vadászles | Sheran építmény
+11857 | Vámpíreledel (2000) | Leah szörny
+11969 | Vámpírsárkány (2000) | Leah szörny
+11993 | Varkaudar kardtáncos (2000) | Dornodon-Elenios kalandozó
+11842 | Védtelen elme (2000) | Chara-din azonnali
+11906 | Végső mentsvár (2000) | Fairlight azonnali
+11858 | Vérvadász (2000) | Leah szörny
+11907 | Villámcsapda (2000) | Fairlight bűbáj
+11959 | Villámhárító (2000) | Fairlight tárgy
+11871 | Vízimanó (2000) | Sheran szörny
+11991 | Yelina Warwick | Tharr kalandozó
+11901 | Zafír entitás (2000) | Elenios szörny
+11887 | Zinthurg csemege (2000) | Chara-din szörny
+11923 | Zöld üvegcse | Sheran tárgy
+11960 | Zu'lit kastélya (2000) | Fairlight építmény

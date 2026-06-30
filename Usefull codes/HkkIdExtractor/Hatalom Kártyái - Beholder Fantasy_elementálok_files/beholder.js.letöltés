@@ -1,0 +1,70 @@
+bgf=new Image(); bgf.src="pic/main/bgfelso.jpg";
+logooff=new Image(120,168); logooff.src="pic/main/logobeholderoff.jpg";
+bgbf=new Image(); bgbf.src="pic/main/login.png";
+
+function picedit(prefix,image){
+ window.open('http://www.hatterkep.hu/picedit/upload.phtml?image='+image+'&prefix='+prefix,'picedit','toolbar=no, directories=no, location=no, status=no, menubar=no, resizable=no, scrollbars=no, width=500, height=440, top=100, left=100');
+ }
+
+function openSubwin(wname,src,width,height) 
+ {
+     wpars='status=0,toolbar=0,location=0,menubar=0,directories=0,scrollbars=1,resizable=0,dependent=1,width='+width+',height='+height;
+	newwindow=window.open(src,wname,wpars);
+	if (window.focus) {newwindow.focus()}
+ } 
+
+
+function postload(){
+   if(document.images){
+      var image50=new Image(); image50.src="pic/main/logobeholderoff.jpg";
+      var image51=new Image(); image51.src="pic/main/belepes-on.jpg";
+      var image52=new Image(); image52.src="pic/main/regisztracio-on.jpg";
+      var image53=new Image(); image53.src="pic/menu/menu-jatekok-tulelokfoldje.png";
+      var image54=new Image(); image54.src="pic/menu/menu-jatekok-osokvarosa.png";
+      var image55=new Image(); image55.src="pic/menu/menu-jatekok-kalandokfoldje.png";
+      var image56=new Image(); image56.src="pic/menu/menu-jatekok-sarkanyolo.png";
+      var image57=new Image(); image57.src="pic/menu/menu-jatekok-hatalomkartyai.png";
+      var image58=new Image(); image58.src="pic/menu/menu-jatekok-kaoszgalaktika.png";
+
+      var image60=new Image(); image60.src="pic/menu/menu-konyvesbolt-ujdonsagok.png";
+      var image62=new Image(); image62.src="pic/menu/menu-konyvesbolt-beholderkonyvek.png";
+      var image63=new Image(); image63.src="pic/menu/menu-konyvesbolt-kartyak.png";
+      var image64=new Image(); image64.src="pic/menu/menu-konyvesbolt-magazinok.png";
+      var image65=new Image(); image65.src="pic/menu/menu-konyvesbolt-jatekkiegeszitok.png";
+
+      var image70=new Image(); image70.src="pic/menu/menu-olvasnivalo-konyvreszletek.png";
+      var image71=new Image(); image71.src="pic/menu/menu-olvasnivalo-alanorikronika.png";
+      var image72=new Image(); image72.src="pic/menu/menu-olvasnivalo-shadowrun.png";
+      var image73=new Image(); image73.src="pic/menu/menu-olvasnivalo-battletech.png";
+      var image74=new Image(); image74.src="pic/menu/menu-olvasnivalo-novellak.png";
+      var image75=new Image(); image75.src="pic/menu/menu-olvasnivalo-iroink.png";
+      var image76=new Image(); image76.src="pic/menu/menu-olvasnivalo-sorozataink.png";
+
+      var image80=new Image(); image80.src="pic/menu/menu-egyeb-forum.png";
+      var image81=new Image(); image81.src="pic/menu/menu-egyeb-galeria.png";
+      var image82=new Image(); image82.src="pic/menu/menu-egyeb-letoltes.png";
+      var image83=new Image(); image83.src="pic/menu/menu-egyeb-beallitasok.png";
+      var image84=new Image(); image84.src="pic/menu/menu-egyeb-szamlainformaciok.png";
+
+      var image90=new Image(); image90.src="pic/menu/menu-beholder-acegrol.png";
+      var image91=new Image(); image91.src="pic/menu/menu-beholder-elerhetosegeink.png";
+      var image92=new Image(); image92.src="pic/menu/menu-beholder-partnereink.png";
+      var image93=new Image(); image93.src="pic/menu/menu-beholder-honlapunkrol.png";
+   }
+}
+
+function changeimage(imgid,imgsrc){ obj=document.getElementById(imgid); obj.src=imgsrc;}
+function newbox(url){ window.open(url,'subablak','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=no,width=550,height=340');}
+function li2(text){ document.write('<table cellspacing=0 cellpadding=0><tr><td valign=top><IMG SRC="pic/main/li.gif">&nbsp;</td><td>'+text+'</td></tr></table>');}
+function li2pnagyalatt(text){ document.write('<table cellspacing=0 cellpadding=0><tr><td width=45>&nbsp;</td><td valign=top><IMG SRC="pic/main/li.gif">&nbsp;</td><td>'+text+'</td></tr></table>');}
+function li(height){ document.write('<IMG SRC="pic/main/li.gif"'); if(height) document.write(' HEIGHT='+height); document.write(' VALIGN=MIDDLE> ');}
+function lipnagyalatt(height){ document.write('<p class=lipnagyalattelott> <IMG SRC="pic/main/li.gif"'); if(height) document.write(' HEIGHT='+height); document.write('> ');}
+function hr(){ document.write('<p ALIGN=CENTER>* * *<p>');}
+function felsorol2szintkezd(text){ document.write('<table><tr><td valign=top><img src="pic/main/li.gif"></td><td colspan=2><b>'+text+'</b></td></tr><tr><td></td><td>&nbsp;&nbsp;</td><td>');}
+function felsorol2szintend(){ document.write('</td></tr></table>');}
+function ShadowStyle(txt,usr){ document.write('<P ALIGN=CENTER STYLE="FONT-SIZE: 13px;\">&gt;&gt;&gt;&gt;&gt;'+txt+'&lt;&lt;&lt;&lt;&lt;<BR>- '+usr+'</P>');}
+   
+function openBrWindow(theURL,winName,features)
+ {
+  window.open(theURL,winName,features);
+ }

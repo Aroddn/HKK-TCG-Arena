@@ -1,0 +1,14 @@
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\bin\Debug\net8.0\HkkIdExtractor.exe
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\bin\Debug\net8.0\HkkIdExtractor.deps.json
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\bin\Debug\net8.0\HkkIdExtractor.runtimeconfig.json
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\bin\Debug\net8.0\HkkIdExtractor.dll
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\bin\Debug\net8.0\HkkIdExtractor.pdb
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.AssemblyInfoInputs.cache
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.AssemblyInfo.cs
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.csproj.CoreCompileInputs.cache
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.dll
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\refint\HkkIdExtractor.dll
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.pdb
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.genruntimeconfig.cache
+D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\ref\HkkIdExtractor.dll

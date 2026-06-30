@@ -1,0 +1,68 @@
+var supportURL = "https://support.beholder.hu/"
+// var supportURL = "http://localhost/ugyfel/"
+if ( typeof supportVars == "undefined"){
+	var supportVars = new Array();
+}
+$(document).ready(function () {
+	if(javaIsset(supportVars["game"])){
+		if(!javaIsset($.cookie("supportGetMSG"))){
+			$.cookie("supportGetMSG", 0);
+		} 
+		if(!javaIsset($.cookie("supportSelf"))){
+			$.cookie("supportSelf", 0);
+		}
+		
+		if(parseInt($.cookie("supportGetMSG"))){
+			$("#supportLink").attr({"style":"color:red;"});
+		}
+		if(false && $.cookie("supportSelf") < Date.parse(Date()) - 5*60*1000 && !parseInt($.cookie("supportGetMSG"))){
+			$.cookie("supportSelf", Date.parse(Date()));
+			var obj = {type:"msgCHK",
+				game:supportVars["game"],
+				language:supportVars["language"],
+				world:supportVars["world"],
+				user:supportVars["user"],
+				userID:supportVars["userID"],
+				IDENTIFY:supportVars["IDENTIFY"]};
+			$.post(supportURL+"gr7TssD432Br/post.php", obj, function(data){
+				$.cookie("supportGetMSG", 0);
+				var answer = data.split("/##/");
+				if(answer[0].substr(-6,6) == 'msgNum' && parseInt(answer[1]) > 0){
+					$.cookie("supportGetMSG", 1);
+					$("#supportLink").attr({"style":"color:red;"});
+				}else if(answer[0].substr(-6,6) == 'msgNum' && parseInt(answer[1]) == 0){
+					$.cookie("supportGetMSG", 0);
+					$("#supportLink").attr({"style":""});
+				}
+			});
+		}
+	}
+});
+
+function CallSupport() {
+	$.cookie("supportSelf", Date.parse(Date()));
+	var obj = {type:"msgCHK",
+		game:supportVars["game"],
+		language:supportVars["language"],
+		world:supportVars["world"],
+		user:supportVars["user"],
+		userID:supportVars["userID"],
+		IDENTIFY:supportVars["IDENTIFY"]};
+	$.post(supportURL+"gr7TssD432Br/post.php", obj, function(data){
+		$.cookie("supportGetMSG", 0);
+		var answer = data.split("/##/");
+		if(answer[0].substr(-6,6) == 'msgNum' && parseInt(answer[1]) > 0){
+			$.cookie("supportGetMSG", 1);
+			$("#supportLink").attr({"style":"color:red;"});
+		}else if(answer[0].substr(-6,6) == 'msgNum' && parseInt(answer[1]) == 0){
+			$.cookie("supportGetMSG", 0);
+			$("#supportLink").attr({"style":""});
+		}
+	});
+}
+function javaIsset(variable){
+	if ( typeof variable !== "undefined") {
+		return 1;
+	}
+	return 0;
+}
