@@ -74,7 +74,7 @@
           "name": "Plusz egy token",
           "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/%2B1.png"
         },
-		{
+        {
           "id": "Minusz egy",
           "name": "Minusz egy token",
           "image": "https://raw.githubusercontent.com/Aroddn/HKK-TCG-Arena/refs/heads/main/Token/-1.png"
@@ -105,10 +105,10 @@
         "customSections": [
           "Őrposzt",
           "Követő",
-          "Reakciócsata",
+          "Extra",
           "Tartalék",
-          "Építmény",
-          "Bűbáj",
+          "TokenDiscard",
+          "Egyéb",
           "Szabálylap"
         ],
         "layout": {
@@ -136,7 +136,7 @@
                   "style": false
                 },
                 {
-                  "section": "Reakciócsata",
+                  "section": "Extra",
                   "style": {
                     "width": "40vh"
                   }
@@ -149,7 +149,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "Bűbáj",
+                  "section": "Egyéb",
                   "style": {
                     "width": "40vh"
                   }
@@ -159,7 +159,7 @@
                   "style": false
                 },
                 {
-                  "section": "Építmény",
+                  "section": "TokenDiscard",
                   "style": {
                     "width": "40vh"
                   }
@@ -172,7 +172,7 @@
         "categoriesAlreadyOnBoard": [
           "Követő",
           "Szabálylap",
-          "Reakciócsata"
+          "Extra"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
@@ -345,56 +345,56 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Reakciócsata": {
-            "title": "Reakciócsata",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Építmény": {
-            "title": "Építmény",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Bűbáj": {
-            "title": "Bűbáj",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Szabálylap": {
             "title": "Szabálylap",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Extra": {
+            "title": "Extra",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Egyéb": {
+            "title": "Egyéb",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "TokenDiscard": {
+            "title": "TokenDiscard",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
