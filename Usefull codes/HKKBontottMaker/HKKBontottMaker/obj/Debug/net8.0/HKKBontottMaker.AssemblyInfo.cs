@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HKKBontottMaker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e18a3b89e44f131a681703d3d4a176c0d387573")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa8cc414b5116aaddf0575a77875ca06b6c851a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("HKKBontottMaker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HKKBontottMaker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
