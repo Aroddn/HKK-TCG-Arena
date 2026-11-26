@@ -1,3 +1,5 @@
 Data for playing HKK on TCG-Arena
 
 https://tcg-arena.fr/load/aHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGQXJvZGRuJTJGSEtLLVRDRy1BcmVuYSUyRnJlZnMlMkZoZWFkcyUyRm1haW4lMkZHYW1lX0hLSy5qc29u
+
+https://tcg-arena.fr/load/aHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGQXJvZGRuJTJGSEtLLVRDRy1BcmVuYSUyRm1haW4lMkZHYW1lX0hLSy5qc29u
