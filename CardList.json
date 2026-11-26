@@ -200339,7 +200339,6 @@
     "cost": 0,
     "Kiegészítő": "Egyéb"
   },
-  {
   "11883": {
     "id": "11883",
     "isToken": false,
@@ -201019,9 +201018,7 @@
     "type": "Lény",
     "cost": 0,
     "Kiegészítő": "Lovagi torna"
-  }
-},
-{
+  },
   "11976": {
     "id": "11976",
     "isToken": false,
@@ -202161,5 +202158,4 @@
     "cost": 0,
     "Kiegészítő": "Lovagi torna"
   }
-}
 }

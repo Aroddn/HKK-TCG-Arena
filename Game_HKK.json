@@ -102,22 +102,12 @@
       ],
       "hideFacedDownCards": false,
       "sections": {
-        "customSections": [
-          "Őrposzt",
-          "Követő",
-          "Extra",
-          "Tartalék",
-          "TokenDiscard",
-          "Egyéb",
-          "Szabálylap"
-        ],
         "layout": {
           "direction": "column",
           "isSymmetricalForOpponents": false,
           "content": [
             {
               "direction": "row",
-              "style": false,
               "content": [
                 {
                   "section": "Követő",
@@ -132,8 +122,7 @@
                   }
                 },
                 {
-                  "section": "Őrposzt",
-                  "style": false
+                  "section": "Őrposzt"
                 },
                 {
                   "section": "Extra",
@@ -146,7 +135,6 @@
             },
             {
               "direction": "row",
-              "style": false,
               "content": [
                 {
                   "section": "Egyéb",
@@ -155,8 +143,7 @@
                   }
                 },
                 {
-                  "section": "Tartalék",
-                  "style": false
+                  "section": "Tartalék"
                 },
                 {
                   "section": "TokenDiscard",
@@ -186,7 +173,7 @@
             "autoPayFrom": true,
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noAutoPayTo": false,
             "displayedTitle": "",
             "noQuickActions": false,
@@ -204,7 +191,7 @@
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "noAutoPayTo": true,
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
@@ -220,7 +207,7 @@
             "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noAutoPayTo": false,
             "displayedTitle": "",
             "noQuickActions": false,
@@ -233,12 +220,12 @@
             "isDefaultSection": true,
             "title": "Stack",
             "isHidden": "no",
-            "height": "HUGE",
+            "height": 30,
             "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "displayedTitle": "Pile",
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noAutoPayTo": false,
             "noQuickActions": false,
             "enterTapped": false,
@@ -256,7 +243,7 @@
             "isGroupForbidden": true,
             "noAutoPayTo": true,
             "displayedTitle": "Removed",
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -273,7 +260,7 @@
             "isGroupForbidden": true,
             "noAutoPayTo": true,
             "displayedTitle": "Removed hidden",
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -288,7 +275,7 @@
             "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noAutoPayTo": false,
             "displayedTitle": "",
             "noQuickActions": false,
@@ -302,7 +289,7 @@
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "",
@@ -318,7 +305,7 @@
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
@@ -334,7 +321,7 @@
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
@@ -350,7 +337,7 @@
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
@@ -366,7 +353,7 @@
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
@@ -382,7 +369,7 @@
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
@@ -398,7 +385,7 @@
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
