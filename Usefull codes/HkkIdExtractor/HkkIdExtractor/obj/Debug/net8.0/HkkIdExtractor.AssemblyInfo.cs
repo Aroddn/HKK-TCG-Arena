@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HkkIdExtractor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa8cc414b5116aaddf0575a77875ca06b6c851a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f1bb111b9bbea66668cff28bd3cbcca56500a40")]
 [assembly: System.Reflection.AssemblyProductAttribute("HkkIdExtractor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HkkIdExtractor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

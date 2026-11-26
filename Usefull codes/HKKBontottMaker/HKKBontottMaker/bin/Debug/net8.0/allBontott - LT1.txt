@@ -1,32 +1,38 @@
+1 Zu'lit familiárisa (2027)
 3 Háborús vészhelyzet
-2 Kőgólem (2027)
 2 Halálzóna
 2 Fagyasztó érintés
-2 Pirkitgólem (2027)
-2 Orgling hős (2027)
 2 Erősödő motyogás
-2 Acélgólem (2027)
 2 Nuk uzsorája (2027)
 2 Végső feledés (2027)
-2 Varkaudar vajákos (2027)
-2 Rughar erszénye (2027)
 1 Sorvasztó érintés (2027)
-1 Ifjú tolvaj
-1 Mestermágus (2027)
-1 Szerencsegaras
-1 Éhező bestia (2027)
 1 Mágikus fagyasztás
-1 A torzak hercege (2027)
-1 Az Éjtorony mágusa (2027)
-1 Jégmester
-1 Phukhi (2027)
-1 Maedhros kedvence (2027)
-1 Fürge manó (2027)
-1 Yeti mágus (2027)
-1 Rhatt kisebb bajnoka (2027)
-1 Avatáridéző
 1 Feltépett sebek
 1 A béke kezdete
+1 Lélekenergia kinyerése (2027)
+1 Sheran áldása (2027)
+1 Méregfélelem (2027)
+1 Napkirály hálája (2027)
+1 Quwarg méreg (2027)
+1 Nyálkás savcsóva
+1 Thu'zad fortélya
+1 Végső rothadás
+2 Yeti mágus (2027)
+1 Viaszgólem (2027)
+2 Kőgólem (2027)
+2 Pirkitgólem (2027)
+2 Orgling hős (2027)
+2 Acélgólem (2027)
+2 Varkaudar vajákos (2027)
+1 Ifjú tolvaj
+1 Mestermágus (2027)
+1 Éhező bestia (2027)
+1 Az Éjtorony mágusa (2027)
+1 Jégmester
+1 Maedhros kedvence (2027)
+1 Fürge manó (2027)
+1 Rhatt kisebb bajnoka (2027)
+1 Avatáridéző
 1 Ómang, a veszedelmes
 1 Orgling disznó (2027)
 1 Elenios lovagnője (2027)
@@ -34,26 +40,26 @@
 1 Leah halállovagja (2027)
 1 Perta pegazusa
 1 Daes Mo'ran (2027)
-1 Lélekenergia kinyerése (2027)
-1 Mágusiskola, 1. szint (2027)
-1 Sheran áldása (2027)
-1 Méregfélelem (2027)
 1 Hártyás Lemúr (2027)
-1 Napkirály hálája (2027)
-1 Goblin kristály
-1 Quwarg méreg (2027)
 1 Krónikaőr (2027)
 1 Dúvad (2027)
-1 Nyálkás savcsóva
-1 Thu'zad fortélya
-1 Manabomba
 1 Dharosz apródja (2027)
 1 Sárkányfióka (2027)
-1 Ametiszt fókuszkristály (2027)
 1 Kalimász (2027)
 1 Raia kereszteslovagja (2027)
-1 Smaragd fókuszkristály (2027)
-1 Végső rothadás
-1 Berill fókuszkristály (2027)
 1 Sárkányfőnix (2027)
 1 Varkaudar törzsfőnök
+2 Rughar erszénye (2027)
+1 Szerencsegaras
+1 Goblin kristály
+1 Manabomba
+1 Ametiszt fókuszkristály (2027)
+1 Smaragd fókuszkristály (2027)
+1 Berill fókuszkristály (2027)
+1 A torzak hercege (2027)
+1 Phukhi (2027)
+1 Mágusiskola, 1. szint (2027)
+1 Újrakeverés
+1 Idézés (2025)
+1 Kör végi lap
+Sideboard:

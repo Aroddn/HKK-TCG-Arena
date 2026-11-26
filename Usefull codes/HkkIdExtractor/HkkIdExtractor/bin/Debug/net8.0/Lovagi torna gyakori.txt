@@ -1,0 +1,40 @@
+﻿12263 | A béke kezdete | Raia azonnali
+12254 | Acélgólem (2027) | Fairlight szörny
+12264 | Alanori Krónika (2027) | Raia tárgy
+12267 | Ametiszt fókuszkristály (2027) | Rhatt tárgy
+12241 | Avatáridéző | Színtelen szörny
+12268 | Dharosz apródja (2027) | Rhatt kalandozó
+12251 | Éhező bestia (2027) | Elenios szörny
+12258 | Erősödő motyogás | Leah bűbáj
+12277 | Ezüstgólem (2027) | Tharr szörny
+12259 | Fagyasztó érintés | Leah azonnali
+12247 | Feltépett sebek | Dornodon azonnali
+12278 | Háborús vészhelyzet | Tharr bűbáj
+12260 | Halálzóna | Leah bűbáj
+12272 | Hártyás Lemúr (2027) | Sheran szörny
+12248 | Ifjú tolvaj | Dornodon kalandozó
+12255 | Kőgólem (2027) | Fairlight szörny
+12265 | Lovaggá ütés (2027) | Raia általános
+12269 | Magmarobbanás (2027) | Rhatt azonnali
+12242 | Mágusiskola, 1. szint (2027) | Színtelen építmény
+12279 | Manabomba | Tharr tárgy
+12243 | Manatompító | Színtelen tárgy
+12273 | Méregfélelem (2027) | Sheran bűbáj
+12256 | Mestermágus (2027) | Fairlight kalandozó
+12266 | Napkirály hálája (2027) | Raia azonnali
+12249 | Nuk uzsorája (2027) | Dornodon azonnali
+12252 | Ómang, a veszedelmes | Elenios szörny
+12244 | Orgling disznó (2027) | Chara-din szörny
+12245 | Orgling hős (2027) | Chara-din szörny
+12250 | Pirkitgólem (2027) | Dornodon szörny
+12270 | Rhatt kisebb bajnoka (2027) | Rhatt kalandozó
+12257 | Rughar erszénye (2027) | Fairlight tárgy
+12253 | Sárkányfióka (2027) | Elenios szörny
+12274 | Sárkánykígyó csemete (2027) | Sheran szörny
+12275 | Savszövő | Sheran szörny
+12276 | Sheran áldása (2027) | Sheran azonnali
+12261 | Sorvasztó érintés (2027) | Leah azonnali
+12280 | Szerencsegaras | Tharr tárgy
+12271 | Vándor, a tündöklő (2027) | Rhatt szörny
+12246 | Végső feledés (2027) | Chara-din azonnali
+12262 | Yeti mágus (2027) | Leah szörny

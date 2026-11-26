@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 
-string gyakori = File.ReadAllText("Lovagi torna - gyakori.txt");
-string nemGyakori = File.ReadAllText("Lovagi torna - nem gyakori.txt");
-string ritka = File.ReadAllText("Lovagi torna - ritka.txt");
+string gyakori = File.ReadAllText("Lovagi torna gyakori.txt");
+string nemGyakori = File.ReadAllText("Lovagi torna nem gyakori.txt");
+string ritka = File.ReadAllText("Lovagi torna ritka.txt");
 List<string> allBontott = new();
 
 Random rng = new();
@@ -48,4 +48,4 @@ var lines = allBontott
     .OrderByDescending(g => g.Count())
     .Select(g => $"{g.Count()} {g.Key}");
 
-File.WriteAllLines("allBontott - LT1.txt", lines);
+File.WriteAllLines("allBontott - LT4.txt", lines);

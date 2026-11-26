@@ -1,0 +1,67 @@
+﻿12393 | A butaság terjedése (2027) | Tharr általános
+12365 | A felejtés harcosa (2027) | Leah szörny
+12343 | A mytokronitok átka (2027) | Dornodon azonnali
+12366 | A vámpírok bálja (2027) | Leah azonnali
+12394 | Agyagformálás | Tharr általános
+12379 | Akvamarin fókuszkristály (2027) | Rhatt tárgy
+12380 | Anna, a tisztás védelmezője | Rhatt kalandozó
+12395 | Antimágikus goblin (2027) | Tharr szörny
+12344 | Antimágikus kastély | Dornodon építmény
+12359 | Aranymetszés (2027) | Fairlight azonnali
+12360 | Azbesztsörényű pegazus (2027) | Fairlight szörny
+12381 | Balladák könyve (2027) | Rhatt tárgy
+12335 | Bazmaon oltára | Chara-din építmény
+12387 | Beloran (2027) | Sheran avatár
+12373 | Borax király (2027) | Raia kalandozó
+12374 | Borax krónikása | Raia kalandozó
+12367 | Bundás yeti (2027) | Leah szörny
+12382 | Citrin fókuszkristály (2027) | Rhatt tárgy
+12396 | Daes Mo'ran (2027) | Tharr avatár
+12397 | Dobótőrgyár | Tharr építmény
+12361 | Ekn'koglu csöppség | Fairlight szörny
+12362 | Elemi Argon (2027) | Fairlight szörny
+12375 | Fenrir, az őrző | Raia szörny
+12351 | Főnix születik (2027) | Elenios azonnali
+12352 | Főnix tűzreinkarnátor (2027) | Elenios szörny
+12353 | Fürge manó (2027) | Elenios szörny
+12345 | Gormathion, a pokol lángja (2027) | Dornodon avatár
+12376 | Hajron | Raia kalandozó
+12388 | Jana, a kertész | Sheran kalandozó
+12336 | Karimon átka | Chara-din azonnali
+12389 | Kifejlett sárkánykígyó (2027) | Sheran szörny
+12398 | Kincskereső goblin (2027) | Tharr szörny
+12346 | Királyi orgyilkos (2027) | Dornodon kalandozó
+12390 | Kockázat nélkül nincs győzelem | Sheran azonnali
+12383 | Kristályőr (2027) | Rhatt szörny
+12347 | Landragór | Dornodon szörny
+12348 | Lélekenergia kinyerése (2027) | Dornodon azonnali
+12377 | Lovagi becsület | Raia azonnali
+12384 | Maedhros kedvence (2027) | Rhatt kalandozó
+12363 | Manaszonda (2027) | Fairlight szörny
+12337 | Martian tanítványa (2027) | Chara-din szörny
+12354 | Mentát familiárisa (2027) | Elenios szörny
+12338 | Móleon (2027) | Chara-din szörny
+12368 | Motyogó jós | Leah szörny
+12369 | Motyogó kínzómester (2027) | Leah szörny
+12391 | Nyálkás savcsóva | Sheran azonnali
+12385 | Obszidián fókuszkristály (2027) | Rhatt tárgy
+12334 | Perta, a pegazusmesternő | Színtelen kalandozó
+12386 | Pólusváltás | Rhatt azonnali
+12349 | Quwarg lávahajító | Dornodon szörny
+12370 | Re'vah sugárduzzasztó (2027) | Leah szörny
+12355 | Sárkányfőnix (2027) | Elenios szörny
+12392 | Speciális védelem (2027) | Sheran azonnali
+12356 | Szilmill bűbájmester (2027) | Elenios szörny
+12399 | Sziturena (2027) | Tharr kalandozó
+12357 | Tarka láng | Elenios szörny
+12378 | Thu'zad fortélya | Raia azonnali
+12350 | Tirranda (2027) | Dornodon kalandozó
+12339 | Tók, az orgling legenda (2027) | Chara-din szörny
+12340 | Tönhe, a füstgólem (2027) | Chara-din avatár
+12341 | Varkaudar pusztító (2027) | Chara-din szörny
+12342 | Varkaudar törzsfőnök | Chara-din szörny
+12358 | Varn Banett királynő (2027) | Elenios szörny
+12371 | Védelmező motyogó (2027) | Leah szörny
+12400 | Viaszgólem (2027) | Tharr szörny
+12372 | Yeti nagymogul (2027) | Leah szörny
+12364 | Zu'lit apró mozdulata | Fairlight azonnali
