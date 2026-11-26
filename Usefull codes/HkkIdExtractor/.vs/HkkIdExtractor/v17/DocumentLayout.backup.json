@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyStuff\\HKK-TCG-Arena\\HKK TCGArena\\HkkIdExtractor\\",
+  "WorkspaceRootPath": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HkkIdExtractor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD4F79DF-D94F-436A-9232-DF1B6945767C}|HkkIdExtractor\\HkkIdExtractor.csproj|d:\\mystuff\\hkk-tcg-arena\\hkk tcgarena\\hkkidextractor\\hkkidextractor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD4F79DF-D94F-436A-9232-DF1B6945767C}|HkkIdExtractor\\HkkIdExtractor.csproj|d:\\mystuff\\hkk egy\u00E9b\\hkk-tcg-arena\\usefull codes\\hkkidextractor\\hkkidextractor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD4F79DF-D94F-436A-9232-DF1B6945767C}|HkkIdExtractor\\HkkIdExtractor.csproj|solutionrelative:hkkidextractor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,11 +33,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MyStuff\\HKK-TCG-Arena\\HKK TCGArena\\HkkIdExtractor\\HkkIdExtractor\\Program.cs",
+              "DocumentMoniker": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HkkIdExtractor\\HkkIdExtractor\\Program.cs",
               "RelativeDocumentMoniker": "HkkIdExtractor\\Program.cs",
-              "ToolTip": "D:\\MyStuff\\HKK-TCG-Arena\\HKK TCGArena\\HkkIdExtractor\\HkkIdExtractor\\Program.cs",
+              "ToolTip": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HkkIdExtractor\\HkkIdExtractor\\Program.cs",
               "RelativeToolTip": "HkkIdExtractor\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAADiLQAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T18:53:21.002Z",
               "EditorCaption": ""

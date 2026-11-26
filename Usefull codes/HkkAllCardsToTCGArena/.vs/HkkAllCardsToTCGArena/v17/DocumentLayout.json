@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyStuff\\HKK-TCG-Arena\\HKK TCGArena\\HkkAllCardsToTCGArena\\",
+  "WorkspaceRootPath": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HkkAllCardsToTCGArena\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74F74942-9991-4806-9037-5E449B1F44C3}|HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena.csproj|d:\\mystuff\\hkk-tcg-arena\\hkk tcgarena\\hkkallcardstotcgarena\\hkkallcardstotcgarena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74F74942-9991-4806-9037-5E449B1F44C3}|HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena.csproj|solutionrelative:hkkallcardstotcgarena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74F74942-9991-4806-9037-5E449B1F44C3}|HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena.csproj|d:\\mystuff\\hkk egy\u00E9b\\hkk-tcg-arena\\usefull codes\\hkkallcardstotcgarena\\hkkallcardstotcgarena\\jsoncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F74942-9991-4806-9037-5E449B1F44C3}|HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena.csproj|solutionrelative:hkkallcardstotcgarena\\jsoncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F74942-9991-4806-9037-5E449B1F44C3}|HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena.csproj|d:\\mystuff\\hkk egy\u00E9b\\hkk-tcg-arena\\usefull codes\\hkkallcardstotcgarena\\hkkallcardstotcgarena\\hkkallcardstotcgarena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F74942-9991-4806-9037-5E449B1F44C3}|HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena.csproj|solutionrelative:hkkallcardstotcgarena\\hkkallcardstotcgarena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F74942-9991-4806-9037-5E449B1F44C3}|HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena.csproj|d:\\mystuff\\hkk egy\u00E9b\\hkk-tcg-arena\\usefull codes\\hkkallcardstotcgarena\\hkkallcardstotcgarena\\cardlist.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74F74942-9991-4806-9037-5E449B1F44C3}|HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena.csproj|solutionrelative:hkkallcardstotcgarena\\cardlist.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F74942-9991-4806-9037-5E449B1F44C3}|HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena.csproj|d:\\mystuff\\hkk egy\u00E9b\\hkk-tcg-arena\\usefull codes\\hkkallcardstotcgarena\\hkkallcardstotcgarena\\bontottmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F74942-9991-4806-9037-5E449B1F44C3}|HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena.csproj|solutionrelative:hkkallcardstotcgarena\\bontottmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MyStuff\\HKK-TCG-Arena\\HKK TCGArena\\HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena\\Program.cs",
-              "RelativeDocumentMoniker": "HkkAllCardsToTCGArena\\Program.cs",
-              "ToolTip": "D:\\MyStuff\\HKK-TCG-Arena\\HKK TCGArena\\HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena\\Program.cs",
-              "RelativeToolTip": "HkkAllCardsToTCGArena\\Program.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAowGoAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CardList.json",
+              "DocumentMoniker": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena\\CardList.json",
+              "RelativeDocumentMoniker": "HkkAllCardsToTCGArena\\CardList.json",
+              "ToolTip": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena\\CardList.json",
+              "RelativeToolTip": "HkkAllCardsToTCGArena\\CardList.json",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-26T13:07:35.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BontottMaker.cs",
+              "DocumentMoniker": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena\\BontottMaker.cs",
+              "RelativeDocumentMoniker": "HkkAllCardsToTCGArena\\BontottMaker.cs",
+              "ToolTip": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena\\BontottMaker.cs",
+              "RelativeToolTip": "HkkAllCardsToTCGArena\\BontottMaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T19:11:26.954Z",
+              "WhenOpened": "2026-11-26T13:07:33.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HkkAllCardsToTcgArena.cs",
+              "DocumentMoniker": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena\\HkkAllCardsToTcgArena.cs",
+              "RelativeDocumentMoniker": "HkkAllCardsToTCGArena\\HkkAllCardsToTcgArena.cs",
+              "ToolTip": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena\\HkkAllCardsToTcgArena.cs",
+              "RelativeToolTip": "HkkAllCardsToTCGArena\\HkkAllCardsToTcgArena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T13:07:05.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonCreator.cs",
+              "DocumentMoniker": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena\\JsonCreator.cs",
+              "RelativeDocumentMoniker": "HkkAllCardsToTCGArena\\JsonCreator.cs",
+              "ToolTip": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HkkAllCardsToTCGArena\\HkkAllCardsToTCGArena\\JsonCreator.cs",
+              "RelativeToolTip": "HkkAllCardsToTCGArena\\JsonCreator.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAIwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T12:42:43.336Z",
               "EditorCaption": ""
             }
           ]

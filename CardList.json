@@ -200338,5 +200338,1828 @@
     "type": "Tárgy",
     "cost": 0,
     "Kiegészítő": "Egyéb"
+  },
+  {
+  "11883": {
+    "id": "11883",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A béke kezdete",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12263&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A béke kezdete",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11884": {
+    "id": "11884",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Acélgólem (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12254&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Acélgólem (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11885": {
+    "id": "11885",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alanori Krónika (2027)",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12264&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alanori Krónika (2027)",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11886": {
+    "id": "11886",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ametiszt fókuszkristály (2027)",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12267&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ametiszt fókuszkristály (2027)",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11887": {
+    "id": "11887",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Avatáridéző",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12241&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Avatáridéző",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11888": {
+    "id": "11888",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dharosz apródja (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12268&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dharosz apródja (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11889": {
+    "id": "11889",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Éhező bestia (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12251&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Éhező bestia (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11890": {
+    "id": "11890",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Erősödő motyogás",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12258&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Erősödő motyogás",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11891": {
+    "id": "11891",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ezüstgólem (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12277&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ezüstgólem (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11892": {
+    "id": "11892",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fagyasztó érintés",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12259&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fagyasztó érintés",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11893": {
+    "id": "11893",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Feltépett sebek",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12247&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Feltépett sebek",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11894": {
+    "id": "11894",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Háborús vészhelyzet",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12278&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Háborús vészhelyzet",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11895": {
+    "id": "11895",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Halálzóna",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12260&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Halálzóna",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11896": {
+    "id": "11896",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hártyás Lemúr (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12272&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hártyás Lemúr (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11897": {
+    "id": "11897",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ifjú tolvaj",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12248&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ifjú tolvaj",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11898": {
+    "id": "11898",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kőgólem (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12255&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kőgólem (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11899": {
+    "id": "11899",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lovaggá ütés (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12265&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lovaggá ütés (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11900": {
+    "id": "11900",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magmarobbanás (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12269&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magmarobbanás (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11901": {
+    "id": "11901",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mágusiskola, 1. szint (2027)",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12242&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mágusiskola, 1. szint (2027)",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11902": {
+    "id": "11902",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manabomba",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12279&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manabomba",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11903": {
+    "id": "11903",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manatompító",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12243&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manatompító",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11904": {
+    "id": "11904",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Méregfélelem (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12273&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Méregfélelem (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11905": {
+    "id": "11905",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mestermágus (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12256&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mestermágus (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11906": {
+    "id": "11906",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Napkirály hálája (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12266&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Napkirály hálája (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11907": {
+    "id": "11907",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nuk uzsorája (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12249&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nuk uzsorája (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11908": {
+    "id": "11908",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ómang, a veszedelmes",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12252&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ómang, a veszedelmes",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11909": {
+    "id": "11909",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orgling disznó (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12244&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orgling disznó (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11910": {
+    "id": "11910",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orgling hős (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12245&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orgling hős (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11911": {
+    "id": "11911",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pirkitgólem (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12250&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pirkitgólem (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11912": {
+    "id": "11912",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rhatt kisebb bajnoka (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12270&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rhatt kisebb bajnoka (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11913": {
+    "id": "11913",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rughar erszénye (2027)",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12257&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rughar erszénye (2027)",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11914": {
+    "id": "11914",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sárkányfióka (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12253&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sárkányfióka (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11915": {
+    "id": "11915",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sárkánykígyó csemete (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12274&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sárkánykígyó csemete (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11916": {
+    "id": "11916",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Savszövő",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12275&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Savszövő",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11917": {
+    "id": "11917",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sheran áldása (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12276&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sheran áldása (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11918": {
+    "id": "11918",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sorvasztó érintés (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12261&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sorvasztó érintés (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11919": {
+    "id": "11919",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Szerencsegaras",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12280&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Szerencsegaras",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11920": {
+    "id": "11920",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vándor, a tündöklő (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12271&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vándor, a tündöklő (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11921": {
+    "id": "11921",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Végső feledés (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12246&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Végső feledés (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11922": {
+    "id": "11922",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yeti mágus (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12262&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yeti mágus (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
   }
+},
+{
+  "11976": {
+    "id": "11976",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A butaság terjedése (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12393&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A butaság terjedése (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11977": {
+    "id": "11977",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A felejtés harcosa (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12365&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A felejtés harcosa (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11978": {
+    "id": "11978",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A mytokronitok átka (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12343&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A mytokronitok átka (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11979": {
+    "id": "11979",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A vámpírok bálja (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12366&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "A vámpírok bálja (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11980": {
+    "id": "11980",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Agyagformálás",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12394&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Agyagformálás",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11981": {
+    "id": "11981",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akvamarin fókuszkristály (2027)",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12379&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akvamarin fókuszkristály (2027)",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11982": {
+    "id": "11982",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anna, a tisztás védelmezője",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12380&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anna, a tisztás védelmezője",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11983": {
+    "id": "11983",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Antimágikus goblin (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12395&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Antimágikus goblin (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11984": {
+    "id": "11984",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Antimágikus kastély",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12344&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Antimágikus kastély",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11985": {
+    "id": "11985",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aranymetszés (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12359&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aranymetszés (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11986": {
+    "id": "11986",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azbesztsörényű pegazus (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12360&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azbesztsörényű pegazus (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11987": {
+    "id": "11987",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Balladák könyve (2027)",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12381&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Balladák könyve (2027)",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11988": {
+    "id": "11988",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bazmaon oltára",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12335&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bazmaon oltára",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11989": {
+    "id": "11989",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beloran (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12387&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beloran (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11990": {
+    "id": "11990",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Borax király (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12373&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Borax király (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11991": {
+    "id": "11991",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Borax krónikása",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12374&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Borax krónikása",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11992": {
+    "id": "11992",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bundás yeti (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12367&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bundás yeti (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11993": {
+    "id": "11993",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Citrin fókuszkristály (2027)",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12382&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Citrin fókuszkristály (2027)",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11994": {
+    "id": "11994",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daes Mo'ran (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12396&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daes Mo'ran (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11995": {
+    "id": "11995",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dobótőrgyár",
+        "type": "Építmény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12397&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dobótőrgyár",
+    "type": "Építmény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11996": {
+    "id": "11996",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ekn'koglu csöppség",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12361&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ekn'koglu csöppség",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11997": {
+    "id": "11997",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elemi Argon (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12362&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elemi Argon (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11998": {
+    "id": "11998",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fenrir, az őrző",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12375&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fenrir, az őrző",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "11999": {
+    "id": "11999",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Főnix születik (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12351&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Főnix születik (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12000": {
+    "id": "12000",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Főnix tűzreinkarnátor (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12352&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Főnix tűzreinkarnátor (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12001": {
+    "id": "12001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fürge manó (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12353&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fürge manó (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12002": {
+    "id": "12002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gormathion, a pokol lángja (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12345&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gormathion, a pokol lángja (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12003": {
+    "id": "12003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hajron",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12376&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hajron",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12004": {
+    "id": "12004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jana, a kertész",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12388&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jana, a kertész",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12005": {
+    "id": "12005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Karimon átka",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12336&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Karimon átka",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12006": {
+    "id": "12006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kifejlett sárkánykígyó (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12389&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kifejlett sárkánykígyó (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12007": {
+    "id": "12007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kincskereső goblin (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12398&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kincskereső goblin (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12008": {
+    "id": "12008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Királyi orgyilkos (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12346&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Királyi orgyilkos (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12009": {
+    "id": "12009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kockázat nélkül nincs győzelem",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12390&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kockázat nélkül nincs győzelem",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12010": {
+    "id": "12010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kristályőr (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12383&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kristályőr (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12011": {
+    "id": "12011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Landragór",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12347&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Landragór",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12012": {
+    "id": "12012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lélekenergia kinyerése (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12348&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lélekenergia kinyerése (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12013": {
+    "id": "12013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lovagi becsület",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12377&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lovagi becsület",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12014": {
+    "id": "12014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maedhros kedvence (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12384&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maedhros kedvence (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12015": {
+    "id": "12015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manaszonda (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12363&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manaszonda (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12016": {
+    "id": "12016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Martian tanítványa (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12337&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Martian tanítványa (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12017": {
+    "id": "12017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mentát familiárisa (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12354&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mentát familiárisa (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12018": {
+    "id": "12018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Móleon (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12338&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Móleon (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12019": {
+    "id": "12019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Motyogó jós",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12368&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Motyogó jós",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12020": {
+    "id": "12020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Motyogó kínzómester (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12369&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Motyogó kínzómester (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12021": {
+    "id": "12021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nyálkás savcsóva",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12391&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nyálkás savcsóva",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12022": {
+    "id": "12022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Obszidián fókuszkristály (2027)",
+        "type": "Tárgy",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12385&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Obszidián fókuszkristály (2027)",
+    "type": "Tárgy",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12023": {
+    "id": "12023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Perta, a pegazusmesternő",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12334&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Perta, a pegazusmesternő",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12024": {
+    "id": "12024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pólusváltás",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12386&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pólusváltás",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12025": {
+    "id": "12025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quwarg lávahajító",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12349&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quwarg lávahajító",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12026": {
+    "id": "12026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Re'vah sugárduzzasztó (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12370&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Re'vah sugárduzzasztó (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12027": {
+    "id": "12027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sárkányfőnix (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12355&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sárkányfőnix (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12028": {
+    "id": "12028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Speciális védelem (2027)",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12392&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Speciális védelem (2027)",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12029": {
+    "id": "12029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Szilmill bűbájmester (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12356&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Szilmill bűbájmester (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12030": {
+    "id": "12030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sziturena (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12399&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sziturena (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12031": {
+    "id": "12031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tarka láng",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12357&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tarka láng",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12032": {
+    "id": "12032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thu'zad fortélya",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12378&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thu'zad fortélya",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12033": {
+    "id": "12033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tirranda (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12350&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tirranda (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12034": {
+    "id": "12034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tók, az orgling legenda (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12339&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tók, az orgling legenda (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12035": {
+    "id": "12035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tönhe, a füstgólem (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12340&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tönhe, a füstgólem (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12036": {
+    "id": "12036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Varkaudar pusztító (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12341&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Varkaudar pusztító (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12037": {
+    "id": "12037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Varkaudar törzsfőnök",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12342&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Varkaudar törzsfőnök",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12038": {
+    "id": "12038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Varn Banett királynő (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12358&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Varn Banett királynő (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12039": {
+    "id": "12039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Védelmező motyogó (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12371&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Védelmező motyogó (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12040": {
+    "id": "12040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viaszgólem (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12400&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Viaszgólem (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12041": {
+    "id": "12041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yeti nagymogul (2027)",
+        "type": "Lény",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12372&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yeti nagymogul (2027)",
+    "type": "Lény",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  },
+  "12042": {
+    "id": "12042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zu'lit apró mozdulata",
+        "type": "Varázslat",
+        "cost": 0,
+        "image": "https://lapkereso.hkk.hu/HKKCardImage.php?cardID=12364&behoCK=982750446e405424602bbbb89c7a664eb7988474&showedKiadas=251",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zu'lit apró mozdulata",
+    "type": "Varázslat",
+    "cost": 0,
+    "Kiegészítő": "Lovagi torna"
+  }
+}
 }

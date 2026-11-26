@@ -35,7 +35,7 @@ class Program
     {
         
 
-        string outputFile = "cards.json";
+        string outputFile = "cards lovagi gyakori.json";
         Dictionary<string, Card> cards = new Dictionary<string, Card>();
 
         // Load existing JSON if it exists
@@ -97,7 +97,7 @@ class Program
                 id = nextKey.ToString(),
                 name = name,
                 type = type,
-                Kiegészítő = "Roxat céhei",
+                Kiegészítő = "Lovagi torna",
                 face = new Face
                 {
                     front = new Front

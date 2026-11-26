@@ -1,0 +1,53 @@
+﻿12281 | A megváltás ideje (2027) | Színtelen bűbáj
+12283 | A torzak hercege (2027) | Színtelen követő
+12319 | Achát fókuszkristály (2027) | Rhatt tárgy
+12284 | Átkozott követő | Színtelen követő
+12291 | Az Éjtorony mágusa (2027) | Chara-din kalandozó
+12329 | Bátor manó (2027) | Tharr szörny
+12320 | Berill fókuszkristály (2027) | Rhatt tárgy
+12296 | Bíborfül (2027) | Dornodon kalandozó
+12321 | Blokkoló tigris (2027) | Rhatt szörny
+12308 | Borzalmasan motyogó (2027) | Leah szörny
+12289 | Bufa lovagnője (2027) | Bufa kalandozó
+12292 | Chara-din káoszlovagja (2027) | Chara-din kalandozó
+12299 | Diána (2027) | Elenios kalandozó
+12297 | Dornodon lovagnője (2027) | Dornodon kalandozó
+12293 | Dúvad (2027) | Chara-din szörny
+12300 | Elenios lovagnője (2027) | Elenios kalandozó
+12301 | Elmefacsarás (2027) | Elenios bűbáj
+12309 | Élőholt tigris (2027) | Leah szörny
+12304 | Enkala laboratóriuma (2027) | Fairlight építmény
+12305 | Fairlight állovagja (2027) | Fairlight kalandozó
+12330 | Fejvadász (2027) | Tharr kalandozó
+12324 | Fekete áspis | Sheran szörny
+12331 | Goblin kristály | Tharr tárgy
+12310 | Hullarobbanás | Leah azonnali
+12325 | Ifjú sárkánykígyó (2027) | Sheran szörny
+12302 | Izmos manó (2027) | Elenios szörny
+12313 | Jégmester | Raia kalandozó
+12332 | Kalimász (2027) | Tharr kalandozó
+12326 | Királykobra | Sheran szörny
+12314 | Krónikaőr (2027) | Raia kalandozó
+12311 | Leah halállovagja (2027) | Leah kalandozó
+12285 | Legendás pegazus (2027) | Színtelen követő
+12306 | Lohd Haven góleme | Fairlight szörny
+12307 | Lohd Haven kockája | Fairlight általános
+12315 | Mágikus fagyasztás | Raia általános
+12294 | Orgling bűzpermetező (2027) | Chara-din szörny
+12295 | Orgling mágus (2027) | Chara-din szörny
+12290 | Perta pegazusa | Bufa szörny
+12286 | Phukhi (2027) | Színtelen követő
+12327 | Quwarg méreg (2027) | Sheran azonnali
+12316 | Raia kereszteslovagja (2027) | Raia kalandozó
+12317 | Raia szent lovagja (2027) | Raia kalandozó
+12322 | Rhatt nagyobb bajnoka (2027) | Rhatt kalandozó
+12328 | Sheran békelovagja (2027) | Sheran kalandozó
+12323 | Smaragd fókuszkristály (2027) | Rhatt tárgy
+12282 | Szupermorf | Színtelen szörny
+12333 | Tharr harcos lovagja (2027) | Tharr kalandozó
+12303 | Tudati kohézió (2027) | Elenios bűbáj
+12287 | Valsirah, a tündöklő (2027) | Színtelen követő
+12298 | Varkaudar vajákos (2027) | Dornodon szörny
+12312 | Végső rothadás | Leah bűbáj
+12318 | Zarándok (2027) | Raia kalandozó
+12288 | Zu'lit familiárisa (2027) | Színtelen követő

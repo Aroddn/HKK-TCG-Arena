@@ -12,3 +12,18 @@ D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\refin
 D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.pdb
 D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.genruntimeconfig.cache
 D:\MyStuff\ProgrammingOther\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\ref\HkkIdExtractor.dll
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\bin\Debug\net8.0\HkkIdExtractor.exe
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\bin\Debug\net8.0\HkkIdExtractor.deps.json
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\bin\Debug\net8.0\HkkIdExtractor.runtimeconfig.json
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\bin\Debug\net8.0\HkkIdExtractor.dll
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\bin\Debug\net8.0\HkkIdExtractor.pdb
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.AssemblyInfoInputs.cache
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.AssemblyInfo.cs
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.csproj.CoreCompileInputs.cache
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.sourcelink.json
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.dll
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\refint\HkkIdExtractor.dll
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.pdb
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\HkkIdExtractor.genruntimeconfig.cache
+D:\MyStuff\HKK egyéb\HKK-TCG-Arena\Usefull codes\HkkIdExtractor\HkkIdExtractor\obj\Debug\net8.0\ref\HkkIdExtractor.dll

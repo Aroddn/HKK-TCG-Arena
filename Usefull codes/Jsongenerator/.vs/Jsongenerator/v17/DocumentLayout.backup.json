@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyStuff\\HKK TCGArena\\Jsongenerator\\",
+  "WorkspaceRootPath": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\Jsongenerator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41464FDC-D870-4681-8B56-F6AFB7C688EC}|Jsongenerator\\Jsongenerator.csproj|d:\\mystuff\\hkk tcgarena\\jsongenerator\\jsongenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41464FDC-D870-4681-8B56-F6AFB7C688EC}|Jsongenerator\\Jsongenerator.csproj|d:\\mystuff\\hkk egy\u00E9b\\hkk-tcg-arena\\usefull codes\\jsongenerator\\jsongenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41464FDC-D870-4681-8B56-F6AFB7C688EC}|Jsongenerator\\Jsongenerator.csproj|solutionrelative:jsongenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MyStuff\\HKK TCGArena\\Jsongenerator\\Jsongenerator\\Program.cs",
+              "DocumentMoniker": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\Jsongenerator\\Jsongenerator\\Program.cs",
               "RelativeDocumentMoniker": "Jsongenerator\\Program.cs",
-              "ToolTip": "D:\\MyStuff\\HKK TCGArena\\Jsongenerator\\Jsongenerator\\Program.cs",
+              "ToolTip": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\Jsongenerator\\Jsongenerator\\Program.cs",
               "RelativeToolTip": "Jsongenerator\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAQwFcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAA8wCQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T00:23:27.282Z",
               "EditorCaption": ""

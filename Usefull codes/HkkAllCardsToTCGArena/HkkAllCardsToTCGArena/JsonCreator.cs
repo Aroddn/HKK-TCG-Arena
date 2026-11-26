@@ -157,9 +157,9 @@ namespace HkkAllCardsToTCGArena
             };
 
             string json = JsonSerializer.Serialize(cardsDict, options);
-            File.WriteAllText("cards3.json", json, Encoding.UTF8);
+            File.WriteAllText("cards lovagi torna gyakori.json", json, Encoding.UTF8);
 
-            Console.WriteLine($"Processed {cardsDict.Count} cards into cards4.json");
+            Console.WriteLine($"Processed {cardsDict.Count} cards into cards.json");
         }
 
     }

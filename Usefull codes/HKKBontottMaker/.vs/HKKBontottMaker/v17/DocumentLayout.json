@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyStuff\\HKK-TCG-Arena\\HKK TCGArena\\HKKBontottMaker\\",
+  "WorkspaceRootPath": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HKKBontottMaker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{900BD1A3-E632-44D8-A2C8-0F0EC4AF6889}|HKKBontottMaker\\HKKBontottMaker.csproj|d:\\mystuff\\hkk-tcg-arena\\hkk tcgarena\\hkkbontottmaker\\hkkbontottmaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{900BD1A3-E632-44D8-A2C8-0F0EC4AF6889}|HKKBontottMaker\\HKKBontottMaker.csproj|d:\\mystuff\\hkk egy\u00E9b\\hkk-tcg-arena\\usefull codes\\hkkbontottmaker\\hkkbontottmaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{900BD1A3-E632-44D8-A2C8-0F0EC4AF6889}|HKKBontottMaker\\HKKBontottMaker.csproj|solutionrelative:hkkbontottmaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MyStuff\\HKK-TCG-Arena\\HKK TCGArena\\HKKBontottMaker\\HKKBontottMaker\\Program.cs",
+              "DocumentMoniker": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HKKBontottMaker\\HKKBontottMaker\\Program.cs",
               "RelativeDocumentMoniker": "HKKBontottMaker\\Program.cs",
-              "ToolTip": "D:\\MyStuff\\HKK-TCG-Arena\\HKK TCGArena\\HKKBontottMaker\\HKKBontottMaker\\Program.cs",
+              "ToolTip": "D:\\MyStuff\\HKK egy\u00E9b\\HKK-TCG-Arena\\Usefull codes\\HKKBontottMaker\\HKKBontottMaker\\Program.cs",
               "RelativeToolTip": "HKKBontottMaker\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwDIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-05T11:14:18.102Z",
               "EditorCaption": ""
